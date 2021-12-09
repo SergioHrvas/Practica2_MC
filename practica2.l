@@ -44,11 +44,13 @@ season "<span itemprop=\"numberOfSeasons\">"{digitos}+"</span>"
 pais "<a href=\"./explorar.php?pais="{digitos}+"\" class=\"e_new\">"({letrasdigitos}|{espacio})+"</a>"
 
 nota "<meta name=\"description\" content=\"Información, Trailers y Críticas | Valoración: "{digitos}{1,2}(\.{digitos})*" |"
+      
 
     char i[1000],a[1000], pais[1000];
     float puntuacion=0.0;
     int temporadas = 0;
     char aux[1000];
+
 %%
 
 {title} {
@@ -56,7 +58,7 @@ nota "<meta name=\"description\" content=\"Información, Trailers y Críticas | 
     //strcpy(a, yytext);
 
     getTitulo(yytext, i);
-    }
+}
 {season} {
     temporadas = getTemporada(yytext);
 }
@@ -69,16 +71,22 @@ nota "<meta name=\"description\" content=\"Información, Trailers y Críticas | 
 {pais} {
     getPais(yytext, pais);
 }
+
+
 %%
 int yywrap()
 {
-printf("Titulo de la serie: %s\n", i);
-printf("Temporadas: %d\n", temporadas);
-printf("Nota: %f\n", puntuacion);
-printf("Pais: %s\n", pais);
+    printf("Titulo de la serie: %s\n", i);
+    printf("Temporadas: %d\n", temporadas);
+    printf("Nota: %.1f\n", puntuacion);
+    printf("Pais: %s\n", pais);
 
-return 1;}
+    return 1;
 
+}
+int main(){
+    yylex();
+}
 
 void getTitulo(const char * texto, char *titulo){
     int terminado=0;

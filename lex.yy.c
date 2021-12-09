@@ -606,7 +606,7 @@ float getNota(const char *v){
 
 
 #line 609 "lex.yy.c"
-#line 49 "practica2.l"
+#line 50 "practica2.l"
     char i[1000],a[1000], pais[1000];
     float puntuacion=0.0;
     int temporadas = 0;
@@ -828,7 +828,7 @@ YY_DECL
 		}
 
 	{
-#line 53 "practica2.l"
+#line 55 "practica2.l"
 
 
 #line 835 "lex.yy.c"
@@ -890,24 +890,24 @@ do_action:	/* This label is used only to access EOF actions. */
 
 case 1:
 YY_RULE_SETUP
-#line 55 "practica2.l"
+#line 57 "practica2.l"
 {
     char vector[1000];
     //strcpy(a, yytext);
 
     getTitulo(yytext, i);
-    }
+}
 	YY_BREAK
 case 2:
 YY_RULE_SETUP
-#line 61 "practica2.l"
+#line 63 "practica2.l"
 {
     temporadas = getTemporada(yytext);
 }
 	YY_BREAK
 case 3:
 YY_RULE_SETUP
-#line 65 "practica2.l"
+#line 67 "practica2.l"
 {
     puntuacion=getNota(yytext);
     strcpy(aux, yytext);
@@ -915,14 +915,14 @@ YY_RULE_SETUP
 	YY_BREAK
 case 4:
 YY_RULE_SETUP
-#line 70 "practica2.l"
+#line 72 "practica2.l"
 {
     getPais(yytext, pais);
 }
 	YY_BREAK
 case 5:
 YY_RULE_SETUP
-#line 73 "practica2.l"
+#line 77 "practica2.l"
 ECHO;
 	YY_BREAK
 #line 929 "lex.yy.c"
@@ -1930,17 +1930,21 @@ void yyfree (void * ptr )
 
 #define YYTABLES_NAME "yytables"
 
-#line 73 "practica2.l"
+#line 77 "practica2.l"
 
 int yywrap()
 {
-printf("Titulo de la serie: %s\n", i);
-printf("Temporadas: %d\n", temporadas);
-printf("Nota: %f\n", puntuacion);
-printf("Pais: %s\n", pais);
+    printf("Titulo de la serie: %s\n", i);
+    printf("Temporadas: %d\n", temporadas);
+    printf("Nota: %.1f\n", puntuacion);
+    printf("Pais: %s\n", pais);
 
-return 1;}
+    return 1;
 
+}
+int main(){
+    yylex();
+}
 
 void getTitulo(const char * texto, char *titulo){
     int terminado=0;
