@@ -8,7 +8,7 @@ using namespace std;
 
 int main(){
     //curl de la pagina principal
-    system("curl -s https://playmax.mx/explorar.php | ../bin/extractorurls > tmp");
+    system("curl -s https://playmax.mx/explorar.php?start=40 | ../bin/extractorurls > tmp");
 
     ifstream file("tmp");
 
