@@ -23,6 +23,8 @@ int main(){
         comando="../bin/series < tmp2";
         
         system(comando.c_str());
+        
+        cout <<endl;
     }
     //llamar al programa lex con esa salida de antes para que detecte urls de pelis y series -> las vuelca en un archivo 
     //for de cada linea de ese archivo (enlace1, enlace2...) ejecutando el programa principal 

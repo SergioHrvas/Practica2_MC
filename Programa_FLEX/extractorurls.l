@@ -14,7 +14,7 @@ espacio " "
 url "3px;\">\n<a href=\"./"({letrasdigitos}|{caracteres})+"f"{digitos}+"\">"
 
     char i[1000];
-    
+
 %%
 
 {url} {
