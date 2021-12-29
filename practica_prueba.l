@@ -6,7 +6,6 @@
 void getTitulo(const char * texto, char * texto2);
 int getTemporada(const char * texto);
 void getPais(const char * texto, char * pais);
-void getDuracion(const char * texto, char * duracion);
 
 
 float getNota(const char *v){
@@ -46,7 +45,6 @@ season "<span itemprop=\"numberOfSeasons\">"{digitos}+"</span>"
 pais "<a href=\"./explorar.php?pais="{digitos}+"\" class=\"e_new\">"({letrasdigitos}|{espacio})+"</a>"
 nota "<meta name=\"description\" content=\"Información, Trailers y Críticas | Valoración: "{digitos}{1,2}(\.{digitos})*" |"
 
-duracion "<span itemprop=\"duration\" datetime=\""{letrasdigitos}+"\">"{digitos}+" hora"[s]{0,1}(" y "{digitos}+" minuto"[s]{0,1}){0,1}
 
     char i[1000],a[1000], pais[1000], duracion2[1000];
     float puntuacion=0.0;
@@ -70,12 +68,6 @@ duracion "<span itemprop=\"duration\" datetime=\""{letrasdigitos}+"\">"{digitos}
     strcpy(aux, yytext);
 }
 
-
-{duracion} {
-    getDuracion(yytext, duracion2);
-}
-
-
 {pais} {
     getPais(yytext, pais);
 }
@@ -88,9 +80,6 @@ duracion "<span itemprop=\"duration\" datetime=\""{letrasdigitos}+"\">"{digitos}
 int yywrap()
 {
     printf("Titulo de la serie: %s\n", i);
-    if(temporadas == 0)
-        printf("Duracion: %s\n", duracion2);
-    else
         printf("Temporadas: %d\n", temporadas);
 
     printf("Nota: %.1f\n", puntuacion);
