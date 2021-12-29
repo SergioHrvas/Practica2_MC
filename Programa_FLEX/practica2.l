@@ -180,4 +180,3 @@ void getDuracion(const char *texto, char * duracion){
     }
 
 }
-     //<span><a href="./explorar.php?pais=1" class="e_new">Estados Unidos</a></span>

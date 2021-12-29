@@ -1,11 +1,15 @@
 
 
-all: programa
+all: bin/series bin/extractorurls
 
-programa: prueba.l
-	flex practica2.l
-	gcc -o $@ lex.yy.c -lfl
+bin/series: Programa_FLEX/practica2.l
+	flex -o obj/lex.yy.c Programa_FLEX/practica2.l
+	gcc -o $@ obj/lex.yy.c -lfl -DECHO
 
+bin/extractorurls: Programa_FLEX/extractorurls.l
+	flex -o obj/lex2.yy.c Programa_FLEX/extractorurls.l
+	gcc -o $@ obj/lex2.yy.c -lfl -DECHO
 
 clean:
-	rm programa
+	rm bin/*
+	rm obj/*

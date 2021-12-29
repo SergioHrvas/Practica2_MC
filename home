@@ -1,0 +1,4751 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="es" xml:lang="es" xmlns:expr="http://www.google.com/2005/gml/expr">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Explorar - PlayMax</title>
+<meta name="apple-mobile-web-app-title" content="PlayMax">
+<meta name="application-name" content="PlayMax">
+<meta name="apple-itunes-app" content="app-id=1450105440">
+<link rel="manifest" href="./manifest.json">
+<link rel="alternate" hreflang="es" href="https://playmax.mx/explorar.php" />
+<link rel="canonical" href="https://playmax.mx/explorar.php" />
+<meta property="og:url" content="https://playmax.mx/explorar.php">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://playmax.xyz/images/favicon/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://playmax.xyz/images/favicon/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://playmax.xyz/images/favicon/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://playmax.xyz/images/favicon/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://playmax.xyz/images/favicon/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://playmax.xyz/images/favicon/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://playmax.xyz/images/favicon/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://playmax.xyz/images/favicon/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="https://playmax.xyz/images/favicon/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="https://playmax.xyz/images/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://playmax.xyz/images/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://playmax.xyz/images/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://playmax.xyz/images/favicon/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;" />
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="https://playmax.xyz/images/favicon/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="https://playmax.xyz/images/favicon/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="https://playmax.xyz/images/favicon/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="https://playmax.xyz/images/favicon/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://playmax.xyz/images/favicon/mstile-310x310.png" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-language" content="es" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="description" content="Explora y descubre nuevas series, películas y documentales">
+<meta property="og:description" content="Explora y descubre nuevas series, películas y documentales">
+<meta name="twitter:description" content="Explora y descubre nuevas series, películas y documentales">
+<meta property="og:image" content="https://playmax.xyz/images/favicon_1024.png" />
+<meta name="twitter:image" content="https://playmax.xyz/images/favicon_1024.png">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/.*-f.*" />
+<link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/user.*" />
+<link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/.*-l.*" />
+<link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/.*-s.*" />
+<link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/comment*" />
+<meta property="og:site_name" content="PlayMax">
+<meta property="og:title" content="Explorar - PlayMax">
+<meta name="title" content="Explorar - PlayMax">
+<meta name="twitter:title" content="Explorar - PlayMax">
+<meta name="viewport" id="viewport" content_d="width=device-width, maximum-scale=1" content="width=320, initial-scale=1, maximum-scale=1, minimum-scale=0" />
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "https://playmax.mx/",
+	"potentialAction":
+	{
+		"@type": "SearchAction",
+		"target": "https://playmax.mx/buscar.php?buscar={search_term_string}&mode=fichas",
+ 		"query-input": "required name=search_term_string"
+	}
+}
+</script>
+<script id="valuesearch">0</script>
+<script id="activearrow">0</script>
+<meta name="pm_user_data" id="pm_user_data" content="{&quot;user_id&quot;:&quot;1&quot;,&quot;username&quot;:&quot;Anonymous&quot;,&quot;user_avatar&quot;:&quot;https:\/\/playmax.xyz\/avatar\/1_2098723692.jpg&quot;}">
+<script type="text/javascript">
+
+var dc_amp = '';
+var dc_ic = '';
+var user_logged = false;
+var user_id_conect = parseInt('1');
+var user_offset = parseInt('3600');
+var rd_active = true;
+var rd_more_info = false;
+var rd_more_size = 0;
+var current_domain = 'playmax.mx';
+var cdn_url = 'https://playmax.xyz';
+var pm_url = 'https://playmax.mx';
+var footer_height = 81;
+
+function request_login(message)
+{
+	message = message || 'Tienes que estar identificado para poder utilizar esta función';
+	message_error(message);
+}
+
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-9797654625010771",
+		enable_page_level_ads: true
+	});
+</script>
+<script type="text/javascript" src="https://playmax.xyz/gzip/script/playmax.js?a=162"></script>
+<link rel="stylesheet" type="text/css" media="screen, projection" href="https://playmax.xyz/style.css?a=550" />
+<link rel="stylesheet" type="text/css" media="screen, projection" href="https://playmax.xyz/gzip/css/playmax.css?a=20">
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
+<link href="https://playmax.xyz/gzip/css/fonts.css?a=9" rel="stylesheet" type="text/css">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-P2NJ99V');</script>
+
+<script type="text/javascript">
+		
+		playmax.withoutAccount = !user_logged;
+
+	</script>
+</head>
+<body id="phpbb" style="min-width: 320px;/*min-width: 620px;*/" class="section-explorar ltr">
+<div style="width: 11px; height: 0px;" id="cseneccc2"><div id="cseneccc" style="width: calc(100% - 10px);"></div></div>
+<div id="fb-root"></div>
+<div class="popup_m" id="popup_m" style="display: none;">
+<o class="popupdos" style="z-index: -1; background: rgba(0, 0, 0, 0.8);" onclick="mostrar_ocultar('popup_m', '2');"></o>
+<div class="popuptres">
+<div id="popup_m_t"></div>
+<o class="cerrar" title="Cerrar" onclick="mostrar_ocultar('popup_m', '2');" style="position: initial;"></o>
+</div>
+<div id="popup_m_c">
+<div style="margin-top: 150px;" class="s_load1 load26"></div>
+</div>
+</div>
+<div id="popup_m_n_mo" class="popup_m_n_main popup_m_n_mo">
+<span class="popup_m_n_cf"></span>
+<div class="popup_m_n_immersive">
+<o class="popup_m_n_cl" onclick="popup_m_n('ocultar');"></o>
+<div class="popup_m_n" id="popup_m_n">
+<div class="popup_m_n_h">
+<div id="popup_m_n_t" class="popup_m_n_t"></div>
+<o class="cerrar" title="Cerrar" onclick="popup_m_n('ocultar');" style="position: initial;"></o>
+</div>
+<div id="popup_m_n_c" class="popup_m_n_c">
+<div style="position: absolute; top: 50%; margin-top: -16px; left: 50%; margin-left: -16px;" class="s_load1 load26"></div>
+</div>
+</div>
+</div>
+</div>
+<div style="visibility: hidden; position: fixed; top: -1000px;"><div id="popup_m_cc_csdl" style="width: 310px;"></div></div>
+<div id="popup_m_cc_mo" class="popup_m_n_mo">
+<o class="popup_m_n_cl" onclick="popup_m_c('ocultar');"></o>
+<div class="popup_m_n" id="popup_m_cc">
+<div class="popup_m_n_h">
+<div id="popup_m_cc_t" class="popup_m_n_t">Confirmar</div>
+<o class="cerrar" title="Cerrar" onclick="popup_m_c('ocultar');" style="position: initial;"></o>
+</div>
+<div id="popup_m_cc_c" style="overflow: hidden;" class="popup_m_n_c">
+<div class="popup_m_cc_text" style="line-height: 60px;"></div>
+<div style="margin: 0 10px;">
+<div onclick="popup_m_c('ocultar');" id="popup_m_cc_bc" style="cursor: pointer; display: inline-block; width: 121px; text-align: center; margin: 0 10px;" class="button9">Cancelar</div>
+<div onclick="popup_m_c('ocultar');" id="popup_m_cc_b" style="cursor: pointer; display: inline-block; width: 121px; text-align: center; margin: 0 10px;" class="button9">Aceptar</div>
+</div>
+</div>
+</div>
+</div>
+<div class="popup_m_s" id="popup_m_s" style="display: none;">
+<o class="popupdos" style="z-index: -1; background: rgba(0, 0, 0, 0.8);" onclick="mostrar_ocultar('popup_m_s', '2');"></o>
+<div class="popup_m_s_c">
+<div class="popuptres d">
+<div id="popup_m_s_t"></div>
+<o class="cerrar_n" title="Cerrar" onclick="mostrar_ocultar('popup_m_s', '2');" style="position: initial;"></o>
+</div>
+<div id="popup_m_s_c">
+<div style="margin-top: 150px;" class="s_load1 load26"></div>
+</div>
+</div>
+</div>
+<div id="cargando_n_tel" style="display: none;"></div>
+<div id="cargando_n" style="display: none;">
+<div>
+<div class="s_load1 load26"></div>
+</div>
+</div>
+<div id="messages">
+</div>
+<script type="text/javascript">
+
+	
+
+	enable_ficha_show_images();
+
+	dark_theme_si = false;
+
+	function dark_theme()
+	{
+		clearTimeout(dark_theme_si);
+
+		if($('html').hasClass('dark_theme'))
+		{
+			$('html').removeClass('dark_theme').addClass('dark_theme_transition');
+			$('.dark_theme_switch').removeClass('a');
+
+			status = 0;
+		}
+		else
+		{
+			$('html').addClass('dark_theme dark_theme_transition');
+			$('.dark_theme_switch').addClass('a');
+
+			status = 1;
+		}
+
+		setCookie('dark_theme', status, false, '/', '.'+current_domain, null, (157680000 * 1000));
+
+		dark_theme_si = setTimeout(function(){
+
+			$('html').removeClass('dark_theme_transition');
+
+		}, 300);
+	}
+
+</script>
+<div class="bheader_n_bs" style="visibility: hidden;">
+</div>
+<div class="bheader_n" id="bheader" style="visibility: hidden; background-color: #fff;min-width: 320px;/*min-width: 620px;*/">
+<div style="display: none;" class="bmbs" onclick="mobs();">
+<img src="https://playmax.xyz/svg/666666/menu.svg" style="width: 20px; height: 20px; padding: 15px 10px 15px 18px;">
+</div>
+<div style="float: left; margin-left: 20px; margin-right: 40px; margin-top: 7px;" class="logo"><a href="./" title="Pagina principal"><img src="https://playmax.xyz/svg/f77f00/pm.svg" height="35" alt="" title=""></a></div>
+<div class="bh_left" style="float: left;">
+<div class="show_secondary_header" onclick="secondary_header_visibility()"></div>
+<a alt="Tus fichas" class="" href="./tusfichas.php" menu='[{"name":"Series","url":"./tusfichas.php?tab=2"},{"name":"Películas","url":"./tusfichas.php?tab=3"},{"name":"Documentales","url":"./tusfichas.php?tab=4"}]' style="opacity: 0.5;">
+<div class="buttonheader_nn buttonHeader--my_fichas" button_key="my_fichas"></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--my_fichas"><div>Tus fichas</div></div>
+<a alt="Recomendaciones" class="" href="./recomendaciones.php" menu='[{"name":"Amigos","url":"./recomendaciones.php"},{"name":"Personalizadas","url":"./recomendaciones.php?mode=personalizadas"}]' style="opacity: 0.5;">
+<div class="buttonheader_nn buttonHeader--recommendations" button_key="recommendations"></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--recommendations"><div>Recomendaciones</div></div>
+<a alt="Explorar" class="active" href="./explorar.php" menu='[{"name":"Más populares","url":"./explorar.php"},{"name":"Mejor valoradas","url":"./explorar.php?order=6"},{"separator":1},{"name":"Series","url":"./explorar.php?tipo%5B%5D=1"},{"name":"Películas","url":"./explorar.php?tipo%5B%5D=2"},{"name":"Documentales","url":"./explorar.php?tipo%5B%5D=3"}]'>
+<div class="buttonheader_nn buttonHeader--explore" button_key="explore"></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--explore"><div>Explorar</div></div>
+<a alt="Calendario" class="" href="./calendario.php" menu='[{"name":"Todo","url":"./calendario.php?mode=todo"},{"name":"Solo lo mío","url":"./calendario.php?mode=slm"}]'>
+<div class="buttonheader_nn buttonHeader--calendar" button_key="calendar"></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--calendar"><div>Calendario</div></div>
+<a alt="Próximos estrenos" class="" href="./proximos_estrenos.php" menu='[{"name":"Todo","url":"./proximos_estrenos.php?only_mine=0"},{"name":"Solo lo mío","url":"./proximos_estrenos.php?only_mine=1"}]'>
+<div class="buttonheader_nn buttonHeader--comingSoon" button_key="comingSoon"><div class="c_new_text" title="Nuevo">N</div></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--comingSoon"><div>Próximos estrenos</div></div>
+<a alt="Listas" class="" href="./listas.php" menu='[{"name":"Más seguidas","url":"./listas.php?orden=1"},{"name":"Con más fichas","url":"./listas.php?orden=2"},{"name":"Mejor valoradas","url":"./listas.php?orden=5"},{"name":"Nuevas","url":"./listas.php?orden=4"},{"name":"Aleatorias","url":"./listas.php?orden=3"}]'>
+<div class="buttonheader_nn buttonHeader--lists" button_key="lists"></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--lists"><div>Listas</div></div>
+<a alt="Noticias" class="" href="./noticias.php" menu='[{"name":"Nuevas","url":"./noticias.php?order=fecha"},{"name":"Más vistas","url":"./noticias.php?order=visitas"},{"name":"Sobre lo mío","url":"./noticias.php?order=slm"}]'>
+<div class="buttonheader_nn buttonHeader--news" button_key="news"></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--news"><div>Noticias</div></div>
+<a alt="Trailers" class="" href="./trailers.php" menu='[{"name":"Últimos trailers","url":"./trailers.php"},{"name":"Fichas más nuevas","url":"./trailers.php?ordenar=year"}]'>
+<div class="buttonheader_nn buttonHeader--trailers" button_key="trailers"></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--trailers"><div>Trailers</div></div>
+<a alt="Programación TV" class="" href="./programacion_tv.php" menu='[{"name":"Todo","url":"./programacion_tv.php?only_mine=0"},{"name":"Solo lo mío","url":"./programacion_tv.php?only_mine=1"},{"separator":1},{"name":"Todos los canales","url":"./programacion_tv.php?channels%5B%5D=all"},{"name":"Solo mis canales","url":"./programacion_tv.php?channels%5B%5D=mine"}]'>
+<div class="buttonheader_nn buttonHeader--tv_broadcasts" button_key="tv_broadcasts"></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--tv_broadcasts"><div>Programación TV</div></div>
+<a alt="Actividad" class="" href="./actividad.php" style="opacity: 0.5;">
+<div class="buttonheader_nn buttonHeader--activity" button_key="activity"></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--activity"><div>Actividad</div></div>
+<a alt="Novedades Netflix, HBO Max, Filmin..." class="" href="./vod.php" menu='[{"name":"Netflix","url":"./netflix-s12"},{"name":"Amazon Prime Video","url":"./amazon-prime-video-s163"},{"name":"Disney+","url":"./disney-s181"},{"name":"HBO Max","url":"./hbomax-s256"},{"name":"Movistar+","url":"./movistar-s160"},{"name":"Filmin","url":"./filmin-s8"},{"name":"Rakuten TV","url":"./rakuten-tv-s27"},{"name":"Mas...","url":"./vod.php"}]'>
+<div class="buttonheader_nn buttonHeader--vod" button_key="vod"><div class="c_new_text" title="Nuevo" style="display: none;">NEW</div></div>
+</a>
+<div class="buttonHeaderTitle buttonHeaderTitle--vod"><div>Novedades Netflix, HBO Max, Filmin...</div></div>
+<script type="text/javascript">
+			
+			$('.bh_left > a > .buttonheader_nn').on('mouseenter touchstart', function(e){
+
+				if($(this).attr('button_key'))
+				{
+					$('.buttonHeaderTitle--'+$(this).attr('button_key')).addClass('show');
+				}
+
+			});
+
+			$('.bh_left > a > .buttonheader_nn').on('mouseleave touchend', function(e){
+
+				if($(this).attr('button_key'))
+				{
+					$('.buttonHeaderTitle--'+$(this).attr('button_key')).removeClass('show');
+				}
+
+			});
+
+		</script>
+</div>
+<div class="bh_right" style="float: right;">
+<div class="search_form">
+<form action="./buscar.php" method="get" id="search">
+<input onfocus="search_visibility(2)" name="buscar" autocomplete="off" spellcheck="false" id="search_input" type="text" maxlength="128" title="Buscar peliculas, series y documentales." class="inputbox search" onkeyup="search_onkeyup(event, 0)" onpaste="setTimeout(function(event){search_onkeyup(event, 0)}, 100, {event: event})" placeholder="Buscar..." />
+<input type="hidden" id="search_mode" name="mode" value="fichas">
+<button class="bbp" title="Buscar"></button>
+</form>
+<style type="text/css" id="style_search"></style>
+</div>
+<a style="float: right;" title="Identificarse/Registrarse" class="cmm_rg" href="./ucp.php?mode=login">
+<div class="buttonheader_nn">Identificarse/Registrarse</div>
+</a>
+</div>
+</div>
+<div class="hb_page_menu_content bh_menu_1">
+<a title="Test" href="./settings.php">
+<div style="margin-top: 0px;">Test</div>
+</a>
+</div>
+<div class="hb_page_menu_content bh_menu_2">
+<a title="Test" href="./settings.php">
+<div style="margin-top: 0px;">Test</div>
+</a>
+</div>
+<div class="hb_page_menu_ocult" onclick="bh_menu_hidden()"></div>
+<script type="text/javascript">
+
+	bh_menu_events();
+
+</script>
+<div class="search_content">
+<div class="search_obs"></div>
+<div class="search_result">
+<div style="padding: 11px 0px 19px 0px;font-size: 14px;width: 100%;text-align: center;">
+<div class="s_load1 load26"></div>
+</div>
+</div>
+<div class="fup">
+<div onclick="search_mode(1)" class="a search_mode_f">Fichas</div>
+<div onclick="search_mode(2)" class="search_mode_u">Usuarios</div>
+<div onclick="search_mode(3)" class="search_mode_p">Personas</div>
+</div>
+</div>
+<div class="search_ocult" onclick="search_visibility(0)"></div>
+<div class="secondary_header" style="opacity: 0;"></div>
+<div class="secondary_header_close" onclick="hidden_secondary_header();"></div>
+<script type="text/javascript">
+
+
+
+mp_active();
+rd_ocult_search(true);
+$('.secondary_header').css('opacity', '1');
+
+</script>
+<div class="b_seg">
+<a title="Tus fichas" class="" href="./tusfichas.php">
+<div class="bb_seg">Tus fichas</div>
+</a>
+<div class="b_seg_show_more b_seg_show_more1" onclick="b_seg_menu_visibility(1)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more1" menu='[{"name":"Series","url":"./tusfichas.php?tab=2"},{"name":"Películas","url":"./tusfichas.php?tab=3"},{"name":"Documentales","url":"./tusfichas.php?tab=4"}]'></div>
+<a title="Recomendaciones" class="" href="./recomendaciones.php">
+<div class="bb_seg">Recomendaciones</div>
+</a>
+<div class="b_seg_show_more b_seg_show_more2" onclick="b_seg_menu_visibility(2)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more2" menu='[{"name":"Amigos","url":"./recomendaciones.php"},{"name":"Personalizadas","url":"./recomendaciones.php?mode=personalizadas"}]'></div>
+<a title="Explorar" class="active" href="./explorar.php">
+<div class="bb_seg">Explorar</div>
+</a>
+<div class="b_seg_show_more b_seg_show_more3" onclick="b_seg_menu_visibility(3)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more3" menu='[{"name":"Más populares","url":"./explorar.php"},{"name":"Mejor valoradas","url":"./explorar.php?order=6"},{"separator":1},{"name":"Series","url":"./explorar.php?tipo%5B%5D=1"},{"name":"Películas","url":"./explorar.php?tipo%5B%5D=2"},{"name":"Documentales","url":"./explorar.php?tipo%5B%5D=3"}]'></div>
+<a title="Calendario" class="" href="./calendario.php">
+<div class="bb_seg">Calendario</div>
+</a>
+<div class="b_seg_show_more b_seg_show_more4" onclick="b_seg_menu_visibility(4)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more4" menu='[{"name":"Todo","url":"./calendario.php?mode=todo"},{"name":"Solo lo mío","url":"./calendario.php?mode=slm"}]'></div>
+<a title="Próximos estrenos" class="" href="./proximos_estrenos.php">
+<div class="bb_seg" style="position: relative;">Próximos estrenos<div class="c_new_text" title="Nuevo" style="right: 0px; top: 6px;">NEW</div></div>
+</a>
+<div class="b_seg_show_more b_seg_show_more10" onclick="b_seg_menu_visibility(10)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more10" menu='[{"name":"Todo","url":"./proximos_estrenos.php?only_mine=0"},{"name":"Solo lo mío","url":"./proximos_estrenos.php?only_mine=1"}]'></div>
+<a title="Listas" class="" href="./listas.php">
+<div class="bb_seg">Listas</div>
+</a>
+<div class="b_seg_show_more b_seg_show_more5" onclick="b_seg_menu_visibility(5)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more5" menu='[{"name":"Más seguidas","url":"./listas.php?orden=1"},{"name":"Con más fichas","url":"./listas.php?orden=2"},{"name":"Mejor valoradas","url":"./listas.php?orden=5"},{"name":"Nuevas","url":"./listas.php?orden=4"},{"name":"Aleatorias","url":"./listas.php?orden=3"}]'></div>
+<a title="Noticias" class="" href="./noticias.php">
+<div class="bb_seg">Noticias</div>
+</a>
+<div class="b_seg_show_more b_seg_show_more6" onclick="b_seg_menu_visibility(6)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more6" menu='[{"name":"Nuevas","url":"./noticias.php?order=fecha"},{"name":"Más vistas","url":"./noticias.php?order=visitas"},{"name":"Sobre lo mío","url":"./noticias.php?order=slm"}]'></div>
+<a title="Trailers" class="" href="./trailers.php">
+<div class="bb_seg">Trailers</div>
+</a>
+<div class="b_seg_show_more b_seg_show_more7" onclick="b_seg_menu_visibility(7)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more7" menu='[{"name":"Últimos trailers","url":"./trailers.php"},{"name":"Fichas más nuevas","url":"./trailers.php?ordenar=year"}]'></div>
+<a title="Programación TV" class="" href="./programacion_tv.php">
+<div class="bb_seg" style="position: relative;">Programación TV</div>
+</a>
+<div class="b_seg_show_more b_seg_show_more8" onclick="b_seg_menu_visibility(8)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more8" menu='[{"name":"Todo","url":"./programacion_tv.php?only_mine=0"},{"name":"Solo lo mío","url":"./programacion_tv.php?only_mine=1"},{"separator":1},{"name":"Todos los canales","url":"./programacion_tv.php?channels%5B%5D=all"},{"name":"Solo mis canales","url":"./programacion_tv.php?channels%5B%5D=mine"}]'></div>
+<a title="Novedades Netflix, HBO Max, Filmin..." class="" href="./vod.php">
+<div class="bb_seg" style="position: relative;">Novedades Netfli...<div class="c_new_text" title="Nuevo" style="right: 0px; top: 6px; display: none;">NEW</div></div>
+</a>
+<div class="b_seg_show_more b_seg_show_more9" onclick="b_seg_menu_visibility(9)"></div>
+<cb></cb>
+<div class="b_seg_more b_seg_more9" menu='[{"name":"Netflix","url":"./netflix-s12"},{"name":"Amazon Prime Video","url":"./amazon-prime-video-s163"},{"name":"Disney+","url":"./disney-s181"},{"name":"HBO Max","url":"./hbomax-s256"},{"name":"Movistar+","url":"./movistar-s160"},{"name":"Filmin","url":"./filmin-s8"},{"name":"Rakuten TV","url":"./rakuten-tv-s27"},{"name":"Mas...","url":"./vod.php"}]'></div>
+</div>
+<div class="b_seg_c" onclick="mobs();" style="display: none; opacity: 0;"></div>
+<div class="b_more_c" onclick="" style="display: none; opacity: 0;"></div>
+<div style="width: 100%; height: 68px;"></div>
+<div id="wrap" style="min-width: 320px;/*min-width: 620px;*/ box-sizing: border-box;">
+<script>
+	function wrap_min_height()
+	{
+		$('#wrap').css('min-height', ($(window).height()-131)+'px');
+	}
+	wrap_min_height();
+</script>
+<script type="text/javascript">
+	
+	function save_cookies_configuration(mode)
+	{
+		cookies_ads = ($('.cookies_ads').is(':checked')) ? 1 : 0;
+		cookies_sta = ($('.cookies_sta').is(':checked')) ? 1 : 0;
+
+		setCookie('pm_cookies_ads', cookies_ads, false, '/', '.'+current_domain, null, (31600000 * 1000));
+		setCookie('pm_cookies_sta', cookies_sta, false, '/', '.'+current_domain, null, (31600000 * 1000));
+		setCookie('pm_cookies_sho', 1, false, '/', '.'+current_domain, null, (31600000 * 1000));
+
+		if(mode)
+		{	
+			popup_m_n('use_popup', 'cookies_configuration');
+			popup_m_n('ocultar', '');
+			popup_m_n('use_popup', 'main');
+		}
+	}
+
+	cookies_ads = +'1';
+	cookies_sta = +'1';
+
+	function cookies_configuration()
+	{
+
+		html = '<div style="padding: 20px;">Utilizamos cookies propias y de terceros para mejorar la experiencia de navegación, desde aquí puede configurar qué cookies se utilizaran. Hay algunas cookies que no se pueden desactivar, ya que son esenciales para el funcionamiento de PlayMax (Cookies de configuración, sesion, anuncios no personalizados, etc)<br><br>Puede obtener más información sobre las cookies en <a href="./cookie.php">Política de Cookies</a> y <a href="./terms_and_conditions.php">Términos y Condiciones</a>.<br><div style="height: 20px; line-height: 20px; margin-top: 16px;"><div class="checkbox s20 '+(!cookies_ads ? 'n' : '')+'p" style="float: left;"><input type="checkbox" name="cookies_ads" class="cookies_ads"'+(cookies_ads ? ' checked' : '')+'></div>Cookies para los anuncios personalizados (Google AdSense).</div><div style="height: 20px; line-height: 20px; margin-top: 16px;"><div class="checkbox s20 '+(!cookies_sta ? 'n' : '')+'p" style="float: left;"><input type="checkbox" name="cookies_sta" class="cookies_sta"'+(cookies_sta ? ' checked' : '')+'></div>Cookies para las estadísticas (Google Analytics).</div><br><div class="c_button" onclick="save_cookies_configuration(1)">Guardar</div></div>';
+
+		width = 500;
+		height = 277;
+
+		if(width > rd_width() - 20)
+			width = rd_width() - 20;
+
+		if(height > rd_height() - 120)
+			height = rd_height() - 120;
+
+		popup_m_n('use_popup', 'cookies_configuration');
+		popup_m_n('restart', '');
+		popup_m_n('width', width);
+		popup_m_n('height', height);
+		popup_m_n('title', 'Configuración de las Cookies');
+		popup_m_n('content', html);
+		popup_m_n('function_c', 'save_cookies_configuration(0);');
+		popup_m_n('mostrar', '');
+		popup_m_n('use_popup', 'main');
+
+		form_events();
+	}
+
+	function save_cookies_configuration_all(mode)
+	{
+		cookies_ads = 1;
+		cookies_sta = 1;
+
+		setCookie('pm_cookies_ads', cookies_ads, false, '/', '.'+current_domain, null, (31600000 * 1000));
+		setCookie('pm_cookies_sta', cookies_sta, false, '/', '.'+current_domain, null, (31600000 * 1000));
+		setCookie('pm_cookies_sho', 1, false, '/', '.'+current_domain, null, (31600000 * 1000));
+	}
+
+	function cookies_configuration_little()
+	{
+
+		html = '<div style="padding: 20px;">Utilizamos cookies propias y de terceros para mejorar la experiencia de navegación, desde aquí puede configurar qué cookies se utilizaran. Hay algunas cookies que no se pueden desactivar, ya que son esenciales para el funcionamiento de PlayMax (Cookies de configuración, sesion, anuncios no personalizados, etc)<br><br>Puede obtener más información sobre las cookies en <a href="./cookie.php">Política de Cookies</a> y <a href="./terms_and_conditions.php" onclick="cookies_configuration()">Términos y Condiciones</a>.<br><br><div class="c_button" onclick="cookies_configuration()">Configuración de las Cookies</div></div>';
+
+		width = 500;
+		height = 205;
+
+		if(width > rd_width() - 20)
+			width = rd_width() - 20;
+
+		if(height > rd_height() - 120)
+			height = rd_height() - 120;
+
+		popup_m_n('use_popup', 'cookies_configuration');
+		popup_m_n('restart', '');
+		popup_m_n('width', width);
+		popup_m_n('height', height);
+		popup_m_n('title', 'PlayMax utiliza Cookies propias y de terceros');
+		popup_m_n('content', html);
+		popup_m_n('function_c', 'save_cookies_configuration_all();');
+		popup_m_n('mostrar', '');
+		popup_m_n('use_popup', 'main');
+
+		form_events();
+	}
+
+	
+	$(document).ready(function(){
+
+		cookies_configuration_little();
+
+	});
+	
+
+</script>
+<style type="text/css" id="c_fichas_style"></style>
+<style type="text/css" id="c_fichas_cover_style"></style>
+<div class="title_h_divs"></div>
+<div id="page-body" class="NewS">
+<div id="load"></div>
+<style type="text/css">
+	
+.page_title.s1
+{
+	height: 150px !important;
+}
+
+.page_title.s1 > .t_h1
+{
+	height: 150px;
+	width: 100%;
+	padding: 20px;
+	background-size: cover;
+	opacity: 0.7;
+	position: absolute;
+	left: -20px;
+	top: 0px;
+	z-index: 1;
+}
+
+.t_t1
+{
+	height: 150px;
+	line-height: 150px !important;
+	width: 100%;
+	z-index: 2;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	box-shadow: inset 0px -6px 3px -5px rgba(0, 0, 0, 0.255);
+	text-align: center;
+	font-size: 40px !important;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.ct_f
+{
+	margin-top: 8px;
+}
+
+.ct_form
+{
+	height: 56px;
+	width: 100%;
+	font-family: "Trebuchet MS", Roboto, Arial, Helvetica, sans-serif;
+}
+
+.ct_form > .select
+{
+	height: 56px;
+	line-height: 56px;
+	/*width: 20%;*/
+	width: 14.28571%;
+}
+
+.ct_form > .select > .select_a
+{
+	margin-top: 10px;
+}
+
+#generos .sel
+{
+	display: none;
+}
+
+#generos .sel.gen
+{
+	display: block;
+}
+
+#generos.topics .sel
+{
+	display: block;
+}
+
+#generos.topics .sel.gen
+{
+	display: none;
+}
+
+.ct_vmg
+{
+	cursor: pointer;
+	height: 35px;
+	line-height: 34px;
+	padding: 0px 10px;
+	padding-left: 40px;
+	border-top: 1px solid #ccc;
+	background-color: #eee;
+	border-radius: 0px 0px 3px 3px;
+}
+
+.ct_de_a
+{
+	margin: 14px 0px 0px 0px;
+}
+
+.ct_de
+{
+	width: 107px;
+	float: left;
+	margin: 0px 10px 0px 0px;
+	padding-right: 0px;
+	box-sizing: border-box;
+}
+
+.ct_a
+{
+	width: 108px;
+	float: left;
+	margin: 0px;
+	padding-right: 0px;
+	box-sizing: border-box;
+}
+
+.ct_del
+{
+	width: 95px;
+	float: left;
+	margin: 5px 10px 5px 10px;
+	padding-right: 0px;
+	box-sizing: border-box;
+}
+
+.ct_al
+{
+	width: 95px;
+	float: left;
+	margin: 5px 0px 5px 0px;
+	padding-right: 0px;
+	box-sizing: border-box;
+}
+
+.ct_director, .ct_reparto
+{
+	width: 225px;
+	padding-right: 0px;
+	box-sizing: border-box;
+	display: block;
+}
+
+.ct_reparto
+{
+	margin: 14px 0px 0px 0px;
+}
+
+
+</style>
+<script type="text/javascript">
+
+//Ver mas generos - Start
+
+var ct_ver_mas_gen_var = false, ct_ver_mas_gen_var_keyboard = false;
+
+function ct_ver_mas_gen(mode)
+{
+	if(mode == 1)
+	{
+		if(ct_ver_mas_gen_var)
+		{
+			$('#generos').removeClass('topics');
+			$('.ct_vmg').html('Ver más');
+			ct_ver_mas_gen_var = false;
+		}
+		else
+		{
+			$('#generos').addClass('topics');
+			$('.ct_vmg').html('Ver menos');
+			ct_ver_mas_gen_var = true;
+		}
+
+		ct_ver_mas_gen_var_keyboard = false;
+	}
+	else if(mode == 3)
+	{
+		if(!ct_ver_mas_gen_var)
+		{
+			$('#generos').addClass('topics');
+			$('.ct_vmg').html('Ver menos');
+			ct_ver_mas_gen_var = true;
+			ct_ver_mas_gen_var_keyboard = true;
+		}
+	}
+	else if(mode == 4)
+	{
+		if(ct_ver_mas_gen_var)
+		{
+			$('#generos').removeClass('topics');
+			$('.ct_vmg').html('Ver más');
+			ct_ver_mas_gen_var = false;
+			ct_ver_mas_gen_var_keyboard = false;
+		}
+	}
+	else
+	{
+		if($('#generos .sel.s').not('.gen').length == $('#generos .sel.gen.s').length)
+		{
+			$('#generos').removeClass('topics');
+			$('.ct_vmg').html('Ver más');
+			ct_ver_mas_gen_var = false;
+		}
+		else
+		{
+			$('#generos').addClass('topics');
+			$('.ct_vmg').html('Ver menos');
+			ct_ver_mas_gen_var = true;
+		}
+	}
+}
+
+//Ver mas generos - End
+
+//Guardar orden - Start
+
+function ct_guardar_orden()
+{
+	cargando_n('on');
+
+	var order = $('input[name=order]').val();
+
+	var reverse_order = $('input[name=reverse_order]').val();
+
+	$.ajax({ 
+	type: 'GET', 
+	url: 'data.php', 
+	data: 'mode=order_c&order='+order+'&reverse_order='+reverse_order,
+	success: function(){
+
+		cargando_n_good('El orden ha sido guardado como predeterminado');
+
+	},
+	error: function(error){error_ajax(error);}
+	});
+}
+
+//Guardar orden - Start
+
+//Del Al - Start
+
+function ct_del_al()
+{
+	var del = parseInt($('.ct_del').val());
+	var al = parseInt($('.ct_al').val());
+
+	if(del > 0 && al > 0)
+	{
+		$('.delal .select_a').html(del+' - '+al);
+	}
+}
+
+//Del Al - End
+
+//Invertir orden - Start
+
+function ct_reverse_order()
+{
+
+	if(!reverse_order_var)
+	{
+		var c_a = 'Más viejas';
+		var c_h = 'Menos vistas de hoy';
+		var c_s = 'Menos vistas de la semana';
+		var c_m = 'Menos vistas del mes';
+		var c_si = 'Menos vistas de siempre';
+		var c_v = 'Peor valoradas';
+		var c_p = 'Menos populares';
+
+		reverse_order_var = true;
+	}
+	else
+	{
+		var c_a = 'Más nuevas';
+		var c_h = 'Más vistas de hoy';
+		var c_s = 'Más vistas de la semana';
+		var c_m = 'Más vistas del mes';
+		var c_si = 'Más vistas de siempre';
+		var c_v = 'Mejor valoradas';
+		var c_p = 'Más populares';
+
+		reverse_order_var = false;
+	}
+
+
+	$("#c_a").text(c_a);
+	$("#c_h").text(c_h);
+	$("#c_s").text(c_s);
+	$("#c_m").text(c_m);
+	$("#c_si").text(c_si);
+	$("#c_v").text(c_v);
+	$("#c_p").text(c_p);
+
+}
+
+//Invertir orden - End
+
+//Personas - Start
+
+function ct_add_director(data)
+{
+	$('.ct_director_r').removeClass('show');
+
+	if($('.ct_director_c > div, ct_reparto_c > div').length < 6)
+	{
+		if($('.ct_dir'+data['id']).length == 0)
+		{
+			$('.ct_director_c').append('<div class="cf_se_rm10 ct_dir'+data['id']+'"><div class="cf_se_i" style="background-image: url('+data['img_100']+');"></div><div class="cf_se_un">'+data['name']+'</div><div class="cf_se_remove_r0" onclick="ct_remove_director('+data['id']+')"></div><input type="hidden" name="director[]" value="'+data['id']+'"></div>').css('margin-bottom', '-4px');
+		}
+	}
+	else
+	{
+		message_error('Solo es posible filtrar con un máximo de 5 personas.');
+	}
+
+	$('.ct_director').val('');
+
+}
+
+function ct_remove_director(id)
+{
+	
+	$('.ct_dir'+id).remove();
+
+	if($('.ct_director_c > div').length == 0)
+		$('.ct_director_c').css('margin-bottom', '0px');
+
+}
+
+function ct_add_reparto(data)
+{
+	$('.ct_reparto_r').removeClass('show');
+
+	if($('.ct_director_c > div, ct_reparto_c > div').length < 6)
+	{
+		if($('.ct_rep'+data['id']).length == 0)
+		{
+			$('.ct_reparto_c').append('<div class="cf_se_rm10 ct_rep'+data['id']+'"><div class="cf_se_i" style="background-image: url('+data['img_100']+');"></div><div class="cf_se_un">'+data['name']+'</div><div class="cf_se_remove_r0" onclick="ct_remove_reparto('+data['id']+')"></div><input type="hidden" name="reparto[]" value="'+data['id']+'"></div>').css('margin-bottom', '-4px');
+		}
+	}
+	else
+	{
+		mensaje_error('Solo es posible filtrar con un máximo de 5 personas.');
+	}
+
+	$('.ct_reparto').val('');
+
+}
+
+function ct_remove_reparto(id)
+{
+	
+	$('.ct_rep'+id).remove();
+
+	if($('.ct_reparto_c > div').length == 0)
+		$('.ct_reparto_c').css('margin-bottom', '0px');
+
+}
+
+//Personas - End
+
+//Filtrar - Start
+
+function ct_clean_form(form)
+{
+	//form = form.replace(//, '');
+
+	//return form;
+}
+
+var ct_form_var = false, ct_form_data = {};
+
+function remove_start(start)
+{
+	return start.replace(/(&|\?)start=[0-9]+/gi, '');
+}
+
+function ct_send_filter()
+{
+	var form = $('.ct_form').serialize();
+
+	if(remove_start(ct_form_var) != remove_start(form))
+	{
+		ct_form_var = form+'&start=0';
+
+		if(typeof ct_form_data[ct_form_var] != 'undefined')
+		{
+			window.history.pushState(ct_form_data[ct_form_var], 'Explorar', 'explorar.php?'+form+'');
+
+			$('.ct_content').html(ct_form_data[ct_form_var]);
+			ficha_events();
+			form_events();
+			ct_events();
+		}
+		else
+		{
+
+			cargando_n('on');
+
+			window.history.pushState(null, 'Explorar', 'explorar.php?'+form+'');
+
+			$.ajax({ 
+			type: 'GET', 
+			url: 'explorar.php',
+			data: ct_form_var+'&ajax=1',
+			success: function(html){
+				
+				cargando_n('off');
+
+				window.history.replaceState(html, 'Explorar', 'explorar.php?'+form+'');
+
+				$('.ct_content').html(html);
+
+				ct_form_data[ct_form_var] = html;
+
+				ficha_events();
+				form_events();
+				ct_events();
+
+			},
+			error: function(error){error_ajax(error);}
+			});
+		}
+
+	}
+}
+window.addEventListener('popstate', function(e) {
+
+	if(e.state != null)
+	{
+		ct_form_var = false;
+		$('.ct_content').html(e.state);
+		ficha_events();
+		form_events();
+		ct_events();
+	}
+});
+
+function ct_events()
+{
+
+	$('#pais .sel, #order .sel').on('click', function(){
+
+		ct_send_filter();
+
+	});
+
+	$('#pais .sel_filter').on('keyup', function(event){
+
+		if(event.keyCode == 13 && $(this).parent().find('.sel.sel_keyboard'))
+		{
+			ct_send_filter();
+		}
+
+	});
+
+	$('#generos .sel_filter').on('keyup', function(event){
+
+		if(ct_ver_mas_gen_var_keyboard && empty($(this).val().trim()))
+		{
+			ct_ver_mas_gen(4);
+		}
+
+	});
+
+	$('#generos .sel_filter').on('keydown', function(event){
+
+		if(event.keyCode != 37 && event.keyCode != 38 && event.keyCode != 39 && event.keyCode != 40)
+		{
+			ct_ver_mas_gen(3);
+		}
+
+	});
+
+	$('#year .sel').on('click', function(){
+
+		$('.ct_del, .ct_al').val('');
+
+		ct_send_filter();
+
+	});
+}
+
+//Paginacion - Start
+
+function paginacion_ajax()
+{
+	$('.pagination').off('click');
+
+
+	$('.pagination a').on('click', function(e){
+
+		e.preventDefault();
+
+		var url = $(this).attr('href');
+
+		var start = extraer(/start=([0-9]*)/, url, 1);
+
+		if(start == '')
+			start = 0;
+
+		var form = $('.ct_form').serialize()+'&start='+start;
+
+		if(ct_form_var != form)
+		{
+			ct_form_var = form;
+
+			if(typeof ct_form_data[ct_form_var] != 'undefined')
+			{
+				window.history.pushState(ct_form_data[ct_form_var], 'Explorar', 'explorar.php?'+form+'');
+
+				$('.ct_content').html(ct_form_data[ct_form_var]);
+				ficha_events();
+				form_events();
+				ct_events();
+
+				$(window).scrollTop(0);
+			}
+			else
+			{
+
+				cargando_n('on');
+
+				window.history.pushState(null, 'Explorar', 'explorar.php?'+form+'');
+
+				$.ajax({ 
+				type: 'GET', 
+				url: 'explorar.php',
+				data: ct_form_var+'&ajax=1',
+				success: function(html){
+					
+					cargando_n('off');
+
+					window.history.replaceState(html, 'Explorar', 'explorar.php?'+form+'');
+
+					$('.ct_content').html(html);
+
+					ct_form_data[ct_form_var] = html;
+
+					ficha_events();
+					form_events();
+					ct_events();
+
+					$(window).scrollTop(0);
+
+				},
+				error: function(error){error_ajax(error);}
+				});
+			}
+
+		}
+
+	});
+}
+
+//Paginacion - End
+
+//Filtrar - End
+
+//Responsive design - Start
+
+
+
+fichas_current_size = false;
+fichas_current_margin = false;
+
+rd_fichas = false;
+
+function rd_explorar(force)
+{
+	force = force || false;
+
+	width = $(document).width();
+
+	if(rd_fichas)
+	{
+
+		if(width < 360)
+		{
+			$('.ct_f').css({'margin-left': '-20px', 'width': 'calc(100% + 40px)'});
+			margin_content = 0;
+		}
+		else
+		{
+			$('.ct_f').css({'margin-left': '0px', 'width': '100%'});
+			margin_content = 40;
+		}
+
+		size_optimum = ficha_size_optimum(width - margin_content, [116, 136, 168]);
+
+		if(width < 670)
+		{
+			if(size_optimum == 168 && (force || fichas_current_size !== 168))
+			{
+				$('.ct_f').removeClass('c_fichas_g136 c_fichas_g116').addClass('c_fichas_g168');
+				ficha_align_start(168, 'explorar', 1, margin_content, 100);
+				ficha_update_align();
+				ficha_cheack_visible();
+				ficha_is_in_position();
+				fichas_current_size = 168;
+			}
+			else if(size_optimum == 136 && (force || fichas_current_size !== 136))
+			{
+				$('.ct_f').removeClass('c_fichas_g168 c_fichas_g116').addClass('c_fichas_g136');
+				ficha_align_start(136, 'explorar', 1, margin_content, 100);
+				ficha_update_align();
+				ficha_cheack_visible();
+				ficha_is_in_position();
+				fichas_current_size = 136;
+			}
+			else if(size_optimum == 116 && (force || fichas_current_size !== 116))
+			{
+
+				ficha_align_start(116, 'explorar', 1, margin_content, 100);
+				ficha_update_align();
+
+				$('.ct_f').removeClass('c_fichas_g168 c_fichas_g136').addClass('c_fichas_g116');
+				ficha_cheack_visible();
+				ficha_is_in_position();
+				fichas_current_size = 116;
+			}
+			else
+			{
+				ficha_align_start(size_optimum, 'explorar', 1, margin_content, 100);
+				ficha_update_align();
+			}
+		}
+		else
+		{
+			if(fichas_current_size !== 168 || force)
+			{
+				$('.ct_f').removeClass('c_fichas_g136 c_fichas_g116').addClass('c_fichas_g168');
+				ficha_align_start(168, 'explorar', 1, 40, 100);
+				ficha_update_align();
+				ficha_cheack_visible();
+				ficha_is_in_position();
+				fichas_current_size = 168;
+			}
+		}
+	}
+
+	if(width < 640)
+	{
+		$('.ct_form > .select').each(function(index){
+
+			if(index > 3)
+				$(this).css('width', '33.33333%');
+			else
+				$(this).css('width', '25%');
+
+		});
+
+		$('.ct_form > .select > .select_a').css({'margin': '10px 20px 0px 20px'});
+		$('#year').css({'right': '0px'});
+
+	}
+	else
+	{
+		$('.ct_form > .select').css('width', '14.28571%');
+		$('.ct_form > .select > .select_a').css({'margin': '10px 50px 0px 0px'});
+		$('#year').css({'right': ''});
+	}
+}
+
+rd_fichas = false;
+
+$(window).on('resize', function(){rd_explorar()});
+
+rd_explorar();
+
+
+
+//Responsive design - End
+
+function hide_ads_low_size()
+{
+	var ads = document.querySelector('.explore_header_ads');
+	var ad = document.querySelector('.explore_header_ad');
+
+	if(ads && ad)
+	{
+		if(ads.offsetWidth < 190)
+			ad.style.display = 'none';
+		else
+			ad.style.display = 'block';
+	}
+}
+
+$(window).on('resize', function(){
+
+	hide_ads_low_size();
+
+});
+
+</script>
+<div class="explore_header_ads" style="position: absolute; right: 20px; top: 70px; z-index: 5; width: calc(50% - 120px); height: 110px; text-align: right; overflow: hidden;">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle explore_header_ad" style="display:block; height: 110px;" data-ad-client="ca-pub-9797654625010771" data-ad-slot="3012088879" data-full-width-responsive="true"></ins>
+<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+</div>
+<script type="text/javascript">hide_ads_low_size();</script>
+<div class="page_title s1">
+<h1 class="t_t1">
+Explorar
+</h1>
+<div class="t_h1" style="background-image: url(https://playmax.xyz/styles/prosilver/imageset/bg_catalogo.jpg); background-size: 680px 150px;"></div>
+</div>
+<div class="ct_content">
+<form class="ct_form" style="opacity: 0;">
+<div class="select multiple or all_equal_null">
+<div class="select_a hover" delay="0.2" p_a="a_c" position="t" h_align="c" title_h="Filtrar por el tipo de ficha<br>Es posible filtrar por varios tipos">Todo</div>
+<div class="selectable" id="tipo" style="display: none;">
+<div class="oh">
+<div class="sel null" value="">Todo</div>
+<div class="sel" value="2">Películas</div>
+<div class="sel" value="1">Series</div>
+<div class="sel" value="3">Documentales</div>
+</div>
+</div>
+<div class="c_select d" onclick="ct_send_filter()"></div>
+<div style="display: none;" class="multiple_sel">
+<input type="hidden" name="tipo[]" value="">
+</div>
+</div>
+<div class="select multiple">
+<div class="select_a hover" delay="0.2" p_a="a_l" position="t" h_align="l" title_h="Filtrar por disponibilidad en VOD<br>Es posible filtrar por varios sitios">Disponible</div>
+<div class="selectable" id="available" style="display: none; width: 260px;">
+<input type="text" class="sel_filter" placeholder="Filtrar" title="Filtrar" style="font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">
+<div class="oh b">
+<div class="sel gen null" value="" oname="Disponible">Todo</div>
+<div class="sel not_multiple" value="my_sites" onclick="request_login('Tienes que estar identificado para poder seleccionar tus sitios');">Mis sitios</div>
+<div class="sel" value="237">Acorn TV Amazon Channel</div>
+<div class="sel" value="145">Amazon</div>
+<div class="sel" value="163">Amazon Prime Video</div>
+<div class="sel" value="194">Amazon Prime Video Store</div>
+<div class="sel" value="180">Apple TV+</div>
+<div class="sel" value="175">À Punt</div>
+<div class="sel" value="225">Argo</div>
+<div class="sel" value="17">AtresPlayer</div>
+<div class="sel" value="226">BroadwayHD</div>
+<div class="sel" value="215">CGood TV</div>
+<div class="sel" value="220">CINE.AR PLAY</div>
+<div class="sel" value="53">Clan</div>
+<div class="sel" value="210">Coalise Estudio</div>
+<div class="sel" value="205">CRTVG</div>
+<div class="sel" value="18">Crunchyroll</div>
+<div class="sel" value="206">CuriosityStream</div>
+<div class="sel" value="245">Dekkoo</div>
+<div class="sel" value="185">discovery+</div>
+<div class="sel" value="181">Disney+</div>
+<div class="sel" value="254">DistroTV</div>
+<div class="sel" value="259">Dizi</div>
+<div class="sel" value="258">Dizi Amazon Channel</div>
+<div class="sel" value="214">Docsville</div>
+<div class="sel" value="189">eFilm</div>
+<div class="sel" value="217">EiTB</div>
+<div class="sel" value="208">Facebook Watch</div>
+<div class="sel" value="8">Filmin</div>
+<div class="sel" value="188">Filmin Premier</div>
+<div class="sel" value="228">Filmzie</div>
+<div class="sel" value="172">FlixOlé</div>
+<div class="sel" value="233">FlixOlé Amazon Channel</div>
+<div class="sel" value="183">FuboTV</div>
+<div class="sel" value="7">Google Play</div>
+<div class="sel" value="195">GuideDoc</div>
+<div class="sel" value="234">hayu Amazon Channel</div>
+<div class="sel" value="256">HBO Max</div>
+<div class="sel" value="178">Hidive</div>
+<div class="sel" value="203">iQIYI</div>
+<div class="sel" value="147">iTunes</div>
+<div class="sel" value="202">JonuPlay</div>
+<div class="sel" value="229">MagellanTV</div>
+<div class="sel" value="232">MGM Amazon Channel</div>
+<div class="sel" value="161">Microsoft</div>
+<div class="sel" value="25">Mitele</div>
+<div class="sel" value="160">Movistar+</div>
+<div class="sel" value="187">Movistar+ Alquiler</div>
+<div class="sel" value="179">Movistar+ Lite</div>
+<div class="sel" value="167">Mubi</div>
+<div class="sel" value="231">Mubi Amazon Channel</div>
+<div class="sel" value="12">Netflix</div>
+<div class="sel" value="197">Orange TV</div>
+<div class="sel" value="235">OUTtv Amazon Channel</div>
+<div class="sel" value="257">Pash Amazon Channel</div>
+<div class="sel" value="196">Planet Horror</div>
+<div class="sel" value="250">Planet Horror Amazon Channel</div>
+<div class="sel" value="184">Plex</div>
+<div class="sel" value="216">Pluto TV</div>
+<div class="sel" value="27">Rakuten TV</div>
+<div class="sel" value="177">Rakuten Viki</div>
+<div class="sel" value="16">RTVE</div>
+<div class="sel" value="255">Runtime</div>
+<div class="sel" value="176">Selecta Visión</div>
+<div class="sel" value="221">Spamflix</div>
+<div class="sel" value="193">STARZPLAY</div>
+<div class="sel" value="230">STARZPLAY Amazon Channel</div>
+<div class="sel" value="246">True Story</div>
+<div class="sel" value="162">TV3 a la carta</div>
+<div class="sel" value="236">TVCortos Amazon Channel</div>
+<div class="sel" value="209">TVPlayer</div>
+<div class="sel" value="219">Vimeo</div>
+<div class="sel" value="238">Vimeo on Demand</div>
+<div class="sel" value="207">VIX</div>
+<div class="sel" value="169">Vodafone TV</div>
+<div class="sel" value="248">WeTV</div>
+<div class="sel" value="227">WOW Presents Plus</div>
+<div class="sel" value="31">YouTube</div>
+</div>
+</div>
+<div class="c_select d" onclick="ct_send_filter()"></div>
+<div style="display: none;" class="multiple_sel">
+<input type="hidden" name="available[]" value="">
+</div>
+</div>
+<div class="select multiple without" max="6" max_error="No se pueden seleccionar mas de 6 generos a la vez">
+<div class="select_a hover" delay="0.2" p_a="a_l" position="t" h_align="l" title_h="Filtrar por géneros<br>Es posible filtrar por varios géneros">Género</div>
+<div class="selectable" id="generos" name_without="without_generos" style="display: none; width: 260px;">
+<input type="text" class="sel_filter" placeholder="Filtrar" title="Filtrar" style="font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">
+<div class="oh b">
+<div class="sel gen null" value="" oname="Género">Todos los géneros</div>
+<div class="sel gen" value="20">Acción</div>
+<div class="sel gen" value="57">Animación</div>
+<div class="sel gen" value="386">Anime</div>
+<div class="sel gen" value="29">Aventuras</div>
+<div class="sel gen" value="102">Bélico</div>
+<div class="sel gen" value="41">Ciencia ficción</div>
+<div class="sel gen" value="61">Cine negro</div>
+<div class="sel gen" value="8">Comedia</div>
+<div class="sel gen" value="4">Crimen</div>
+<div class="sel gen" value="3">Drama</div>
+<div class="sel gen" value="28">Fantástico</div>
+<div class="sel gen" value="60">Infantil</div>
+<div class="sel gen" value="14">Intriga</div>
+<div class="sel gen" value="71">Musical</div>
+<div class="sel gen" value="419">Reality</div>
+<div class="sel gen" value="25">Romance</div>
+<div class="sel gen" value="44">Terror</div>
+<div class="sel gen" value="2">Thriller</div>
+<div class="sel gen" value="75">Western</div>
+<div class="sel null" value="" oname="Género">Todos los géneros</div>
+<div class="sel" value="309">[Serie] Black Mirror</div>
+<div class="sel" value="240">11-S</div>
+<div class="sel" value="33">3-D</div>
+<div class="sel" value="280">Abusos sexuales</div>
+<div class="sel" value="20">Acción</div>
+<div class="sel" value="254">Acoso escolar</div>
+<div class="sel" value="448">Acoso escolar / Bullying</div>
+<div class="sel" value="434">Acoso escolar/bullying</div>
+<div class="sel" value="54">Adolescencia</div>
+<div class="sel" value="261">Adopción</div>
+<div class="sel" value="174">África</div>
+<div class="sel" value="331">Ajedrez</div>
+<div class="sel" value="117">Alcoholismo</div>
+<div class="sel" value="321">Alpinismo</div>
+<div class="sel" value="405">Alpinismo / escalada</div>
+<div class="sel" value="431">Alpinismo/Escalada</div>
+<div class="sel" value="296">Alzheimer</div>
+<div class="sel" value="297">América colonial</div>
+<div class="sel" value="415">Amish</div>
+<div class="sel" value="10">Amistad</div>
+<div class="sel" value="57">Animación</div>
+<div class="sel" value="146">Animación para adultos</div>
+<div class="sel" value="131">Animales</div>
+<div class="sel" value="386">Anime</div>
+<div class="sel" value="205">Años 1900 (circa)</div>
+<div class="sel" value="192">Años 1910-1919</div>
+<div class="sel" value="81">Años 20</div>
+<div class="sel" value="36">Años 30</div>
+<div class="sel" value="38">Años 40</div>
+<div class="sel" value="137">Años 50</div>
+<div class="sel" value="188">Años 60</div>
+<div class="sel" value="105">Años 70</div>
+<div class="sel" value="62">Años 80</div>
+<div class="sel" value="85">Años 90</div>
+<div class="sel" value="133">Antigua Grecia</div>
+<div class="sel" value="189">Antigua Roma</div>
+<div class="sel" value="68">Antiguo Egipto</div>
+<div class="sel" value="373">Arañas</div>
+<div class="sel" value="278">Arquitectura</div>
+<div class="sel" value="167">Artes marciales</div>
+<div class="sel" value="15">Asesinos en serie</div>
+<div class="sel" value="230">Atletismo</div>
+<div class="sel" value="180">Autismo</div>
+<div class="sel" value="452">Autismo / Asperger</div>
+<div class="sel" value="86">Aventura espacial</div>
+<div class="sel" value="29">Aventuras</div>
+<div class="sel" value="127">Aventuras marinas</div>
+<div class="sel" value="445">Aves / Pájaros</div>
+<div class="sel" value="402">Aves/Pájaros</div>
+<div class="sel" value="56">Aviones</div>
+<div class="sel" value="233">Baile</div>
+<div class="sel" value="286">Ballet</div>
+<div class="sel" value="289">Baloncesto</div>
+<div class="sel" value="377">Balonmano</div>
+<div class="sel" value="403">Bandas/pandillas callejeras</div>
+<div class="sel" value="82">Basado en hechos reales</div>
+<div class="sel" value="210">Béisbol</div>
+<div class="sel" value="102">Bélico</div>
+<div class="sel" value="69">Biblia</div>
+<div class="sel" value="339">Billar</div>
+<div class="sel" value="34">Biográfico</div>
+<div class="sel" value="336">Blaxploitation</div>
+<div class="sel" value="234">Bodas</div>
+<div class="sel" value="276">Bolos</div>
+<div class="sel" value="84">Bolsa & Negocios</div>
+<div class="sel" value="293">Bomberos</div>
+<div class="sel" value="283">Boxeo</div>
+<div class="sel" value="168">Brujería</div>
+<div class="sel" value="441">Bucles temporales</div>
+<div class="sel" value="19">Buddy Film</div>
+<div class="sel" value="267">Caballos</div>
+<div class="sel" value="89">Capa y espada</div>
+<div class="sel" value="185">Casas encantadas</div>
+<div class="sel" value="55">Catástrofes</div>
+<div class="sel" value="237">Caza</div>
+<div class="sel" value="256">Celos</div>
+<div class="sel" value="325">Ciclismo</div>
+<div class="sel" value="41">Ciencia ficción</div>
+<div class="sel" value="130">Cine dentro del cine</div>
+<div class="sel" value="70">Cine épico</div>
+<div class="sel" value="253">Cine experimental</div>
+<div class="sel" value="134">Cine familiar</div>
+<div class="sel" value="149">Cine independiente USA</div>
+<div class="sel" value="158">Cine mudo</div>
+<div class="sel" value="61">Cine negro</div>
+<div class="sel" value="363">Cine quinqui</div>
+<div class="sel" value="412">Cinema novo brasileño</div>
+<div class="sel" value="156">Circo</div>
+<div class="sel" value="290">Claymation (Plastilina)</div>
+<div class="sel" value="215">Coches / Automovilismo</div>
+<div class="sel" value="427">Coches/Automovilismo</div>
+<div class="sel" value="67">Cocina</div>
+<div class="sel" value="374">Cocodrilos</div>
+<div class="sel" value="148">Colegios & Universidad</div>
+<div class="sel" value="48">Colonialismo</div>
+<div class="sel" value="8">Comedia</div>
+<div class="sel" value="199">Comedia absurda</div>
+<div class="sel" value="95">Comedia de terror</div>
+<div class="sel" value="42">Comedia dramática</div>
+<div class="sel" value="107">Comedia juvenil</div>
+<div class="sel" value="11">Comedia negra</div>
+<div class="sel" value="108">Comedia romántica</div>
+<div class="sel" value="432">Comedia screwball</div>
+<div class="sel" value="195">Comedia sofisticada</div>
+<div class="sel" value="46">Cómic</div>
+<div class="sel" value="252">Conciertos</div>
+<div class="sel" value="318">Conflicto árabe-israelí</div>
+<div class="sel" value="257">Conquista de América</div>
+<div class="sel" value="394">Coronavirus (COVID-19)</div>
+<div class="sel" value="399">Corto publicitario</div>
+<div class="sel" value="157">Cortometraje</div>
+<div class="sel" value="154">Cortometraje (animación)</div>
+<div class="sel" value="414">Cricket</div>
+<div class="sel" value="4">Crimen</div>
+<div class="sel" value="398">Crisis económica 2008</div>
+<div class="sel" value="212">Crisis económica actual</div>
+<div class="sel" value="397">CrossFit</div>
+<div class="sel" value="72">Cuentos</div>
+<div class="sel" value="110">Cyberpunk</div>
+
+<div class="sel" value="47">DC Comics</div>
+<div class="sel" value="225">Delfines</div>
+<div class="sel" value="207">Deporte</div>
+<div class="sel" value="387">Desconocido</div>
+<div class="sel" value="313">Día de Acción de Gracias</div>
+<div class="sel" value="292">Dictadura argentina</div>
+<div class="sel" value="310">Dictadura chilena</div>
+<div class="sel" value="421">Dictadura República Dominicana</div>
+<div class="sel" value="406">Dictadura uruguaya</div>
+<div class="sel" value="129">Dinosaurios</div>
+<div class="sel" value="143">Discapacidad</div>
+<div class="sel" value="322">Discapacidad auditiva</div>
+<div class="sel" value="396">Discapacidad visual</div>
+<div class="sel" value="113">Distopía</div>
+<div class="sel" value="282">Divulgativo/Educativo</div>
+<div class="sel" value="160">Doctor Who</div>
+<div class="sel" value="22">Documental</div>
+<div class="sel" value="24">Documental científico</div>
+<div class="sel" value="247">Documental deportivo</div>
+<div class="sel" value="118">Documental marino</div>
+<div class="sel" value="182">Documental sobre cine</div>
+<div class="sel" value="236">Documental sobre Historia</div>
+<div class="sel" value="211">Documental sobre música</div>
+<div class="sel" value="384">Documental sobre videojuegos</div>
+<div class="sel" value="319">Dogma</div>
+<div class="sel" value="209">Drácula</div>
+<div class="sel" value="259">Dragon Ball</div>
+<div class="sel" value="59">Dragones</div>
+<div class="sel" value="3">Drama</div>
+<div class="sel" value="145">Drama carcelario</div>
+<div class="sel" value="100">Drama de época</div>
+<div class="sel" value="173">Drama judicial</div>
+<div class="sel" value="435">Drama judicial / Abogados/as</div>
+<div class="sel" value="122">Drama psicológico</div>
+<div class="sel" value="27">Drama romántico</div>
+<div class="sel" value="187">Drama social</div>
+<div class="sel" value="17">Drama sureño</div>
+<div class="sel" value="6">Drogas</div>
+<div class="sel" value="201">Edad Media</div>
+<div class="sel" value="191">Ejército</div>
+<div class="sel" value="12">Enfermedad</div>
+<div class="sel" value="119">Enseñanza</div>
+<div class="sel" value="423">Entrevista</div>
+<div class="sel" value="442">Episodio de TV</div>
+<div class="sel" value="40">Erótico</div>
+<div class="sel" value="76">Esclavitud</div>
+<div class="sel" value="354">Esgrima</div>
+<div class="sel" value="31">Espada y brujería</div>
+<div class="sel" value="50">Espionaje</div>
+<div class="sel" value="409">eSports</div>
+<div class="sel" value="353">Esquí</div>
+<div class="sel" value="190">ETA</div>
+<div class="sel" value="304">Expresionismo alemán</div>
+<div class="sel" value="66">Extraterrestres</div>
+<div class="sel" value="164">Falso documental</div>
+<div class="sel" value="451">Falso tráiler</div>
+<div class="sel" value="13">Familia</div>
+<div class="sel" value="342">Fan Film</div>
+<div class="sel" value="30">Fantasía medieval</div>
+<div class="sel" value="186">Fantasmas</div>
+<div class="sel" value="28">Fantástico</div>
+<div class="sel" value="426">Fashion Film</div>
+<div class="sel" value="393">Feminismo</div>
+<div class="sel" value="120">Fin del mundo</div>
+<div class="sel" value="330">Flamenco</div>
+<div class="sel" value="90">Fotografía</div>
+<div class="sel" value="351">Free Cinema</div>
+<div class="sel" value="248">Fútbol</div>
+<div class="sel" value="239">Fútbol americano</div>
+<div class="sel" value="73">Futuro postapocalíptico</div>
+<div class="sel" value="221">Gatos</div>
+<div class="sel" value="242">Giallo</div>
+<div class="sel" value="348">Gimnasia</div>
+<div class="sel" value="365">Golf</div>
+<div class="sel" value="172">Gore</div>
+<div class="sel" value="155">Gran Depresión</div>
+<div class="sel" value="268">Guerra Chino-Japonesa (II)</div>
+<div class="sel" value="418">Guerra Civil Camboyana</div>
+<div class="sel" value="329">Guerra Civil de El Salvador</div>
+<div class="sel" value="316">Guerra Civil Española</div>
+<div class="sel" value="238">Guerra de Afganistán</div>
+<div class="sel" value="343">Guerra de Afganistán-URSS</div>
+<div class="sel" value="328">Guerra de Bosnia</div>
+<div class="sel" value="332">Guerra de Corea</div>
+<div class="sel" value="360">Guerra de Cuba</div>
+<div class="sel" value="274">Guerra de Independencia Americana</div>
+<div class="sel" value="203">Guerra de Iraq</div>
+<div class="sel" value="362">Guerra de la Independencia Española</div>
+<div class="sel" value="345">Guerra de las Malvinas</div>
+<div class="sel" value="269">Guerra de Líbano</div>
+<div class="sel" value="407">Guerra de los Balcanes</div>
+<div class="sel" value="273">Guerra de Secesión</div>
+<div class="sel" value="417">Guerra de Siria</div>
+<div class="sel" value="255">Guerra de Vietnam</div>
+<div class="sel" value="311">Guerra de Yugoslavia</div>
+<div class="sel" value="266">Guerra del Golfo</div>
+<div class="sel" value="178">Guerra Fría</div>
+<div class="sel" value="308">Guerras Napoleónicas</div>
+<div class="sel" value="262">Halloween</div>
+<div class="sel" value="301">Hip Hop</div>
+<div class="sel" value="341">Hípica</div>
+<div class="sel" value="111">Historias cruzadas</div>
+<div class="sel" value="87">Histórico</div>
+<div class="sel" value="366">Hockey sobre hielo</div>
+<div class="sel" value="99">Holocausto</div>
+<div class="sel" value="151">Holocausto nuclear</div>
+<div class="sel" value="179">Hombres lobo</div>
+<div class="sel" value="196">Homosexualidad</div>
+<div class="sel" value="235">I Guerra Mundial</div>
+<div class="sel" value="39">II Guerra Mundial</div>
+<div class="sel" value="385">INf</div>
+<div class="sel" value="193">Infancia</div>
+<div class="sel" value="60">Infantil</div>
+<div class="sel" value="175">Inmigración</div>
+<div class="sel" value="101">Insectos</div>
+<div class="sel" value="439">Inteligencia artificial</div>
+<div class="sel" value="43">Internet / Informática</div>
+<div class="sel" value="429">Internet/Informática</div>
+<div class="sel" value="14">Intriga</div>
+<div class="sel" value="271">IRA</div>
+<div class="sel" value="291">J-Horror</div>
+<div class="sel" value="228">James Bond</div>
+<div class="sel" value="223">Japón feudal</div>
+<div class="sel" value="163">Jazz</div>
+<div class="sel" value="440">Juana de Arco</div>
+<div class="sel" value="368">Judo</div>
+<div class="sel" value="275">Juego</div>
+<div class="sel" value="37">Juegos olímpicos</div>
+<div class="sel" value="346">Karate</div>
+<div class="sel" value="430">Krimi</div>
+<div class="sel" value="220">Lego</div>
+<div class="sel" value="222">Literatura</div>
+<div class="sel" value="391">Live-Action</div>
+<div class="sel" value="260">Looney Tunes</div>
+<div class="sel" value="162">Los Simpson</div>
+<div class="sel" value="136">Mafia</div>
+<div class="sel" value="218">Magia</div>
+<div class="sel" value="152">Manga</div>
+<div class="sel" value="244">Marionetas</div>
+<div class="sel" value="93">Marvel Comics</div>
+<div class="sel" value="401">Matemáticas</div>
+<div class="sel" value="416">Maternidad</div>
+<div class="sel" value="171">Medicina</div>
+<div class="sel" value="281">Mediometraje</div>
+<div class="sel" value="115">Melodrama</div>
+<div class="sel" value="125">Metraje encontrado</div>
+<div class="sel" value="294">Mickey Mouse</div>
+<div class="sel" value="135">Miniserie de TV</div>
+<div class="sel" value="132">Mitología</div>
+<div class="sel" value="367">Mockbuster</div>
+<div class="sel" value="219">Moda</div>
+<div class="sel" value="227">Monstruos</div>
+<div class="sel" value="413">Motion Comic</div>
+<div class="sel" value="169">Motos</div>
+<div class="sel" value="338">Mumblecore</div>
+<div class="sel" value="450">Mundo virtual</div>
+<div class="sel" value="176">Muñecos</div>
+<div class="sel" value="26">Música</div>
+<div class="sel" value="71">Musical</div>
+<div class="sel" value="335">Natación</div>
+<div class="sel" value="23">Naturaleza</div>
+<div class="sel" value="94">Navidad</div>
+<div class="sel" value="98">Nazismo</div>
+<div class="sel" value="63">Neo-noir</div>
+<div class="sel" value="305">Neorrealismo</div>
+<div class="sel" value="166">Ninjas</div>
+<div class="sel" value="433">Nochevieja / Año nuevo</div>
+<div class="sel" value="314">Nouvelle vague</div>
+<div class="sel" value="306">Nueva Ola Checoslovaca</div>
+<div class="sel" value="299">Ópera</div>
+
+<div class="sel" value="383">Orcas</div>
+<div class="sel" value="444">Orcas / Ballenas</div>
+<div class="sel" value="159">Orígenes del cine</div>
+<div class="sel" value="245">Osos</div>
+<div class="sel" value="153">Pájaros</div>
+<div class="sel" value="104">Pandemias</div>
+<div class="sel" value="287">Pantera rosa</div>
+<div class="sel" value="213">Parodia</div>
+<div class="sel" value="375">Patinaje sobre hielo</div>
+<div class="sel" value="376">Patinaje sobre ruedas</div>
+<div class="sel" value="380">Pato Donald</div>
+<div class="sel" value="411">Payasos</div>
+<div class="sel" value="272">Pearl Harbor</div>
+<div class="sel" value="96">Película de culto</div>
+<div class="sel" value="246">Película de episodios</div>
+<div class="sel" value="400">Película interactiva</div>
+<div class="sel" value="408">Película Mondo</div>
+<div class="sel" value="91">Periodismo</div>
+<div class="sel" value="258">Perros/Lobos</div>
+<div class="sel" value="279">Pesca</div>
+<div class="sel" value="303">Ping-pong</div>
+<div class="sel" value="92">Pintura</div>
+<div class="sel" value="126">Piratas</div>
+<div class="sel" value="139">Pixar</div>
+<div class="sel" value="425">Pixel Art</div>
+<div class="sel" value="97">Pobreza</div>
+<div class="sel" value="298">Póker</div>
+<div class="sel" value="438">Polar francés</div>
+<div class="sel" value="5">Policíaco</div>
+<div class="sel" value="7">Política</div>
+<div class="sel" value="447">Posesiones / Exorcismos</div>
+<div class="sel" value="184">Posesiones/Exorcismos</div>
+<div class="sel" value="285">Posguerra española</div>
+<div class="sel" value="116">Precuela</div>
+<div class="sel" value="288">Preescolar</div>
+<div class="sel" value="229">Prehistoria</div>
+<div class="sel" value="295">Propaganda</div>
+<div class="sel" value="165">Prostitución</div>
+<div class="sel" value="77">Racismo</div>
+<div class="sel" value="333">Radio</div>
+<div class="sel" value="264">Realismo mágico</div>
+<div class="sel" value="422">Realismo poético francés</div>
+<div class="sel" value="419">Reality</div>
+<div class="sel" value="437">Redes sociales</div>
+<div class="sel" value="183">Religión</div>
+<div class="sel" value="21">Remake</div>
+<div class="sel" value="324">Revolución Cubana</div>
+<div class="sel" value="317">Revolución cultural china</div>
+<div class="sel" value="307">Revolución Francesa</div>
+<div class="sel" value="352">Revolución Mexicana</div>
+<div class="sel" value="265">Revolución Rusa</div>
+<div class="sel" value="356">Revolución Sandinista</div>
+<div class="sel" value="150">Road Movie</div>
+<div class="sel" value="142">Robos & Atracos</div>
+<div class="sel" value="65">Robots</div>
+<div class="sel" value="197">Roedores</div>
+<div class="sel" value="25">Romance</div>
+<div class="sel" value="337">Rugby</div>
+<div class="sel" value="390">RV</div>
+<div class="sel" value="224">Samuráis</div>
+<div class="sel" value="121">Sátira</div>
+<div class="sel" value="243">Sectas</div>
+<div class="sel" value="32">Secuela</div>
+<div class="sel" value="16">Secuestros / Desapariciones</div>
+<div class="sel" value="350">Serie [Alfred Hitchcock presenta]</div>
+<div class="sel" value="359">Serie [Colombo]</div>
+<div class="sel" value="357">Serie [Cuentos asombrosos]</div>
+<div class="sel" value="372">Serie [Cuentos de las estrellas]</div>
+<div class="sel" value="378">Serie [Fear Itself]</div>
+<div class="sel" value="361">Serie [La huella del crimen]</div>
+<div class="sel" value="370">Serie [Masters of Horror]</div>
+<div class="sel" value="369">Serie [Pesadillas y alucinaciones]</div>
+<div class="sel" value="364">Serie [What a Cartoon!]</div>
+<div class="sel" value="232">Serie B</div>
+<div class="sel" value="404">Serie de antología</div>
+<div class="sel" value="1">Serie de TV</div>
+<div class="sel" value="147">Serie Online</div>
+<div class="sel" value="379">Serpientes</div>
+<div class="sel" value="410">Sexualidad y pornografía</div>
+<div class="sel" value="52">Sherlock Holmes</div>
+<div class="sel" value="216">SIDA</div>
+<div class="sel" value="202">Siglo IX</div>
+<div class="sel" value="371">Siglo VII</div>
+<div class="sel" value="349">Siglo VIII</div>
+<div class="sel" value="302">Siglo X</div>
+<div class="sel" value="347">Siglo XI</div>
+<div class="sel" value="312">Siglo XII</div>
+<div class="sel" value="344">Siglo XIII</div>
+<div class="sel" value="263">Siglo XIV</div>
+<div class="sel" value="79">Siglo XIX</div>
+<div class="sel" value="200">Siglo XV</div>
+<div class="sel" value="194">Siglo XVI</div>
+<div class="sel" value="88">Siglo XVII</div>
+<div class="sel" value="128">Siglo XVIII</div>
+<div class="sel" value="358">Silly Symphony</div>
+<div class="sel" value="114">Simios</div>
+<div class="sel" value="436">Síndrome de Down</div>
+<div class="sel" value="9">Sitcom</div>
+<div class="sel" value="170">Sitcom familiar</div>
+<div class="sel" value="327">Skateboard</div>
+<div class="sel" value="424">Skateboarding</div>
+<div class="sel" value="144">Sketches</div>
+<div class="sel" value="277">Slasher</div>
+<div class="sel" value="124">Sobrenatural</div>
+<div class="sel" value="78">Spaghetti Western</div>
+<div class="sel" value="177">Spin-off</div>
+<div class="sel" value="320">Stand-Up</div>
+<div class="sel" value="106">Star Trek</div>
+<div class="sel" value="226">Star Wars</div>
+<div class="sel" value="138">Steampunk</div>
+<div class="sel" value="204">Stop Motion</div>
+<div class="sel" value="340">Submarinismo</div>
+<div class="sel" value="270">Submarinos</div>
+<div class="sel" value="45">Superhéroes</div>
+<div class="sel" value="35">Supervivencia</div>
+<div class="sel" value="334">Surf</div>
+<div class="sel" value="241">Surrealismo</div>
+<div class="sel" value="315">Tarzán</div>
+<div class="sel" value="249">Teatro</div>
+<div class="sel" value="161">Telefilm</div>
+<div class="sel" value="323">Telenovela</div>
+<div class="sel" value="250">Televisión</div>
+<div class="sel" value="284">Tenis</div>
+<div class="sel" value="208">Terremotos</div>
+<div class="sel" value="44">Terror</div>
+<div class="sel" value="51">Terrorismo</div>
+<div class="sel" value="2">Thriller</div>
+<div class="sel" value="112">Thriller futurista</div>
+<div class="sel" value="49">Thriller psicológico</div>
+<div class="sel" value="231">Tiburones</div>
+<div class="sel" value="83">Titanic</div>
+<div class="sel" value="355">Tom y Jerry</div>
+<div class="sel" value="251">Toros</div>
+<div class="sel" value="198">Trabajo/empleo</div>
+<div class="sel" value="300">Transexualidad</div>
+<div class="sel" value="382">Transexualidad / transgénero</div>
+<div class="sel" value="446">Trenes / Metros</div>
+<div class="sel" value="109">Trenes/Metros</div>
+<div class="sel" value="389">True Crime</div>
+<div class="sel" value="53">Vampiros</div>
+<div class="sel" value="140">Vejez</div>
+<div class="sel" value="443">Vejez / Madurez</div>
+<div class="sel" value="428">Vejez/Madurez</div>
+<div class="sel" value="217">Vela</div>
+<div class="sel" value="80">Venganza</div>
+<div class="sel" value="141">Viajes en el tiempo</div>
+<div class="sel" value="64">Vida rural</div>
+<div class="sel" value="123">Vida rural (Norteamérica)</div>
+<div class="sel" value="395">Videoclip</div>
+<div class="sel" value="181">Videojuego</div>
+<div class="sel" value="449">Videojuego narrativo</div>
+<div class="sel" value="58">Vikingos</div>
+<div class="sel" value="214">Volcanes</div>
+<div class="sel" value="18">Vudú</div>
+<div class="sel" value="392">Webserie / Serie Online</div>
+<div class="sel" value="75">Western</div>
+<div class="sel" value="74">Western futurista</div>
+<div class="sel" value="206">Wrestling/Lucha libre</div>
+<div class="sel" value="420">Wuxia</div>
+<div class="sel" value="326">Yakuza & Triada</div>
+<div class="sel" value="381">Young Adult</div>
+<div class="sel" value="103">Zombis</div>
+</div>
+<div class="ct_vmg" onclick="ct_ver_mas_gen(1)">Ver más</div>
+</div>
+<div class="c_select d" onclick="ct_send_filter()"></div>
+<div style="display: none;" class="multiple_sel">
+<input type="hidden" name="generos[]" value="">
+</div>
+</div>
+<div class="select delal">
+<div class="select_a hover" delay="0.2" p_a="a_l" position="t" h_align="l" title_h="Filtrar por año">Década</div>
+<div class="selectable" id="year" style="display: none; width: 220px;">
+<div class="oh" style="max-height: 500px;">
+<div class="sel" value="" oname="Década">Todas las décadas</div>
+<div class="sel" value="190">1900 - 1909</div>
+<div class="sel" value="191">1910 - 1919</div>
+<div class="sel" value="192">1920 - 1929</div>
+<div class="sel" value="193">1930 - 1939</div>
+<div class="sel" value="194">1940 - 1949</div>
+<div class="sel" value="195">1950 - 1959</div>
+<div class="sel" value="196">1960 - 1969</div>
+<div class="sel" value="197">1970 - 1979</div>
+<div class="sel" value="198">1980 - 1989</div>
+<div class="sel" value="199">1990 - 1999</div>
+<div class="sel" value="200">2000 - 2009</div>
+<div class="sel" value="201">2010 - 2019</div>
+<div class="sel" value="202">2020 - Actualidad</div>
+<input title="Del" type="number" min="1877" max="2100" class="ct_del inputtext" placeholder="Del 1999" name="del" value="">
+<input title="Al" type="number" min="1877" max="2100" class="ct_al inputtext" placeholder="Al 2007" name="al" value="">
+</div>
+</div>
+<div class="c_select d" onclick="ct_send_filter();"></div>
+<input type="hidden" value="" name="year">
+</div>
+<div class="select delal">
+<div class="select_a hover" delay="0.2" p_a="a_l" position="t" h_align="l" title_h="Filtrar por país">País</div>
+<div class="selectable" id="pais" style="display: none; width: 260px;">
+<input type="text" class="sel_filter" placeholder="Filtrar" title="Filtrar" style="font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">
+<div class="oh">
+<div class="sel" value="" oname="País">Todos los países</div>
+<div class="sel" value="61">Afganistán</div>
+<div class="sel" value="121">Albania</div>
+<div class="sel" value="17">Alemania</div>
+<div class="sel" value="93">Alemania del Este (RDA)</div>
+<div class="sel" value="39">Alemania del Oeste (RFA)</div>
+<div class="sel" value="161">Andorra</div>
+<div class="sel" value="181">Angola</div>
+<div class="sel" value="190">Antigua y Barbuda</div>
+<div class="sel" value="69">Arabia Saudí</div>
+<div class="sel" value="81">Argelia</div>
+<div class="sel" value="8">Argentina</div>
+<div class="sel" value="103">Armenia</div>
+<div class="sel" value="188">Aruba</div>
+<div class="sel" value="4">Australia</div>
+<div class="sel" value="6">Austria</div>
+<div class="sel" value="116">Azerbaijan</div>
+<div class="sel" value="102">Bahamas</div>
+<div class="sel" value="165">Bahrein</div>
+<div class="sel" value="145">Bangladesh</div>
+<div class="sel" value="175">Barbados</div>
+<div class="sel" value="24">Bélgica</div>
+<div class="sel" value="183">Belize</div>
+<div class="sel" value="194">Benín</div>
+<div class="sel" value="180">Bielorrusia</div>
+<div class="sel" value="68">Bielorusia</div>
+<div class="sel" value="86">Bolivia</div>
+<div class="sel" value="56">Bosnia y Herzegovina</div>
+<div class="sel" value="182">Botswana</div>
+<div class="sel" value="15">Brasil</div>
+<div class="sel" value="171">Brunei</div>
+<div class="sel" value="71">Bulgaria</div>
+<div class="sel" value="98">Burkina Faso</div>
+<div class="sel" value="189">Burundi</div>
+<div class="sel" value="97">Bután</div>
+<div class="sel" value="157">Cabo Verde</div>
+<div class="sel" value="64">Camboya</div>
+<div class="sel" value="140">Camerún</div>
+<div class="sel" value="16">Canadá</div>
+<div class="sel" value="89">Chad</div>
+<div class="sel" value="41">Checoslovaquia</div>
+<div class="sel" value="30">Chile</div>
+<div class="sel" value="14">China</div>
+<div class="sel" value="144">Chipre</div>
+<div class="sel" value="222">Ciudad del Vaticano</div>
+<div class="sel" value="42">Colombia</div>
+<div class="sel" value="160">Congo</div>
+<div class="sel" value="170">Corea</div>
+<div class="sel" value="117">Corea del Norte</div>
+<div class="sel" value="12">Corea del Sur</div>
+<div class="sel" value="104">Costa de Marfil</div>
+<div class="sel" value="91">Costa Rica</div>
+<div class="sel" value="67">Croacia</div>
+<div class="sel" value="54">Cuba</div>
+<div class="sel" value="21">Dinamarca</div>
+<div class="sel" value="118">Dominica</div>
+<div class="sel" value="94">Ecuador</div>
+<div class="sel" value="58">Egipto</div>
+<div class="sel" value="151">El Salvador</div>
+<div class="sel" value="123">Emiratos Árabes</div>
+<div class="sel" value="220">Eritrea</div>
+<div class="sel" value="80">Eslovaquia</div>
+<div class="sel" value="101">Eslovenia</div>
+<div class="sel" value="2">España</div>
+<div class="sel" value="1">Estados Unidos</div>
+<div class="sel" value="75">Estonia</div>
+<div class="sel" value="107">Etiopía</div>
+<div class="sel" value="228">Fidji</div>
+<div class="sel" value="25">Filipinas</div>
+<div class="sel" value="48">Finlandia</div>
+<div class="sel" value="7">Francia</div>
+<div class="sel" value="203">Gabón</div>
+<div class="sel" value="225">Gambia</div>
+<div class="sel" value="76">Georgia</div>
+<div class="sel" value="162">Ghana</div>
+<div class="sel" value="201">Granada</div>
+<div class="sel" value="55">Grecia</div>
+<div class="sel" value="177">Groenlandia</div>
+<div class="sel" value="196">Guam</div>
+<div class="sel" value="110">Guatemala</div>
+<div class="sel" value="185">Guinea</div>
+<div class="sel" value="218">Guinea Bissau</div>
+<div class="sel" value="176">Guinea Ecuatorial</div>
+<div class="sel" value="168">Guyana</div>
+<div class="sel" value="153">Haití</div>
+<div class="sel" value="178">Honduras</div>
+<div class="sel" value="46">Hong Kong</div>
+<div class="sel" value="38">Hungría</div>
+<div class="sel" value="33">India</div>
+<div class="sel" value="57">Indonesia</div>
+<div class="sel" value="88">Irak</div>
+<div class="sel" value="44">Irán</div>
+<div class="sel" value="19">Irlanda</div>
+<div class="sel" value="32">Islandia</div>
+<div class="sel" value="198">Islas Caimán</div>
+<div class="sel" value="195">Islas Feroe</div>
+<div class="sel" value="229">Islas Salomón</div>
+<div class="sel" value="187">Islas Vírgenes</div>
+<div class="sel" value="11">Israel</div>
+<div class="sel" value="9">Italia</div>
+<div class="sel" value="82">Jamaica</div>
+<div class="sel" value="13">Japón</div>
+<div class="sel" value="84">Jordania</div>
+<div class="sel" value="74">Kazajstán</div>
+<div class="sel" value="92">Kenia</div>
+<div class="sel" value="158">Kirguistán</div>
+<div class="sel" value="192">Kiribati</div>
+<div class="sel" value="156">Kosovo</div>
+<div class="sel" value="146">Kuwait</div>
+<div class="sel" value="193">Laos</div>
+<div class="sel" value="191">Lesotho</div>
+<div class="sel" value="106">Letonia</div>
+<div class="sel" value="70">Líbano</div>
+<div class="sel" value="105">Liberia</div>
+<div class="sel" value="100">Libia</div>
+<div class="sel" value="154">Liechtenstein</div>
+<div class="sel" value="83">Lituania</div>
+<div class="sel" value="22">Luxemburgo</div>
+<div class="sel" value="169">Macao</div>
+<div class="sel" value="45">Macedonia</div>
+<div class="sel" value="122">Madagascar</div>
+<div class="sel" value="111">Malasia</div>
+<div class="sel" value="172">Malawi</div>
+<div class="sel" value="90">Mali</div>
+<div class="sel" value="159">Malta</div>
+<div class="sel" value="65">Marruecos</div>
+<div class="sel" value="149">Marshall (Islas)</div>
+<div class="sel" value="213">Martinica</div>
+<div class="sel" value="200">Mauricio (Isla)</div>
+<div class="sel" value="95">Mauritania</div>
+<div class="sel" value="31">México</div>
+<div class="sel" value="223">Micronesia</div>
+<div class="sel" value="113">Moldavia</div>
+<div class="sel" value="147">Mónaco</div>
+<div class="sel" value="59">Mongolia</div>
+<div class="sel" value="173">Montenegro</div>
+<div class="sel" value="115">Mozambique</div>
+<div class="sel" value="150">Myanmar - Birmania</div>
+<div class="sel" value="143">Namibia</div>
+<div class="sel" value="85">Nepal</div>
+<div class="sel" value="99">Nicaragua</div>
+<div class="sel" value="164">Níger</div>
+<div class="sel" value="120">Nigeria</div>
+<div class="sel" value="5">Noruega</div>
+<div class="sel" value="224">NU</div>
+<div class="sel" value="211">Nueva Caledonia</div>
+<div class="sel" value="34">Nueva Zelanda</div>
+<div class="sel" value="197">Omán</div>
+<div class="sel" value="35">Países Bajos (Holanda)</div>
+<div class="sel" value="155">Palau</div>
+<div class="sel" value="50">Palestina</div>
+<div class="sel" value="73">Panamá</div>
+<div class="sel" value="226">Papua Nueva Guinea</div>
+<div class="sel" value="87">Paquistán</div>
+<div class="sel" value="78">Paraguay</div>
+<div class="sel" value="47">Perú</div>
+<div class="sel" value="216">Polinesia francesa</div>
+<div class="sel" value="26">Polonia</div>
+<div class="sel" value="52">Portugal</div>
+<div class="sel" value="79">Puerto Rico</div>
+<div class="sel" value="141">Qatar</div>
+<div class="sel" value="3">Reino Unido</div>
+<div class="sel" value="210">Rep. Árabe Saharaui Democrática</div>
+<div class="sel" value="214">Rep. Centroafricana</div>
+<div class="sel" value="109">Rep. Dominicana</div>
+<div class="sel" value="28">República Checa</div>
+<div class="sel" value="108">República del Congo</div>
+<div class="sel" value="148">Ruanda</div>
+<div class="sel" value="66">Rumanía</div>
+<div class="sel" value="49">Rusia</div>
+<div class="sel" value="227">Samoa</div>
+<div class="sel" value="215">Samoa Americana</div>
+<div class="sel" value="217">San Cristóbal y Nieves</div>
+<div class="sel" value="119">San Marino</div>
+<div class="sel" value="208">San Vicente y las Granadinas</div>
+<div class="sel" value="202">Santo Tomé y Príncipe</div>
+<div class="sel" value="62">Senegal</div>
+<div class="sel" value="29">Serbia</div>
+<div class="sel" value="60">Serbia y Montenegro</div>
+<div class="sel" value="163">Sierra Leona</div>
+<div class="sel" value="27">Singapur</div>
+<div class="sel" value="51">Siria</div>
+<div class="sel" value="209">Somalia</div>
+<div class="sel" value="114">Sri Lanka</div>
+<div class="sel" value="10">Sudáfrica</div>
+<div class="sel" value="174">Sudán</div>
+<div class="sel" value="199">Sudán del Sur</div>
+<div class="sel" value="18">Suecia</div>
+<div class="sel" value="37">Suiza</div>
+<div class="sel" value="219">Surinam</div>
+<div class="sel" value="179">Swazilandia</div>
+<div class="sel" value="77">Tailandia</div>
+<div class="sel" value="53">Taiwán</div>
+<div class="sel" value="166">Tajikistan</div>
+<div class="sel" value="186">Tanzania</div>
+<div class="sel" value="184">Timor Oriental</div>
+<div class="sel" value="167">Togo</div>
+<div class="sel" value="204">Tonga</div>
+<div class="sel" value="142">Trinidad y Tobago</div>
+<div class="sel" value="96">Túnez</div>
+<div class="sel" value="20">Turquía</div>
+<div class="sel" value="72">Ucrania</div>
+<div class="sel" value="139">Uganda</div>
+<div class="sel" value="40">Unión Soviética (URSS)</div>
+<div class="sel" value="23">Uruguay</div>
+<div class="sel" value="112">Uzbekistan</div>
+<div class="sel" value="205">Vanuatu</div>
+<div class="sel" value="36">Venezuela</div>
+<div class="sel" value="63">Vietnam</div>
+<div class="sel" value="221">XYU</div>
+<div class="sel" value="138">Yemen</div>
+<div class="sel" value="43">Yugoslavia</div>
+<div class="sel" value="212">Zambia</div>
+<div class="sel" value="152">Zimbabwe</div>
+</div>
+</div>
+<div class="c_select d"></div>
+<input type="hidden" value="" name="pais">
+</div>
+<div class="select">
+<div class="select_a hover" delay="0.2" p_a="a_l" position="t" h_align="l" title_h="Orden en el que mostrar las fichas">Más populares</div>
+<div class="selectable" id="order" style="display: none; width: 200px;">
+<div class="oh">
+<div class="sel" id="c_a" value="1">Más nuevas</div>
+<div class="sel" id="c_p" value="9">Más populares</div>
+<div class="sel" id="c_v" value="6">Mejor valoradas</div>
+<div class="sel" value="8">Aleatorio</div>
+<div style="width: 180px; margin-left: 10px;">
+<div class="cf_simple cf_small scf_fs13">
+<div class="cf_txt">
+Orden inverso
+</div>
+<div class="cf_action">
+<div class="f_switch" onclick="ct_reverse_order()">
+<input type="hidden" name="reverse_order" value="0">
+</div>
+</div>
+</div>
+</div>
+<div onclick="message_error('Para poder guardar el orden como predeterminado tiene que estar identificado');" title="Guardar este orden como predeterminado" style="cursor: pointer;display: block;margin: 5px 10px 5px 10px;clear: both;float: left;width: 158px;font-weight: normal;text-align: center;" class="button9">Guardar orden</div>
+</div>
+</div>
+<div class="c_select d" onclick="ct_send_filter()"></div>
+<input type="hidden" value="" name="order">
+</div>
+<div class="select">
+<div class="select_a hover" delay="0.2" p_a="a_l" position="t" h_align="l" title_h="Varias opciones más">Más opciones</div>
+<div class="selectable" id="mas" style="display: none; width: 253px; right: 0px;">
+<div class="oh" style="overflow: visible; max-height: 700px;">
+<div style="margin: 9px 14px;">
+<input title="Director" type="text" class="ct_director inputtext" placeholder="Director" onkeyup="search_api({mode: 'persona', function: 'ct_add_director({data})', input: '.ct_director', content: '.ct_director_r'})" autocomplete="off">
+<div class="cf_se_pp ct_director_r">
+<div class="cf_se_pp_c">
+<div class="cf_se_pp_l"><div class="s_load1 load15"></div></div>
+</div>
+</div>
+<div class="ct_director_c">
+</div>
+<input title="Reparto" type="text" class="ct_reparto inputtext" placeholder="Reparto" onkeyup="search_api({mode: 'persona', function: 'ct_add_reparto({data})', input: '.ct_reparto', content: '.ct_reparto_r'})" autocomplete="off">
+<div class="cf_se_pp ct_reparto_r">
+<div class="cf_se_pp_c">
+<div class="cf_se_pp_l"><div class="s_load1 load15"></div></div>
+</div>
+</div>
+<div class="ct_reparto_c">
+</div>
+<div class="ct_de_a">
+<input title="De" type="number" min="1" max="2000" class="ct_de inputtext" placeholder="De 50" name="de" value="">
+<input title="A" type="number" min="1" max="2000" class="ct_a inputtext" placeholder="a 70 minutos" name="a" value="">
+<cb></cb>
+</div>
+<div class="cf_simple scf_fs13">
+<div class="cf_txt">
+Ocultar fichas marcadas
+</div>
+<div class="cf_action">
+<div class="f_switch">
+<input type="hidden" name="ofm" value="0">
+</div>
+</div>
+</div>
+<div class="cf_simple scf_fs13">
+<div class="cf_txt">
+Fichas en cines
+</div>
+<div class="cf_action">
+<div class="f_switch">
+<input type="hidden" name="en_cines" value="0">
+</div>
+</div>
+</div>
+<cb></cb>
+<div class="cf_separator cf_separator_m14"></div>
+<div class="cf_simple scf_fs13">
+<div class="cf_txt">
+Filtros en las series
+</div>
+</div>
+<div class="a1 select multiple or all_equal_null style2" style="width: 230px;">
+<div class="select_a" style="margin-right: 0px;">Estado de la serie</div>
+<div class="selectable" id="edls" style="display: none; position: absolute; width: 100%; min-width: 50px; box-sizing: border-box;">
+<div class="oh">
+<div class="sel null" value="" oname="Estado de la serie">Todas las series</div>
+<div class="sel" value="1">En emisión</div>
+<div class="sel" value="7">En parón de la temporada</div>
+<div class="sel" value="2">En espera de nueva temporada</div>
+<div class="sel" value="6">En espera de renovación</div>
+<div class="sel" value="5">En espera de estreno</div>
+<div class="sel" value="3">Finalizada</div>
+<div class="sel" value="4">Cancelada</div>
+</div>
+</div>
+<div style="display: none;" class="multiple_sel">
+<input type="hidden" name="edls[]" value="">
+</div>
+<div class="a1 c_select d"></div>
+</div>
+<cb></cb>
+</div>
+</div>
+</div>
+<div class="c_select d" onclick="ct_send_filter()"></div>
+<input type="hidden">
+</div>
+</form>
+<script type="text/javascript">
+		click_a('tipo', '');
+
+		cf_auto_select('generos', '', '');
+		
+		ct_ver_mas_gen(2);
+		click_a('year', '');
+		ct_del_al();
+		click_a('pais', '');
+		click_a('order', '9');
+		click_a('available', '');
+
+		click_a('e_idioma', '');
+		click_a('e_subtitulos', '');
+		click_a('e_calidad', '');
+		click_a('edls', '');
+		var reverse_order_var = false;
+		$('.ct_form').css('opacity', '1');
+	</script>
+<div class="ct_f">
+<span class="c_fichas_mark_parent_explorar" style="display: none;"></span>
+<script type="text/javascript">rd_fichas = true; rd_explorar(true);</script>
+<span class="c_fichas_mark_parent_explorar" style="display: none;"></span>
+<div class="c_fichas c_fichas168 c_ficha_id129457" title="Spider-Man: No Way Home">
+<div class="c_fichas_image" style="background-color: #786470; border-radius: 3px;">
+<a href="./spider-man-no-way-home-f129457">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(129457)" src-data="https://playmax.xyz/img/c/400/259/1639624544/129457.jpg" src-data-1="https://playmax.xyz/img/c/200/259/1639624544/129457.jpg" src-data-2="https://playmax.xyz/img/c/400/259/1639624544/129457.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">9.3</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1524659738/cines.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./spider-man-no-way-home-f129457">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1524666505/cines.jpg)"></div>
+<span>
+En Cines
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="129457" valuation="9.3" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">Spider-Man: No Way Home</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id106592" title="No mires arriba">
+<div class="c_fichas_image" style="background-color: #f8f4e8; border-radius: 3px;">
+<a href="./no-mires-arriba-f106592">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(106592)" src-data="https://playmax.xyz/img/c/400/214/1637085949/106592.jpg" src-data-1="https://playmax.xyz/img/c/200/214/1637085949/106592.jpg" src-data-2="https://playmax.xyz/img/c/400/214/1637085949/106592.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">7.6</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=106592&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="106592" valuation="7.6" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">No mires arriba</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id94485 s" title="Ojo de Halcón">
+<div class="c_fichas_image" style="background-color: #8e459c; border-radius: 3px;">
+<a href="./ojo-de-halcon-f94485">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(94485)" src-data="https://playmax.xyz/img/c/400/189/1640667655/94485.jpg" src-data-1="https://playmax.xyz/img/c/200/189/1640667655/94485.jpg" src-data-2="https://playmax.xyz/img/c/400/189/1640667655/94485.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.5</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=94485&c_id=&site_id=181" target="_blank" title="Ver en Disney+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<span>
+Disney+
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="94485" valuation="8.5" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Ojo de Halcón</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id40797 s" title="The Witcher">
+<div class="c_fichas_image" style="background-color: #111d26; border-radius: 3px;">
+<a href="./the-witcher-f40797">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(40797)" src-data="https://playmax.xyz/img/c/400/82/1576831930/40797.jpg" src-data-1="https://playmax.xyz/img/c/200/82/1576831930/40797.jpg" src-data-2="https://playmax.xyz/img/c/400/82/1576831930/40797.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.0</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=40797&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2019</div>
+<div class="c_fichas_data" ficha_id="40797" valuation="8.0" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">The Witcher</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id125053 s" title="Emily en París">
+<div class="c_fichas_image" style="background-color: #743975; border-radius: 3px;">
+<a href="./emily-en-paris-f125053">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(125053)" src-data="https://playmax.xyz/img/c/400/251/1602268577/125053.jpg" src-data-1="https://playmax.xyz/img/c/200/251/1602268577/125053.jpg" src-data-2="https://playmax.xyz/img/c/400/251/1602268577/125053.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">7.8</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=125053&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2020</div>
+<div class="c_fichas_data" ficha_id="125053" valuation="7.8" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Emily en París</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id143476 s" title="La rueda del tiempo">
+<div class="c_fichas_image" style="background-color: #4e7889; border-radius: 3px;">
+<a href="./la-rueda-del-tiempo-f143476">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(143476)" src-data="https://playmax.xyz/img/c/400/287/1635712530/143476.jpg" src-data-1="https://playmax.xyz/img/c/200/287/1635712530/143476.jpg" src-data-2="https://playmax.xyz/img/c/400/287/1635712530/143476.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">6.9</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529662277/amazon_prime_video.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=143476&c_id=&site_id=163" target="_blank" title="Ver en Amazon Prime Video">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
+<span>
+Amazon Prime Video
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="143476" valuation="6.9" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">La rueda del tiempo</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id40613 s" title="La casa de papel">
+<div class="c_fichas_image" style="background-color: #131b27; border-radius: 3px;">
+<a href="./la-casa-de-papel-f40613">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(40613)" src-data="https://playmax.xyz/img/c/400/82/1568571190/40613.jpg" src-data-1="https://playmax.xyz/img/c/200/82/1568571190/40613.jpg" src-data-2="https://playmax.xyz/img/c/400/82/1568571190/40613.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.8</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a3">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1555407104/atresplayer.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./la-casa-de-papel-f40613">""
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>28.00 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40613&c_id=&site_id=17" target="_blank" title="Ver en AtresPlayer">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1555407168/atresplayer.jpg)"></div>
+<span>
+AtresPlayer
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40613&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2017</div>
+<div class="c_fichas_data" ficha_id="40613" valuation="8.8" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">La casa de papel</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id139505" title="Encanto">
+<div class="c_fichas_image" style="background-color: #3b5830; border-radius: 3px;">
+<a href="./encanto-f139505">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(139505)" src-data="https://playmax.xyz/img/c/400/280/1640704596/139505.jpg" src-data-1="https://playmax.xyz/img/c/200/280/1640704596/139505.jpg" src-data-2="https://playmax.xyz/img/c/400/280/1640704596/139505.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.4</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1524659738/cines.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1588181380/amazon_prime_video_store.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1524651682/google_play.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1526813903/itunes.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1528361149/microsoft.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1550605974/rakuten_tv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./encanto-f139505">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1524666505/cines.jpg)"></div>
+<span>
+En Cines
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=139505&c_id=&site_id=194" target="_blank" title="Ver en Amazon Prime Video Store">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1588179628/amazon_prime_video_store.jpg)"></div>
+<span>
+<div>Amazon Prime Video Store</div>
+<span>11.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=139505&c_id=&site_id=181" target="_blank" title="Ver en Disney+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<span>
+Disney+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=139505&c_id=&site_id=7" target="_blank" title="Ver en Google Play">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1510083324/google_play.jpg)"></div>
+<span>
+<div>Google Play</div>
+<span>13.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=139505&c_id=&site_id=147" target="_blank" title="Ver en iTunes">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1526814261/itunes.jpg)"></div>
+<span>
+<div>iTunes</div>
+<span>11.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=139505&c_id=&site_id=161" target="_blank" title="Ver en Microsoft">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1528360805/microsoft.jpg)"></div>
+<span>
+<div>Microsoft</div>
+<span>11.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=139505&c_id=&site_id=27" target="_blank" title="Ver en Rakuten TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1550604937/rakuten_tv.jpg)"></div>
+<span>
+<div>Rakuten TV</div>
+<span>11.99 €</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="139505" valuation="8.4" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">Encanto</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id172696" title="Spider-Man: Lotus">
+<div class="c_fichas_image" style="background-color: #606166; border-radius: 3px;">
+<a href="./spider-man-lotus-f172696">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(172696)" src-data="https://playmax.xyz/img/c/400/346/1635429644/172696.jpg" src-data-1="https://playmax.xyz/img/c/200/346/1635429644/172696.jpg" src-data-2="https://playmax.xyz/img/c/400/346/1635429644/172696.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">--</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2022</div>
+<div class="c_fichas_data" ficha_id="172696" valuation="--" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">Spider-Man: Lotus</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id343 s" title="Anatomía de Grey">
+<div class="c_fichas_image" style="background-color: #8f949c; border-radius: 3px;">
+<a href="./anatomia-de-grey-f343">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(343)" src-data="https://playmax.xyz/img/c/400/1/1487783605/343.jpg" src-data-1="https://playmax.xyz/img/c/200/1/1487783605/343.jpg" src-data-2="https://playmax.xyz/img/c/400/1/1487783605/343.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">9.0</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1529662277/amazon_prime_video.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./anatomia-de-grey-f343">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>10.95 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=343&c_id=&site_id=163" target="_blank" title="Ver en Amazon Prime Video">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
+<span>
+Amazon Prime Video
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=343&c_id=&site_id=181" target="_blank" title="Ver en Disney+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<span>
+Disney+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=343&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=343&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2005</div>
+<div class="c_fichas_data" ficha_id="343" valuation="9.0" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Anatomía de Grey</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id175537 s" title="Harry Potter: El Torneo de las Casas de Hogwarts">
+<div class="c_fichas_image" style="background-color: #414d4a; border-radius: 3px;">
+<a href="./harry-potter-el-torneo-de-las-casas-de-hogwarts-f175537">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(175537)" src-data="https://playmax.xyz/img/c/400/352/1640545205/175537.jpg" src-data-1="https://playmax.xyz/img/c/200/352/1640545205/175537.jpg" src-data-2="https://playmax.xyz/img/c/400/352/1640545205/175537.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.2</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a3">
+<div style="background-image: url(https://playmax.xyz/img/ex/1635191699/hbomax.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=175537&c_id=&site_id=256" target="_blank" title="Ver en HBO Max">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1635191556/hbomax.jpg)"></div>
+<span>
+HBO Max
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=175537&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=175537&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="175537" valuation="8.2" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Harry Potter: El Torneo de las Casas de Hogwarts</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id166549 s" title="El juego del calamar">
+<div class="c_fichas_image" style="background-color: #545c53; border-radius: 3px;">
+<a href="./el-juego-del-calamar-f166549">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(166549)" src-data="https://playmax.xyz/img/c/400/334/1640449004/166549.jpg" src-data-1="https://playmax.xyz/img/c/200/334/1640449004/166549.jpg" src-data-2="https://playmax.xyz/img/c/400/334/1640449004/166549.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.0</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=166549&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="166549" valuation="8.0" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">El juego del calamar</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id167488 s" title="Los protegidos: El regreso">
+<div class="c_fichas_image" style="background-color: #a05f78; border-radius: 3px;">
+<a href="./los-protegidos-el-regreso-f167488">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(167488)" src-data="https://playmax.xyz/img/c/400/335/1630055438/167488.jpg" src-data-1="https://playmax.xyz/img/c/200/335/1630055438/167488.jpg" src-data-2="https://playmax.xyz/img/c/400/335/1630055438/167488.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">7.2</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1555407104/atresplayer.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=167488&c_id=&site_id=17" target="_blank" title="Ver en AtresPlayer">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1555407168/atresplayer.jpg)"></div>
+<span>
+AtresPlayer
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="167488" valuation="7.2" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Los protegidos: El regreso</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id281 s" title="The Walking Dead">
+<div class="c_fichas_image" style="background-color: #9b9686; border-radius: 3px;">
+<a href="./the-walking-dead-f281">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(281)" src-data="https://playmax.xyz/img/c/400/1/1525932708/281.jpg" src-data-1="https://playmax.xyz/img/c/200/1/1525932708/281.jpg" src-data-2="https://playmax.xyz/img/c/400/1/1525932708/281.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.7</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1635191699/hbomax.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1592332764/orange_tv.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1537964991/vodafonetv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./the-walking-dead-f281">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>3.54 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=281&c_id=&site_id=181" target="_blank" title="Ver en Disney+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<span>
+Disney+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=281&c_id=&site_id=256" target="_blank" title="Ver en HBO Max">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1635191556/hbomax.jpg)"></div>
+<span>
+HBO Max
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=281&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=281&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=281&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=281&c_id=&site_id=197" target="_blank" title="Ver en Orange TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1592329928/orange_tv.jpg)"></div>
+<span>
+Orange TV
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=281&c_id=&site_id=169" target="_blank" title="Ver en Vodafone TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1537964816/vodafonetv.jpg)"></div>
+<span>
+Vodafone TV
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2010</div>
+<div class="c_fichas_data" ficha_id="281" valuation="8.7" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">The Walking Dead</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id158316 s" title="Dexter: New Blood">
+<div class="c_fichas_image" style="background-color: #1f2225; border-radius: 3px;">
+<a href="./dexter-new-blood-f158316">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(158316)" src-data="https://playmax.xyz/img/c/400/317/1633348833/158316.jpg" src-data-1="https://playmax.xyz/img/c/200/317/1633348833/158316.jpg" src-data-2="https://playmax.xyz/img/c/400/317/1633348833/158316.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">9.2</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a4">
+<div style="background-image: url(https://playmax.xyz/img/ex/1584887340/fubotv.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1537964991/vodafonetv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=158316&c_id=&site_id=183" target="_blank" title="Ver en FuboTV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1584886630/fubotv.jpg)"></div>
+<span>
+FuboTV
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=158316&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=158316&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=158316&c_id=&site_id=169" target="_blank" title="Ver en Vodafone TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1537964816/vodafonetv.jpg)"></div>
+<span>
+Vodafone TV
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="158316" valuation="9.2" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Dexter: New Blood</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id37555 s" title="Riverdale">
+<div class="c_fichas_image" style="background-color: #530201; border-radius: 3px;">
+<a href="./riverdale-f37555">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(37555)" src-data="https://playmax.xyz/img/c/400/76/1518105840/37555.jpg" src-data-1="https://playmax.xyz/img/c/200/76/1518105840/37555.jpg" src-data-2="https://playmax.xyz/img/c/400/76/1518105840/37555.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.9</div>
+ <div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1584887340/fubotv.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1635191699/hbomax.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1537964991/vodafonetv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./riverdale-f37555">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>16.10 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=37555&c_id=&site_id=183" target="_blank" title="Ver en FuboTV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1584886630/fubotv.jpg)"></div>
+<span>
+FuboTV
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=37555&c_id=&site_id=256" target="_blank" title="Ver en HBO Max">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1635191556/hbomax.jpg)"></div>
+<span>
+HBO Max
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=37555&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=37555&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=37555&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=37555&c_id=&site_id=169" target="_blank" title="Ver en Vodafone TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1537964816/vodafonetv.jpg)"></div>
+<span>
+Vodafone TV
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2017</div>
+<div class="c_fichas_data" ficha_id="37555" valuation="8.9" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Riverdale</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id111326" title="Matrix Resurrections">
+<div class="c_fichas_image" style="background-color: #41504e; border-radius: 3px;">
+<a href="./matrix-resurrections-f111326">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(111326)" src-data="https://playmax.xyz/img/c/400/223/1640077542/111326.jpg" src-data-1="https://playmax.xyz/img/c/200/223/1640077542/111326.jpg" src-data-2="https://playmax.xyz/img/c/400/223/1640077542/111326.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">6.6</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1524659738/cines.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./matrix-resurrections-f111326">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1524666505/cines.jpg)"></div>
+<span>
+En Cines
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="111326" valuation="6.6" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">Matrix Resurrections</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id104149" title="Venom: Habrá matanza">
+<div class="c_fichas_image" style="background-color: #0e2a41; border-radius: 3px;">
+<a href="./venom-habra-matanza-f104149">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(104149)" src-data="https://playmax.xyz/img/c/400/209/1631045153/104149.jpg" src-data-1="https://playmax.xyz/img/c/200/209/1631045153/104149.jpg" src-data-2="https://playmax.xyz/img/c/400/209/1631045153/104149.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">6.8</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1524659738/cines.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1588181380/amazon_prime_video_store.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1524651682/google_play.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1526813903/itunes.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1528361149/microsoft.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1579107644/movistar_alquiler.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1550605974/rakuten_tv.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1537964991/vodafonetv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./venom-habra-matanza-f104149">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1524666505/cines.jpg)"></div>
+<span>
+En Cines
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=104149&c_id=&site_id=194" target="_blank" title="Ver en Amazon Prime Video Store">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1588179628/amazon_prime_video_store.jpg)"></div>
+<span>
+<div>Amazon Prime Video Store</div>
+<span>12.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=104149&c_id=&site_id=7" target="_blank" title="Ver en Google Play">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1510083324/google_play.jpg)"></div>
+<span>
+<div>Google Play</div>
+<span>12.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=104149&c_id=&site_id=147" target="_blank" title="Ver en iTunes">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1526814261/itunes.jpg)"></div>
+<span>
+<div>iTunes</div>
+<span>12.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=104149&c_id=&site_id=161" target="_blank" title="Ver en Microsoft">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1528360805/microsoft.jpg)"></div>
+<span>
+<div>Microsoft</div>
+<span>12.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=104149&c_id=&site_id=187" target="_blank" title="Ver en Movistar+ Alquiler">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1579107655/movistar_alquiler.jpg)"></div>
+<span>
+<div>Movistar+ Alquiler</div>
+<span>12.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=104149&c_id=&site_id=27" target="_blank" title="Ver en Rakuten TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1550604937/rakuten_tv.jpg)"></div>
+<span>
+<div>Rakuten TV</div>
+<span>12.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=104149&c_id=&site_id=169" target="_blank" title="Ver en Vodafone TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1537964816/vodafonetv.jpg)"></div>
+<span>
+Vodafone TV
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="104149" valuation="6.8" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">Venom: Habrá matanza</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id255 s" title="Los Simpson">
+<div class="c_fichas_image" style="background-color: #cead73; border-radius: 3px;">
+<a href="./los-simpson-f255">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(255)" src-data="https://playmax.xyz/img/c/400/1/1485452104/255.jpg" src-data-1="https://playmax.xyz/img/c/200/1/1485452104/255.jpg" src-data-2="https://playmax.xyz/img/c/400/1/1485452104/255.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.8</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a4">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./los-simpson-f255">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>20.36 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=255&c_id=&site_id=181" target="_blank" title="Ver en Disney+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<span>
+Disney+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=255&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=255&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">1989</div>
+<div class="c_fichas_data" ficha_id="255" valuation="8.8" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Los Simpson</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id46501 s" title="Succession">
+<div class="c_fichas_image" style="background-color: #3d2b27; border-radius: 3px;">
+<a href="./succession-f46501">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(46501)" src-data="https://playmax.xyz/img/c/400/94/1530632124/46501.jpg" src-data-1="https://playmax.xyz/img/c/200/94/1530632124/46501.jpg" src-data-2="https://playmax.xyz/img/c/400/94/1530632124/46501.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.7</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a2">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1635191699/hbomax.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./succession-f46501">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>21.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=46501&c_id=&site_id=256" target="_blank" title="Ver en HBO Max">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1635191556/hbomax.jpg)"></div>
+<span>
+HBO Max
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2018</div>
+<div class="c_fichas_data" ficha_id="46501" valuation="8.7" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Succession</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id73639 s" title="Élite">
+<div class="c_fichas_image" style="background-color: #db0120; border-radius: 3px;">
+<a href="./elite-f73639">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(73639)" src-data="https://playmax.xyz/img/c/400/148/1567975757/73639.jpg" src-data-1="https://playmax.xyz/img/c/200/148/1567975757/73639.jpg" src-data-2="https://playmax.xyz/img/c/400/148/1567975757/73639.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.0</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=73639&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2018</div>
+<div class="c_fichas_data" ficha_id="73639" valuation="8.0" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Élite</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id380 s" title="The Flash">
+<div class="c_fichas_image" style="background-color: #42291f; border-radius: 3px;">
+<a href="./the-flash-f380">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(380)" src-data="https://playmax.xyz/img/c/400/1/1440580465/380.jpg" src-data-1="https://playmax.xyz/img/c/200/1/1440580465/380.jpg" src-data-2="https://playmax.xyz/img/c/400/1/1440580465/380.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.8</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1635191699/hbomax.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1528361149/microsoft.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./the-flash-f380">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>24.00 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=380&c_id=&site_id=256" target="_blank" title="Ver en HBO Max">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1635191556/hbomax.jpg)"></div>
+<span>
+HBO Max
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=380&c_id=&site_id=161" target="_blank" title="Ver en Microsoft">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1528360805/microsoft.jpg)"></div>
+<span>
+<div>Microsoft</div>
+<span>19.49 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=380&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=380&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2014</div>
+<div class="c_fichas_data" ficha_id="380" valuation="8.8" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">The Flash</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id41670" title="Spider-Man: Lejos de casa">
+<div class="c_fichas_image" style="background-color: #bab5b1; border-radius: 3px;">
+<a href="./spider-man-lejos-de-casa-f41670">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(41670)" src-data="https://playmax.xyz/img/c/400/84/1557899826/41670.jpg" src-data-1="https://playmax.xyz/img/c/200/84/1557899826/41670.jpg" src-data-2="https://playmax.xyz/img/c/400/84/1557899826/41670.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">7.6</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1529662277/amazon_prime_video.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1588181380/amazon_prime_video_store.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1524651682/google_play.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1526813903/itunes.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1528361149/microsoft.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1550605974/rakuten_tv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./spider-man-lejos-de-casa-f41670">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>7.49 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=41670&c_id=&site_id=163" target="_blank" title="Ver en Amazon Prime Video">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
+<span>
+Amazon Prime Video
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=41670&c_id=&site_id=194" target="_blank" title="Ver en Amazon Prime Video Store">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1588179628/amazon_prime_video_store.jpg)"></div>
+<span>
+<div>Amazon Prime Video Store</div>
+<span>1.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=41670&c_id=&site_id=7" target="_blank" title="Ver en Google Play">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1510083324/google_play.jpg)"></div>
+<span>
+<div>Google Play</div>
+<span>1.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=41670&c_id=&site_id=147" target="_blank" title="Ver en iTunes">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1526814261/itunes.jpg)"></div>
+<span>
+<div>iTunes</div>
+<span>3.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=41670&c_id=&site_id=161" target="_blank" title="Ver en Microsoft">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1528360805/microsoft.jpg)"></div>
+<span>
+<div>Microsoft</div>
+<span>1.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=41670&c_id=&site_id=27" target="_blank" title="Ver en Rakuten TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1550604937/rakuten_tv.jpg)"></div>
+<span>
+<div>Rakuten TV</div>
+<span>2.99 €</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2019</div>
+<div class="c_fichas_data" ficha_id="41670" valuation="7.6" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">Spider-Man: Lejos de casa</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id98187" title="El último duelo">
+<div class="c_fichas_image" style="background-color: #ffffff; border-radius: 3px;">
+<a href="./el-ultimo-duelo-f98187">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(98187)" src-data="https://playmax.xyz/img/c/400/197/1635670627/98187.jpg" src-data-1="https://playmax.xyz/img/c/200/197/1635670627/98187.jpg" src-data-2="https://playmax.xyz/img/c/400/197/1635670627/98187.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">7.8</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1588181380/amazon_prime_video_store.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1524651682/google_play.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1526813903/itunes.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1528361149/microsoft.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1550605974/rakuten_tv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./el-ultimo-duelo-f98187">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>18.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=98187&c_id=&site_id=194" target="_blank" title="Ver en Amazon Prime Video Store">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1588179628/amazon_prime_video_store.jpg)"></div>
+<span>
+<div>Amazon Prime Video Store</div>
+<span>13.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=98187&c_id=&site_id=181" target="_blank" title="Ver en Disney+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<span>
+Disney+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=98187&c_id=&site_id=7" target="_blank" title="Ver en Google Play">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1510083324/google_play.jpg)"></div>
+<span>
+<div>Google Play</div>
+<span>16.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=98187&c_id=&site_id=147" target="_blank" title="Ver en iTunes">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1526814261/itunes.jpg)"></div>
+<span>
+<div>iTunes</div>
+<span>13.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=98187&c_id=&site_id=161" target="_blank" title="Ver en Microsoft">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1528360805/microsoft.jpg)"></div>
+<span>
+<div>Microsoft</div>
+<span>13.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=98187&c_id=&site_id=27" target="_blank" title="Ver en Rakuten TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1550604937/rakuten_tv.jpg)"></div>
+<span>
+<div>Rakuten TV</div>
+<span>13.99 €</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="98187" valuation="7.8" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">El último duelo</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id88684 s" title="Demon Slayer: Kimetsu no Yaiba">
+<div class="c_fichas_image" style="background-color: #e7e7e8; border-radius: 3px;">
+<a href="./demon-slayer-kimetsu-no-yaiba-f88684">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(88684)" src-data="https://playmax.xyz/img/c/400/178/1554655784/88684.jpg" src-data-1="https://playmax.xyz/img/c/200/178/1554655784/88684.jpg" src-data-2="https://playmax.xyz/img/c/400/178/1554655784/88684.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">9.1</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a2">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1525328905/crunchyroll.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./demon-slayer-kimetsu-no-yaiba-f88684">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>28.79 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=88684&c_id=&site_id=18" target="_blank" title="Ver en Crunchyroll">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1510086189/crunchyroll.jpg)"></div>
+<span>
+Crunchyroll
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2019</div>
+<div class="c_fichas_data" ficha_id="88684" valuation="9.1" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Demon Slayer: Kimetsu no Yaiba</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id141827 s" title="Mar de la tranquilidad">
+<div class="c_fichas_image" style="background-color: #2c1716; border-radius: 3px;">
+<a href="./mar-de-la-tranquilidad-f141827">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(141827)" src-data="https://playmax.xyz/img/c/400/284/1639969246/141827.jpg" src-data-1="https://playmax.xyz/img/c/200/284/1639969246/141827.jpg" src-data-2="https://playmax.xyz/img/c/400/284/1639969246/141827.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">7.3</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=141827&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="141827" valuation="7.3" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Mar de la tranquilidad</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id96978 s" title="Arcane: League of Legends">
+<div class="c_fichas_image" style="background-color: #e5e4e5; border-radius: 3px;">
+<a href="./arcane-league-of-legends-f96978">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(96978)" src-data="https://playmax.xyz/img/c/400/194/1635790848/96978.jpg" src-data-1="https://playmax.xyz/img/c/200/194/1635790848/96978.jpg" src-data-2="https://playmax.xyz/img/c/400/194/1635790848/96978.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">9.0</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=96978&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="96978" valuation="9.0" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Arcane: League of Legends</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id127998" title="Imperdonable">
+<div class="c_fichas_image" style="background-color: #c3b6ac; border-radius: 3px;">
+<a href="./imperdonable-f127998">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(127998)" src-data="https://playmax.xyz/img/c/400/256/1637120135/127998.jpg" src-data-1="https://playmax.xyz/img/c/200/256/1637120135/127998.jpg" src-data-2="https://playmax.xyz/img/c/400/256/1637120135/127998.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.1</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=127998&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="127998" valuation="8.1" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">Imperdonable</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id1315 s" title="Ataque a los Titanes">
+<div class="c_fichas_image" style="background-color: #1d262b; border-radius: 3px;">
+<a href="./ataque-a-los-titanes-f1315">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(1315)" src-data="https://playmax.xyz/img/c/400/3/1496406403/1315.jpg" src-data-1="https://playmax.xyz/img/c/200/3/1496406403/1315.jpg" src-data-2="https://playmax.xyz/img/c/400/3/1496406403/1315.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">9.1</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a4">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1529662277/amazon_prime_video.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1525328905/crunchyroll.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./ataque-a-los-titanes-f1315">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>11.20 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=1315&c_id=&site_id=163" target="_blank" title="Ver en Amazon Prime Video">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
+<span>
+Amazon Prime Video
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=1315&c_id=&site_id=18" target="_blank" title="Ver en Crunchyroll">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1510086189/crunchyroll.jpg)"></div>
+<span>
+Crunchyroll
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=1315&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2013</div>
+<div class="c_fichas_data" ficha_id="1315" valuation="9.1" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Ataque a los Titanes</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id141178 s" title="El libro de Boba Fett">
+<div class="c_fichas_image" style="background-color: #f0d36b; border-radius: 3px;">
+<a href="./el-libro-de-boba-fett-f141178">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(141178)" src-data="https://playmax.xyz/img/c/400/283/1635809217/141178.jpg" src-data-1="https://playmax.xyz/img/c/200/283/1635809217/141178.jpg" src-data-2="https://playmax.xyz/img/c/400/283/1635809217/141178.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">--</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=141178&c_id=&site_id=181" target="_blank" title="Ver en Disney+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<span>
+Disney+
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="141178" valuation="--" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">El libro de Boba Fett</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id40846 s" title="The Good Doctor">
+<div class="c_fichas_image" style="background-color: #d7b159; border-radius: 3px;">
+<a href="./the-good-doctor-f40846">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(40846)" src-data="https://playmax.xyz/img/c/400/82/1511778392/40846.jpg" src-data-1="https://playmax.xyz/img/c/200/82/1511778392/40846.jpg" src-data-2="https://playmax.xyz/img/c/400/82/1511778392/40846.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.6</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1529662277/amazon_prime_video.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1592332764/orange_tv.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1537964991/vodafonetv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./the-good-doctor-f40846">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>7.20 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40846&c_id=&site_id=163" target="_blank" title="Ver en Amazon Prime Video">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
+<span>
+Amazon Prime Video
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40846&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40846&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40846&c_id=&site_id=197" target="_blank" title="Ver en Orange TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1592329928/orange_tv.jpg)"></div>
+<span>
+Orange TV
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40846&c_id=&site_id=169" target="_blank" title="Ver en Vodafone TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1537964816/vodafonetv.jpg)"></div>
+<span>
+Vodafone TV
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2017</div>
+<div class="c_fichas_data" ficha_id="40846" valuation="8.6" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">The Good Doctor</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id83553 s" title="Loki">
+<div class="c_fichas_image" style="background-color: #68411c; border-radius: 3px;">
+<a href="./loki-f83553">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(83553)" src-data="https://playmax.xyz/img/c/400/168/1620993014/83553.jpg" src-data-1="https://playmax.xyz/img/c/200/168/1620993014/83553.jpg" src-data-2="https://playmax.xyz/img/c/400/168/1620993014/83553.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.4</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=83553&c_id=&site_id=181" target="_blank" title="Ver en Disney+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<span>
+Disney+
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="83553" valuation="8.4" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Loki</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id40804 s" title="El joven Sheldon">
+<div class="c_fichas_image" style="background-color: #dfe2e6; border-radius: 3px;">
+<a href="./el-joven-sheldon-f40804">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(40804)" src-data="https://playmax.xyz/img/c/400/82/1498410747/40804.jpg" src-data-1="https://playmax.xyz/img/c/200/82/1498410747/40804.jpg" src-data-2="https://playmax.xyz/img/c/400/82/1498410747/40804.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.2</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1584887340/fubotv.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1537964991/vodafonetv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./el-joven-sheldon-f40804">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>18.09 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40804&c_id=&site_id=183" target="_blank" title="Ver en FuboTV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1584886630/fubotv.jpg)"></div>
+<span>
+FuboTV
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40804&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40804&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=40804&c_id=&site_id=169" target="_blank" title="Ver en Vodafone TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1537964816/vodafonetv.jpg)"></div>
+<span>
+Vodafone TV
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2017</div>
+<div class="c_fichas_data" ficha_id="40804" valuation="8.2" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">El joven Sheldon</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id36316 s" title="The Expanse">
+<div class="c_fichas_image" style="background-color: #786f6b; border-radius: 3px;">
+<a href="./the-expanse-f36316">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(36316)" src-data="https://playmax.xyz/img/c/400/73/1449929444/36316.jpg" src-data-1="https://playmax.xyz/img/c/200/73/1449929444/36316.jpg" src-data-2="https://playmax.xyz/img/c/400/73/1449929444/36316.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.1</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a2">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1529662277/amazon_prime_video.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./the-expanse-f36316">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>14.56 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=36316&c_id=&site_id=163" target="_blank" title="Ver en Amazon Prime Video">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
+<span>
+Amazon Prime Video
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2015</div>
+<div class="c_fichas_data" ficha_id="36316" valuation="8.1" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">The Expanse</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id139760 s" title="And Just Like That...">
+<div class="c_fichas_image" style="background-color: #9a7863; border-radius: 3px;">
+<a href="./and-just-like-that-f139760">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(139760)" src-data="https://playmax.xyz/img/c/400/280/1638348047/139760.jpg" src-data-1="https://playmax.xyz/img/c/200/280/1638348047/139760.jpg" src-data-2="https://playmax.xyz/img/c/400/280/1638348047/139760.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.2</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a1">
+<div style="background-image: url(https://playmax.xyz/img/ex/1635191699/hbomax.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=139760&c_id=&site_id=256" target="_blank" title="Ver en HBO Max">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1635191556/hbomax.jpg)"></div>
+<span>
+HBO Max
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="139760" valuation="8.2" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">And Just Like That...</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id330 s" title="Peaky Blinders">
+<div class="c_fichas_image" style="background-color: #02050a; border-radius: 3px;">
+<a href="./peaky-blinders-f330">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(330)" src-data="https://playmax.xyz/img/c/400/1/1485452104/330.jpg" src-data-1="https://playmax.xyz/img/c/200/1/1485452104/330.jpg" src-data-2="https://playmax.xyz/img/c/400/1/1485452104/330.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">9.2</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a3">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1529662277/amazon_prime_video.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./peaky-blinders-f330">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>31.81 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=330&c_id=&site_id=163" target="_blank" title="Ver en Amazon Prime Video">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
+<span>
+Amazon Prime Video
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=330&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2013</div>
+<div class="c_fichas_data" ficha_id="330" valuation="9.2" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Peaky Blinders</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id102745" title="Dune">
+<div class="c_fichas_image" style="background-color: #77a2a0; border-radius: 3px;">
+<a href="./dune-f102745">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(102745)" src-data="https://playmax.xyz/img/c/400/206/1628621151/102745.jpg" src-data-1="https://playmax.xyz/img/c/200/206/1628621151/102745.jpg" src-data-2="https://playmax.xyz/img/c/400/206/1628621151/102745.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">7.7</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1588181380/amazon_prime_video_store.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1524651682/google_play.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1526813903/itunes.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1528361149/microsoft.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1579107644/movistar_alquiler.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1592332764/orange_tv.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1550605974/rakuten_tv.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./dune-f102745">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>20.83 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=102745&c_id=&site_id=194" target="_blank" title="Ver en Amazon Prime Video Store">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1588179628/amazon_prime_video_store.jpg)"></div>
+<span>
+<div>Amazon Prime Video Store</div>
+<span>4.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=102745&c_id=&site_id=7" target="_blank" title="Ver en Google Play">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1510083324/google_play.jpg)"></div>
+<span>
+<div>Google Play</div>
+<span>5.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=102745&c_id=&site_id=147" target="_blank" title="Ver en iTunes">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1526814261/itunes.jpg)"></div>
+<span>
+<div>iTunes</div>
+<span>13.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=102745&c_id=&site_id=161" target="_blank" title="Ver en Microsoft">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1528360805/microsoft.jpg)"></div>
+<span>
+<div>Microsoft</div>
+<span>5.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=102745&c_id=&site_id=187" target="_blank" title="Ver en Movistar+ Alquiler">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1579107655/movistar_alquiler.jpg)"></div>
+<span>
+<div>Movistar+ Alquiler</div>
+<span>4.99 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=102745&c_id=&site_id=197" target="_blank" title="Ver en Orange TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1592329928/orange_tv.jpg)"></div>
+<span>
+Orange TV
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=102745&c_id=&site_id=27" target="_blank" title="Ver en Rakuten TV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1550604937/rakuten_tv.jpg)"></div>
+<span>
+<div>Rakuten TV</div>
+<span>4.99 €</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2021</div>
+<div class="c_fichas_data" ficha_id="102745" valuation="7.7" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie=""></div>
+</div>
+<div class="c_fichas_title">Dune</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id4563 s" title="Brooklyn Nine-Nine">
+<div class="c_fichas_image" style="background-color: #93b6c0; border-radius: 3px;">
+<a href="./brooklyn-nine-nine-f4563">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(4563)" src-data="https://playmax.xyz/img/c/400/10/1495793001/4563.jpg" src-data-1="https://playmax.xyz/img/c/200/10/1495793001/4563.jpg" src-data-2="https://playmax.xyz/img/c/400/10/1495793001/4563.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.8</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1584887340/fubotv.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./brooklyn-nine-nine-f4563">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>5.24 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=4563&c_id=&site_id=183" target="_blank" title="Ver en FuboTV">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1584886630/fubotv.jpg)"></div>
+<span>
+FuboTV
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=4563&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=4563&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=4563&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2013</div>
+<div class="c_fichas_data" ficha_id="4563" valuation="8.8" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">Brooklyn Nine-Nine</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id2044 s" title="The Office">
+<div class="c_fichas_image" style="background-color: #4e494a; border-radius: 3px;">
+<a href="./the-office-f2044">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(2044)" src-data="https://playmax.xyz/img/c/400/5/1548599577/2044.jpg" src-data-1="https://playmax.xyz/img/c/200/5/1548599577/2044.jpg" src-data-2="https://playmax.xyz/img/c/400/5/1548599577/2044.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">9.2</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a3">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529245249/amazon.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1529662277/amazon_prime_video.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1523968534/netflix.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./the-office-f2044">
+ <div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+<span>
+<div>Amazon</div>
+<span>15.40 €</span>
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=2044&c_id=&site_id=163" target="_blank" title="Ver en Amazon Prime Video">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
+<span>
+Amazon Prime Video
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=2044&c_id=&site_id=12" target="_blank" title="Ver en Netflix">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+<span>
+Netflix
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2005</div>
+<div class="c_fichas_data" ficha_id="2044" valuation="9.2" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">The Office</div>
+</div>
+<div class="c_fichas c_fichas168 c_ficha_id106449 s" title="HIT">
+<div class="c_fichas_image" style="background-color: #342f2c; border-radius: 3px;">
+<a href="./hit-f106449">
+<div class="c_fichas_gradiente_t"></div>
+<img style="opacity: 0; transition-duration: 0.4s;" onload="ficha_show_image(106449)" src-data="https://playmax.xyz/img/c/400/213/1600200722/106449.jpg" src-data-1="https://playmax.xyz/img/c/200/213/1600200722/106449.jpg" src-data-2="https://playmax.xyz/img/c/400/213/1600200722/106449.jpg">
+<div class="c_fichas_gradiente_b"></div>
+</a>
+<div class="c_fichas_valuation">
+<div class="c_fichas_valuation_val">8.4</div>
+<div class="c_fichas_valuation_event"></div>
+</div>
+<div class="c_fichas_options_available">
+<div class="c_fichas_available c_fichas_a5">
+<div style="background-image: url(https://playmax.xyz/img/ex/1529662277/amazon_prime_video.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1635191699/hbomax.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1527748095/movistar.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1560864375/movistar_lite.png)"></div><div style="background-image: url(https://playmax.xyz/img/ex/1525872037/rtve.png)"></div>
+</div>
+<cb></cb>
+<div class="c_fichas_available_list">
+<a href="./go_vod.php?ficha_id=106449&c_id=&site_id=163" target="_blank" title="Ver en Amazon Prime Video">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
+<span>
+Amazon Prime Video
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=106449&c_id=&site_id=181" target="_blank" title="Ver en Disney+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<span>
+Disney+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=106449&c_id=&site_id=256" target="_blank" title="Ver en HBO Max">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1635191556/hbomax.jpg)"></div>
+<span>
+HBO Max
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=106449&c_id=&site_id=160" target="_blank" title="Ver en Movistar+">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+<span>
+Movistar+
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=106449&c_id=&site_id=179" target="_blank" title="Ver en Movistar+ Lite">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1560865255/movistar_lite.jpg)"></div>
+<span>
+Movistar+ Lite
+</span>
+</div>
+</a>
+<a href="./go_vod.php?ficha_id=106449&c_id=&site_id=16" target="_blank" title="Ver en RTVE">
+<div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1510085034/rtve.jpg)"></div>
+<span>
+RTVE
+</span>
+</div>
+</a>
+</div>
+</div>
+<div class="c_fichas_options">
+<div class="c_fichas_marked">
+<img class="c_fichas_marked_null" src="https://playmax.xyz/svg/ffffff/bs=3/marked_null.svg">
+</div>
+<cb></cb>
+<div class="c_fichas_options_content"></div>
+</div>
+<div class="c_fichas_year">2020</div>
+<div class="c_fichas_data" ficha_id="106449" valuation="8.4" user_valuation="" marked="" marked_original="" hide_current_marked="0" opacity_change_marked="0" serie="1"></div>
+</div>
+<div class="c_fichas_title">HIT</div>
+</div>
+<script type="text/javascript">ficha_cheack_visible();ficha_is_in_position();</script>
+<cb></cb>
+</div>
+<div style="margin-bottom: 30px; margin-top: 30px;" id="pagination" class="pagination dos new center">
+<span>
+<strong>1</strong><span class="page-sep">, </span><a href="/explorar.php?start=40">2</a><span class="page-sep">, </span><a href="/explorar.php?start=80">3</a><span class="page-sep">, </span><a href="/explorar.php?start=120">4</a><span class="page-sep">, </span><a href="/explorar.php?start=160">5</a><span class="page-dots"> ... </span><a href="/explorar.php?start=177720">4444</a>&nbsp;&nbsp;<a href="/explorar.php?start=40" class="next">Siguiente</a>
+</span>
+</div>
+<div style="text-align: center;">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9797654625010771" data-ad-slot="8823149295" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+		     (adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+</div>
+<script type="text/javascript">
+
+	paginacion_ajax();
+	hide_ads_low_size();
+	
+	</script>
+</div>
+<script type="text/javascript">
+
+ct_form_var = $('.ct_form').serialize()+'&start=0';
+
+var ct_form_html = $('.ct_content').html();
+window.history.replaceState(ct_form_html, 'Explorar', location.href);
+ct_form_data[ct_form_var] = ct_form_html;
+
+</script>
+<script type="text/javascript">form_events();ficha_events();common_events();</script>
+<script type="text/javascript">
+
+ct_events();
+
+</script>
+</div>
+</div>
+<div id="hover_t"></div>
+<div id="page-footer">
+<script type="text/javascript">
+				
+				function footerHeight()
+				{
+					var footer = document.querySelector('#page-footer');
+
+					if(footer)
+						footer_height = footer.getBoundingClientRect().height;
+				}
+
+			</script>
+<div class="pf_content">
+<div class="pf_cl"><span style="font-weight: 500;">PlayMax</span> 2021</div>
+<div class="footerLists">
+<div class="footerList">
+<a href="./explorar.php?tipo%5B%5D=1">
+<div class="footerListTitle">Series populares</div>
+</a>
+<a href="./ojo-de-halcon-f94485">
+<div class="footerListItem">Ojo de Halcón</div>
+</a>
+<a href="./the-witcher-f40797">
+<div class="footerListItem">The Witcher</div>
+</a>
+<a href="./emily-en-paris-f125053">
+<div class="footerListItem">Emily en París</div>
+</a>
+<a href="./la-rueda-del-tiempo-f143476">
+<div class="footerListItem">La rueda del tiempo</div>
+</a>
+<a href="./la-casa-de-papel-f40613">
+ <div class="footerListItem">La casa de papel</div>
+</a>
+</div>
+<div class="footerList">
+<a href="./explorar.php?tipo%5B%5D=2">
+<div class="footerListTitle">Peliculas populares</div>
+</a>
+<a href="./spider-man-no-way-home-f129457">
+<div class="footerListItem">Spider-Man: No Way Home</div>
+</a>
+<a href="./no-mires-arriba-f106592">
+<div class="footerListItem">No mires arriba</div>
+</a>
+<a href="./encanto-f139505">
+<div class="footerListItem">Encanto</div>
+</a>
+<a href="./spider-man-lotus-f172696">
+<div class="footerListItem">Spider-Man: Lotus</div>
+</a>
+<a href="./venom-habra-matanza-f104149">
+<div class="footerListItem">Venom: Habrá matanza</div>
+</a>
+</div>
+<div class="footerList">
+<a href="./vod.php">
+<div class="footerListTitle">Top proveedores VOD</div>
+</a>
+<a href="./netflix-s12">
+<div class="footerListItem">Netflix</div>
+</a>
+<a href="./amazon-prime-video-s163">
+<div class="footerListItem">Amazon Prime Video</div>
+</a>
+<a href="./hbomax-s256">
+<div class="footerListItem">HBO Max</div>
+</a>
+<a href="./disney-s181">
+<div class="footerListItem">Disney+</div>
+</a>
+<a href="./movistar-s160">
+<div class="footerListItem">Movistar+</div>
+</a>
+</div>
+<div class="footerList">
+<a href="./vod.php?mode=about_to_expire">
+<div class="footerListTitle">Contenido que expirara en VOD</div>
+</a>
+<a href="./netflix-s12?order=about_to_expire">
+<div class="footerListItem">Netflix</div>
+</a>
+<a href="./amazon-prime-video-s163?order=about_to_expire">
+<div class="footerListItem">Amazon Prime Video</div>
+</a>
+<a href="./hbomax-s256?order=about_to_expire">
+<div class="footerListItem">HBO Max</div>
+</a>
+<a href="./movistar-s160?order=about_to_expire">
+<div class="footerListItem">Movistar+</div>
+</a>
+<a href="./filmin-s8?order=about_to_expire">
+<div class="footerListItem">Filmin</div>
+</a>
+</div>
+<cb></cb>
+</div>
+<div class="footerListRight">
+<a href="https://play.google.com/store/apps/details?id=mx.playmax.app&referrer=utm_source%3Dplaymax%26utm_medium%3Dfooter" target="_blank">
+<img src="/images/google_play.png" style="height: 40px; width: 135px; margin-right: 12px;">
+</a>
+<a href="https://itunes.apple.com/es/app/playmax-app/id1450105440?l=es&ls=1&mt=&ct=footer" target="_blank">
+<img alt="Disponible en App Store" src="/images/app_store.png" style="height: 40px; width: 120px">
+</a>
+</div>
+<cb></cb>
+<div class="fotterMore">
+<a href="./about.php"><div>Acerca de PlayMax</div></a>
+<a href="./official-apps"><div>Apps</div></a>
+<a href="./documentacion_api.php"><div>API</div></a>
+<a href="./terms_and_conditions.php"><div>Términos y Condiciones</div></a>
+<a href="./cookie.php"><div>Política de Cookies</div></a>
+<a href="javascript:void(0)" onclick="cookies_configuration()"><div>Configuración de las Cookies</div></a>
+<a href="javascript:void(0)"><div onclick="contacto(1)">Contacto</div></a>
+<cb></cb>
+</div>
+</div>
+<script type="text/javascript">footerHeight(); $(window).on('resize', footerHeight);</script>
+<script type="text/javascript">
+			mp_active();
+			function contacto(mode, title, text)
+			{
+				title = title || '';
+				text = text || '';
+
+				if(mode == 1)
+				{
+					html = '<input type="text" placeholder="Nombre" style="width: 538px; margin-left: 20px; margin-top: 20px;" id="c_nombre" name="name" maxlength="100" value="" class="inputtext" title="Nombre"><br><br><input type="text" placeholder="Email" name="email" id="c_email" style="width: 538px; margin-left: 20px;" maxlength="150" value="" class="inputtext" title="Email"><br><br><input type="text" placeholder="Asunto" name="asunto" id="c_asunto" style="width: 538px; margin-left: 20px;" maxlength="150" value="'+title+'" class="inputtext" title="Asunto"><br><br><textarea name="message" id="c_mensaje" placeholder="Mensaje" rows="8" style="height: 100px; width: 560px; margin-left: 20px; outline: 0px; resize: none;" cols="30" class="inputtext">'+text+'</textarea><cb></cb><div style="height: 20px; line-height: 20px; margin-top: 16px;"><div class="checkbox s20 np" style="float: left; margin-left: 20px;"><input type="checkbox" name="c_consent" class="c_consent"></div>Doy mi consentimiento para que PlayMax almacene los datos enviados en este formulario.</div><divd class="anadirenlaces" onclick="contacto(2)" style="margin: 17px 0px 0px 20px; position: static; display: inline-block; border-radius: 3px;">Enviar</divd>';
+
+					popup_m_n('restart', '');
+					popup_m_n('title', 'Contacto');
+					popup_m_n('content', html);
+					popup_m_n('height', 382);
+					popup_m_n('mostrar', '');
+
+					form_events();
+				}
+				else
+				{
+
+					var nombre = document.getElementById("c_nombre").value;
+					var email = document.getElementById("c_email").value;
+					var asunto = document.getElementById("c_asunto").value;
+					var mensaje = document.getElementById("c_mensaje").value;
+
+					if(nombre.length >= 1 && email.length >= 1 && asunto.length >= 1 && mensaje.length >= 1 && $('.c_consent').is(':checked'))
+					{
+						cargando_n('on');
+
+						var ajaxpm = $.ajax({ 
+						type: "POST", 
+						url: "data_a.php?mode=contacto", 
+						data: 'name=' + encodeURIComponent(nombre) + '&email=' + encodeURIComponent(email) + '&asunto=' + encodeURIComponent(asunto) + '&mensaje=' + encodeURIComponent(mensaje),
+						success: function(msg){
+
+							if(msg == '')
+							{
+								cargando_n_good('El mensaje ha sido enviado correctamente');
+								popup_m_n('ocultar');
+							}
+							else
+							{
+								cargando_n_error('Ha habido un error al enviar los datos');
+							}
+
+						} 
+						});
+					}
+					else
+					{
+						cargando_n_error('Ninguno de los campos puede estar vació');
+					}
+				}
+			}
+
+			</script>
+</div>
+<script type="text/javascript">ficha_update_align(true);</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113468236-1"></script>
+<script>
+						window.dataLayer = window.dataLayer || [];
+						function gtag(){dataLayer.push(arguments);}
+						gtag('js', new Date());
+
+						gtag('config', 'UA-113468236-1');
+						gtag('config', 'AW-776428186');
+					</script>
+</body>
+</html>
