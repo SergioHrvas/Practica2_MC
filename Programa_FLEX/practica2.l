@@ -108,8 +108,7 @@ int main(){
 
 void getTitulo(const char * texto, char *titulo){
     int terminado=0;
-    int caracterRaro=0;    //&amp;
-    //int comillaSimple=0; //&#039;
+    int caracterRaro=0;
     for(int i=0; texto[i]!='\0' && terminado==0; i++){
         if(texto[i]=='\''){
             int contador=i+1;
@@ -140,35 +139,31 @@ void arreglarCadena(char * titulo){
    int error = 0;
    for(int i=0; titulo[i]!='\0'; i++){
        if(pongo){
-           if(titulo[i]!='\\'){
-             titulo2[k]=titulo[i];
-             k++;
-           }
-           else{
-            titulo2[k]='\'';
-            k++;
-           }
+           if(titulo[i]!='\\')
+             titulo2[k++]=titulo[i];
+
+           else
+            titulo2[k++]='\'';
        }
         if((titulo[i]=='&' && titulo[i+1]=='a') || (titulo[i]=='\\' && titulo[i+1]=='&')){
-            if(titulo[i]=='&'){ error = 1;}
-            if(titulo[i]=='\\'){error = 2;}
+            if(titulo[i]=='&')
+                error = 1;
+            
+            if(titulo[i]=='\\')
+                error = 2;
+
             pongo = 0;
         }
-        if(pongo == 0){
+        if(pongo == 0)
            contador++;
-        }
 
-        if (error == 1 && contador == 5){
-            contador = 0;
-            pongo = 1;
-            error = 0;
-        }
-        else if (error == 2 && contador == 7){
+        if ((error == 1 && contador == 5) || (error == 2 && contador == 7)){
             contador = 0;
             pongo = 1;
             error = 0;
         }
     }
+
     titulo2[k]='\0';
 
     strcpy(titulo, titulo2);
