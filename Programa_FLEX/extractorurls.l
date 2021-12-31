@@ -9,7 +9,7 @@ void getURL(const char * texto, char * url);
 %}
 digitos [0-9]
 letrasdigitos [a-zA-Zá-úÁ-Ú0-9]
-caracteres [{}<>\,:-]
+caracteres [\-{}<>\,:\&]
 espacio " "
 url "3px;\">\n<a href=\"./"({letrasdigitos}|{caracteres})+"f"{digitos}+"\">"
 
