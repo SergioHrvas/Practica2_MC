@@ -77,7 +77,7 @@ bool PeliculaSerie::getesPelicula() const
 
 istream &operator>>(istream &in, PeliculaSerie &p)
 {
-    string texto = "Titulo de la serie: ";
+    string texto = "Titulo: ";
     int tam = texto.size();
     string aux;
 
@@ -160,12 +160,12 @@ istream &operator>>(istream &in, PeliculaSerie &p)
 
 ostream &operator<<(ostream &out, const PeliculaSerie &p)
 {
-    out << "Titulo de la serie: " << p.titulo << endl;
+    out << "Titulo: " << p.titulo << endl;
 
     if (p.getesPelicula())
     {
         string hora = " hora";
-        string minuto = " minutos";
+        string minuto = " minuto";
 
         if (p.getHoras() > 1)
             hora += "s";

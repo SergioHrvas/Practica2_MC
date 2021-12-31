@@ -90,7 +90,7 @@ duracion "<span itemprop=\"duration\" datetime=\""{letrasdigitos}+"\">"{digitos}
 %%
 int yywrap()
 {
-    printf("Titulo de la serie: %s\n", i);
+    printf("Titulo: %s\n", i);
     if(temporadas == 0)
         printf("Duracion: %s\n", duracion2);
     else

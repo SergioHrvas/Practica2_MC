@@ -69,12 +69,13 @@ int main()
             }
         }
 
-        system("echo FIN >> tmp3");
+        
         //llamar al programa lex con esa salida de antes para que detecte urls de pelis y series -> las vuelca en un archivo
         //for de cada linea de ese archivo (enlace1, enlace2...) ejecutando el programa principal
         //una
         file.close();
     }
+    system("echo FIN >> tmp3");
 
 
     ConjuntoPeliculaSeries p("tmp3");
