@@ -39,7 +39,7 @@ float getNota(const char *v){
 %}
 digitos [0-9]
 letrasdigitos [a-zA-Zá-úÁ-Ú0-9]
-caracteres [{}<>\,:-]
+caracteres [{}<>\,:\-¿?!¡\.]
 amp "&amp;"
 comillas "\\&#039;"
 espacio " "
@@ -97,7 +97,7 @@ int yywrap()
         printf("Temporadas: %d\n", temporadas);
 
     printf("Nota: %.1f\n", puntuacion);
-    printf("Pais: %s\n", pais);
+    printf("Pais: %s\n********************\n", pais);
 
     return 1;
 
