@@ -1,5 +1,5 @@
 #include "conjunto.h"
-
+#include <map>
 
 /*************************************************
 ------------------SeriePelicula-------------------
@@ -89,10 +89,10 @@ istream &operator>>(istream &in, PeliculaSerie &p)
 
     getline(in, aux);
 
-    if (aux[0] == 'D')
+    if (aux[0] == 'D' and aux[aux.size() - 1] != ' ')
     { //extraemos duracion
         texto = "Duracion: ";
-
+        string aux3 = aux;
         aux.erase(0, texto.size());
         p.setesPelicula(true);
 
@@ -136,6 +136,12 @@ istream &operator>>(istream &in, PeliculaSerie &p)
         int temporadas = atoi(aux2);
 
         p.setTemporadas(temporadas);
+    }
+    else
+    {
+        p.setesPelicula(true);
+        p.horas = 0;
+        p.minutos = 0;
     }
 
     texto = "Nota: ";
@@ -189,77 +195,169 @@ ostream &operator<<(ostream &out, const PeliculaSerie &p)
 -------------ConjuntoSeriesPeliculas--------------
 *************************************************/
 
-
-istream &operator>>(istream &in, ConjuntoPeliculaSeries &p){
+istream &operator>>(istream &in, ConjuntoPeliculaSeries &p)
+{
     string aux;
     PeliculaSerie aux2;
 
     //getline(in, aux);
 
-    do{
-        in>>aux2;
+    do
+    {
+        in >> aux2;
 
         p.add(aux2);
-        
+
         getline(in, aux);
-    }while(aux=="********************" and (char)in.peek()!='F');
+    } while (aux == "********************" and (char) in.peek() != 'F');
 
     return in;
 }
 
-ostream &operator<<(ostream &out, const ConjuntoPeliculaSeries &p){
-    for(auto it=p.series.cbegin(); it!=p.series.cend(); ++it){
-        out<<*it;
-        out<<"********************" <<endl;
+ostream &operator<<(ostream &out, const ConjuntoPeliculaSeries &p)
+{
+    for (auto it = p.series.cbegin(); it != p.series.cend(); ++it)
+    {
+        out << *it;
+        out << "********************" << endl;
     }
 
-    for(auto it=p.peliculas.cbegin(); it!=p.peliculas.cend(); ++it){
-        out<<*it;
-        out<<"********************"<< endl;
+    for (auto it = p.peliculas.cbegin(); it != p.peliculas.cend(); ++it)
+    {
+        out << *it;
+        out << "********************" << endl;
     }
-    out<<"FIN" <<endl;
+    out << "FIN" << endl;
     //cout << "Nota Media Series: " << p.getNotaMediaSeries() <<endl << "Nota Media Peliculas: "<< p.getNotaMediaPeliculas() << endl << "Nota media: " << p.getNotaMedia();
 
     //cout <<"size: " <<p.series.size()+p.peliculas.size()<<endl;
     return out;
 }
 
-void ConjuntoPeliculaSeries::add(const PeliculaSerie & p){
-    if(p.getesPelicula())
+void ConjuntoPeliculaSeries::add(const PeliculaSerie &p)
+{
+    if (p.getesPelicula())
         peliculas.push_back(p);
 
     else
         series.push_back(p);
 }
 
-double ConjuntoPeliculaSeries::getNotaMediaSeries() const{
+double ConjuntoPeliculaSeries::getNotaMediaSeries() const
+{
     double suma = 0;
     int contador = 0;
-    for(auto it = series.cbegin(); it != series.cend(); ++it){
+    for (auto it = series.cbegin(); it != series.cend(); ++it)
+    {
         suma += (*it).getNota();
         contador++;
     }
     suma = suma / contador;
 
     return suma;
-
 }
 
-double ConjuntoPeliculaSeries::getNotaMediaPeliculas() const{
+double ConjuntoPeliculaSeries::getNotaMediaPeliculas() const
+{
     double suma = 0;
     int contador = 0;
-    for(auto it = peliculas.cbegin(); it != peliculas.cend(); ++it){
+    for (auto it = peliculas.cbegin(); it != peliculas.cend(); ++it)
+    {
         suma += (*it).getNota();
         contador++;
     }
     suma = suma / contador;
 
     return suma;
-
 }
 
-double ConjuntoPeliculaSeries::getNotaMedia() const{
-    double media = (getNotaMediaPeliculas() + getNotaMediaSeries())/2;
+double ConjuntoPeliculaSeries::getNotaMedia() const
+{
+    double media = (getNotaMediaPeliculas() + getNotaMediaSeries()) / 2;
     return media;
+}
 
+vector<PeliculaSerie> ConjuntoPeliculaSeries::ordenarPor(Ordena valor)
+{
+    vector<PeliculaSerie> v;
+    vector<PeliculaSerie> aux = series;
+
+    for (auto it = peliculas.cbegin(); it != peliculas.cend(); ++it)
+        aux.push_back(*it);
+
+    switch (valor)
+    {
+    case TITULO:
+    {
+        multimap<string, PeliculaSerie> ordena;
+        for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+        {
+            ordena.insert(pair<string, PeliculaSerie>((*it).getTitulo(), (*it)));
+        }
+
+        for (auto it = ordena.cbegin(); it != ordena.cend(); ++it)
+        {
+            v.push_back(it->second);
+        }
+        break;
+    }
+    case NOTA:
+    {
+        multimap<double, PeliculaSerie, greater<double>> ordena;
+        for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+        {
+            ordena.insert(pair<double, PeliculaSerie>((*it).getNota(), (*it)));
+        }
+
+        for (auto it = ordena.cbegin(); it != ordena.cend(); ++it)
+        {
+            v.push_back(it->second);
+        }
+        break;
+    }
+    case DURACION:
+    {
+        multimap<int, PeliculaSerie, greater<int>> ordena;
+        for (auto it = peliculas.cbegin(); it != peliculas.cend(); ++it)
+        {
+            ordena.insert(pair<int, PeliculaSerie>((*it).getHoras() * 60 + it->getMinutos(), (*it)));
+        }
+
+        //v.insert(v.begin(), ordena.begin(), ordena.end());
+        for (auto it = ordena.cbegin(); it != ordena.cend(); ++it)
+            v.push_back(it->second);
+        break;
+    }
+    case PAIS:
+    {
+        multimap<string, PeliculaSerie> ordena;
+        for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+        {
+            ordena.insert(pair<string, PeliculaSerie>((*it).getPais(), (*it)));
+        }
+
+        for (auto it = ordena.cbegin(); it != ordena.cend(); ++it)
+        {
+            v.push_back(it->second);
+        }
+        break;
+    }
+    case TEMPORADAS:
+    {
+        multimap<int, PeliculaSerie, greater<int>> ordena;
+        for (auto it = series.cbegin(); it != series.cend(); ++it)
+        {
+            ordena.insert(pair<int, PeliculaSerie>((*it).getTemporadas(), (*it)));
+        }
+
+        //v.insert(v.begin(), ordena.begin(), ordena.end());
+
+        for (auto it = ordena.cbegin(); it != ordena.cend(); ++it)
+            v.push_back(it->second);
+
+        break;
+    }
+    }
+
+    return v;
 }

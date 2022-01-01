@@ -39,7 +39,7 @@ float getNota(const char *v){
 %}
 digitos [0-9]
 letrasdigitos [a-zA-Zá-úÁ-Ú0-9]
-caracteres [{}<>\,:\-¿?!¡\.]
+caracteres [{}<>\,:\-¿?!¡\.()]
 amp "&amp;"
 comillas "\\&#039;"
 espacio " "
@@ -216,7 +216,7 @@ void getDuracion(const char *texto, char * duracion){
     char inicio='>';
     char final='<';
     int num_inicio = 0;
-    
+
     for(int i=0; texto[i]!='\0' && terminado==0; i++){
         if(texto[i]==inicio){
             int contador=i+1;

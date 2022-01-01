@@ -23,6 +23,16 @@ private:
 
     bool esPelicula = false;
 
+    //seters
+    void setTitulo(string title);
+    void setPais(string p);
+    void setTemporadas(int temp);
+    void setHoras(int h);
+    void setMinutos(int min);
+    void setNota(double n);
+    void setesPelicula(bool esPeli);
+
+
 public:
     PeliculaSerie() = default;
     PeliculaSerie(string nombre)
@@ -36,15 +46,6 @@ public:
 
         file.close();
     }
-
-    //seters
-    void setTitulo(string title);
-    void setPais(string p);
-    void setTemporadas(int temp);
-    void setHoras(int h);
-    void setMinutos(int min);
-    void setNota(double n);
-    void setesPelicula(bool esPeli);
 
     //geters
     string getTitulo() const;

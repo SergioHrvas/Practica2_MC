@@ -2,14 +2,14 @@
 <html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="es" xml:lang="es" xmlns:expr="http://www.google.com/2005/gml/expr">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-<title>¿Qué pasaría si...? - PlayMax</title>
+<title>The Holiday (Vacaciones) - PlayMax</title>
 <meta name="apple-mobile-web-app-title" content="PlayMax">
 <meta name="application-name" content="PlayMax">
-<meta name="apple-itunes-app" content="app-id=1450105440, app-argument=https://playmax.mx/que-pasaria-si-f94484">
+<meta name="apple-itunes-app" content="app-id=1450105440, app-argument=https://playmax.mx/the-holiday-vacaciones-f15610">
 <link rel="manifest" href="./manifest.json">
-<link rel="alternate" hreflang="es" href="https://playmax.mx/que-pasaria-si-f94484" />
-<link rel="canonical" href="https://playmax.mx/que-pasaria-si-f94484" />
-<meta property="og:url" content="https://playmax.mx/que-pasaria-si-f94484">
+<link rel="alternate" hreflang="es" href="https://playmax.mx/the-holiday-vacaciones-f15610" />
+<link rel="canonical" href="https://playmax.mx/the-holiday-vacaciones-f15610" />
+<meta property="og:url" content="https://playmax.mx/the-holiday-vacaciones-f15610">
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://playmax.xyz/images/favicon/apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://playmax.xyz/images/favicon/apple-touch-icon-114x114.png" />
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://playmax.xyz/images/favicon/apple-touch-icon-72x72.png" />
@@ -33,24 +33,23 @@
 <meta http-equiv="content-style-type" content="text/css" />
 <meta http-equiv="content-language" content="es" />
 <meta http-equiv="imagetoolbar" content="no" />
-<meta name="description" content="Información, Trailers y Críticas | Valoración: 8 | Sinopsis: Explora momentos clave del universo Marvel y plantea situaciones alternativas sobre algunos de los p... | Sinopsis escrita por Filmaffinity">
-<meta property="og:description" content="Información, Trailers y Críticas | Valoración: 8 | Sinopsis: Explora momentos clave del universo Marvel y plantea situaciones alternativas sobre algunos de los p... | Sinopsis escrita por Filmaffinity">
-<meta name="twitter:description" content="Información, Trailers y Críticas | Valoración: 8 | Sinopsis: Explora momentos clave del universo Marvel y plantea situaciones alternativas sobre algunos de los p... | Sinopsis escrita por Filmaffinity">
-<link rel="image_src" href="https://playmax.xyz/img/c/400/189/1628756963/94484.jpg" />
-<meta property="og:image" content="https://playmax.xyz/img/c/400/189/1628756963/94484.jpg" />
-<meta property="image" content="https://playmax.xyz/img/c/400/189/1628756963/94484.jpg" />
-<meta name="twitter:image" content="https://playmax.xyz/img/c/400/189/1628756963/94484.jpg">
+<meta name="description" content="Información, Trailers y Críticas | Valoración: 7.4 | Sinopsis: Amanda Woods (Cameron Diaz), una chica americana que posee una próspera agencia de publicidad especi... | Sinopsis escrita por Filmaffinity">
+<meta property="og:description" content="Información, Trailers y Críticas | Valoración: 7.4 | Sinopsis: Amanda Woods (Cameron Diaz), una chica americana que posee una próspera agencia de publicidad especi... | Sinopsis escrita por Filmaffinity">
+<meta name="twitter:description" content="Información, Trailers y Críticas | Valoración: 7.4 | Sinopsis: Amanda Woods (Cameron Diaz), una chica americana que posee una próspera agencia de publicidad especi... | Sinopsis escrita por Filmaffinity">
+<link rel="image_src" href="https://playmax.xyz/img/c/400/32/1485883027/15610.jpg" />
+<meta property="og:image" content="https://playmax.xyz/img/c/400/32/1485883027/15610.jpg" />
+<meta property="image" content="https://playmax.xyz/img/c/400/32/1485883027/15610.jpg" />
+<meta name="twitter:image" content="https://playmax.xyz/img/c/400/32/1485883027/15610.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="prefetch" href="https://playmax.xyz/img/season/100/40/1628713267/19566.jpg" as="image">
 <link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/.*-f.*" />
 <link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/user.*" />
 <link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/.*-l.*" />
 <link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/.*-s.*" />
 <link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/comment*" />
 <meta property="og:site_name" content="PlayMax">
-<meta property="og:title" content="¿Qué pasaría si...? - PlayMax">
-<meta name="title" content="¿Qué pasaría si...? - PlayMax">
-<meta name="twitter:title" content="¿Qué pasaría si...? - PlayMax">
+<meta property="og:title" content="The Holiday (Vacaciones) - PlayMax">
+<meta name="title" content="The Holiday (Vacaciones) - PlayMax">
+<meta name="twitter:title" content="The Holiday (Vacaciones) - PlayMax">
 <meta name="viewport" id="viewport" content_d="width=device-width, maximum-scale=1" content="width=320, initial-scale=1, maximum-scale=1, minimum-scale=0" />
 
 <script type="application/ld+json">
@@ -533,42 +532,42 @@ $('.secondary_header').css('opacity', '1');
 		return c_valoracion_json_html;
 	}
 
-	var ficha_titulo = '¿Qué pasaría si...?';
-	var current_temporada = '1';
-	var valor_c = {"844190":{"valoracion":8,"votantes":"26"},"970124":{"valoracion":8.1199999999999992184029906638897955417633056640625,"votantes":"25"},"970125":{"valoracion":8.2110000000000002984279490192420780658721923828125,"votantes":"19"},"970126":{"valoracion":9.5,"votantes":"26"},"970127":{"valoracion":8.6089999999999999857891452847979962825775146484375,"votantes":"23"},"970128":{"valoracion":7.27799999999999958077978590154089033603668212890625,"votantes":"18"},"970129":{"valoracion":6.3499999999999996447286321199499070644378662109375,"votantes":"20"},"970130":{"valoracion":9.5909999999999993036681189551018178462982177734375,"votantes":"22"},"970131":{"valoracion":8.9410000000000007247535904753021895885467529296875,"votantes":"17"}};
+	var ficha_titulo = 'The Holiday (Vacaciones)';
+	var current_temporada = '';
+	
 	var vod_compatible_sites = {"acorn_tv_amazon_channel":"Acorn TV Amazon Channel","amazon":"Amazon","amazon_prime_video":"Amazon Prime Video","amazon_prime_video_store":"Amazon Prime Video Store","apple_tv":"Apple TV+","apuntmedia":"\u00c0 Punt","argo":"Argo","atresplayer":"AtresPlayer","broadwayhd":"BroadwayHD","cgood_tv":"CGood TV","cinear":"CINE.AR PLAY","clan":"Clan","coalise_estudio":"Coalise Estudio","crtvg":"CRTVG","crunchyroll":"Crunchyroll","curiositystream":"CuriosityStream","dekkoo":"Dekkoo","discovery":"discovery+","disney":"Disney+","distro_tv":"DistroTV","dizi":"Dizi","dizi_amazon_channel":"Dizi Amazon Channel","docsville":"Docsville","efilm":"eFilm","eitb":"EiTB","facebook_watch":"Facebook Watch","filmin":"Filmin","filmin_plus":"Filmin Premier","filmzie":"Filmzie","flixole":"FlixOl\u00e9","flixole_amazon_channel":"FlixOl\u00e9 Amazon Channel","fubotv":"FuboTV","google_play":"Google Play","guidedoc":"GuideDoc","hayu_amazon_channel":"hayu Amazon Channel","hbomax":"HBO Max","hidive":"Hidive","iqiyi":"iQIYI","itunes":"iTunes","jonuplay":"JonuPlay","magellantv":"MagellanTV","mgm_amazon_channel":"MGM Amazon Channel","microsoft":"Microsoft","mitele":"Mitele","movistar":"Movistar+","movistar_alquiler":"Movistar+ Alquiler","movistar_lite":"Movistar+ Lite","mubi":"Mubi","mubi_amazon_channel":"Mubi Amazon Channel","netflix":"Netflix","orange_tv":"Orange TV","outtv_amazon_channel":"OUTtv Amazon Channel","pash_amazon_channel":"Pash Amazon Channel","planethorror":"Planet Horror","planethorror_amazon_channel":"Planet Horror Amazon Channel","plex":"Plex","pluto_tv":"Pluto TV","rakuten_tv":"Rakuten TV","rakuten_viki":"Rakuten Viki","rtve":"RTVE","runtime":"Runtime","selectavision":"Selecta Visi\u00f3n","spamflix":"Spamflix","starz_play":"STARZPLAY","starz_play_amazon_channel":"STARZPLAY Amazon Channel","truestory":"True Story","tv3_alc":"TV3 a la carta","tvcortos_amazon_channel":"TVCortos Amazon Channel","tvplayer":"TVPlayer","vimeo":"Vimeo","vimeo_on_demand":"Vimeo on Demand","vix":"VIX","vodafonetv":"Vodafone TV","wetv":"WeTV","wowpresentsplus":"WOW Presents Plus","youtube":"YouTube"};
 	var vod_compatible_sites2 = [{"name":"Acorn TV Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1617381850\/acorn_tv_amazon_channel.jpg"},{"name":"Amazon","image":"https:\/\/playmax.xyz\/img\/vod\/1529245538\/amazon.jpg"},{"name":"Amazon Prime Video","image":"https:\/\/playmax.xyz\/img\/vod\/1529661770\/amazon_prime_video.jpg"},{"name":"Amazon Prime Video Store","image":"https:\/\/playmax.xyz\/img\/vod\/1588179628\/amazon_prime_video_store.jpg"},{"name":"Apple TV+","image":"https:\/\/playmax.xyz\/img\/vod\/1569317517\/apple_tv.jpg"},{"name":"\u00c0 Punt","image":"https:\/\/playmax.xyz\/img\/vod\/1554626244\/apuntmedia.jpg"},{"name":"Argo","image":"https:\/\/playmax.xyz\/img\/vod\/1615200376\/argo.jpg"},{"name":"AtresPlayer","image":"https:\/\/playmax.xyz\/img\/vod\/1555407168\/atresplayer.jpg"},{"name":"BroadwayHD","image":"https:\/\/playmax.xyz\/img\/vod\/1616261410\/broadwayhd.jpg"},{"name":"CGood TV","image":"https:\/\/playmax.xyz\/img\/vod\/1602684649\/cgood_tv.jpg"},{"name":"CINE.AR PLAY","image":"https:\/\/playmax.xyz\/img\/vod\/1607008225\/cinear.jpg"},{"name":"Clan","image":"https:\/\/playmax.xyz\/img\/vod\/1526019515\/clan.jpg"},{"name":"Coalise Estudio","image":"https:\/\/playmax.xyz\/img\/vod\/1601043525\/coalise_estudio.jpg"},{"name":"CRTVG","image":"https:\/\/playmax.xyz\/img\/vod\/1601395204\/crtvg.jpg"},{"name":"Crunchyroll","image":"https:\/\/playmax.xyz\/img\/vod\/1510086189\/crunchyroll.jpg"},{"name":"CuriosityStream","image":"https:\/\/playmax.xyz\/img\/vod\/1598805668\/curiositystream.jpg"},{"name":"Dekkoo","image":"https:\/\/playmax.xyz\/img\/vod\/1619365617\/dekkoo.jpg"},{"name":"discovery+","image":"https:\/\/playmax.xyz\/img\/vod\/1609844084\/discovery.jpg"},{"name":"Disney+","image":"https:\/\/playmax.xyz\/img\/vod\/1569316908\/disney.jpg"},{"name":"DistroTV","image":"https:\/\/playmax.xyz\/img\/vod\/1629732669\/distro_tv.jpg"},{"name":"Dizi","image":"https:\/\/playmax.xyz\/img\/vod\/1634548854\/dizi.jpg"},{"name":"Dizi Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1634548935\/dizi_amazon_channel.jpg"},{"name":"Docsville","image":"https:\/\/playmax.xyz\/img\/vod\/1601490850\/docsville.jpg"},{"name":"eFilm","image":"https:\/\/playmax.xyz\/img\/vod\/1580469783\/efilm.jpg"},{"name":"EiTB","image":"https:\/\/playmax.xyz\/img\/vod\/1604490107\/eitb.jpg"},{"name":"Facebook Watch","image":"https:\/\/playmax.xyz\/img\/vod\/1599232322\/facebook_watch.jpg"},{"name":"Filmin","image":"https:\/\/playmax.xyz\/img\/vod\/1592481019\/filmin.jpg"},{"name":"Filmin Premier","image":"https:\/\/playmax.xyz\/img\/vod\/1592481018\/filmin_plus.jpg"},{"name":"Filmzie","image":"https:\/\/playmax.xyz\/img\/vod\/1616348710\/filmzie.jpg"},{"name":"FlixOl\u00e9","image":"https:\/\/playmax.xyz\/img\/vod\/1548615341\/flixole.jpg"},{"name":"FlixOl\u00e9 Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1617381614\/flixole_amazon_channel.jpg"},{"name":"FuboTV","image":"https:\/\/playmax.xyz\/img\/vod\/1584886630\/fubotv.jpg"},{"name":"Google Play","image":"https:\/\/playmax.xyz\/img\/vod\/1510083324\/google_play.jpg"},{"name":"GuideDoc","image":"https:\/\/playmax.xyz\/img\/vod\/1591623511\/guidedoc.jpg"},{"name":"hayu Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1617388445\/hayu_amazon_channel.jpg"},{"name":"HBO Max","image":"https:\/\/playmax.xyz\/img\/vod\/1635191556\/hbomax.jpg"},{"name":"Hidive","image":"https:\/\/playmax.xyz\/img\/vod\/1559239787\/hidive.jpg"},{"name":"iQIYI","image":"https:\/\/playmax.xyz\/img\/vod\/1596040092\/iqiyi.jpg"},{"name":"iTunes","image":"https:\/\/playmax.xyz\/img\/vod\/1526814261\/itunes.jpg"},{"name":"JonuPlay","image":"https:\/\/playmax.xyz\/img\/vod\/1595256309\/jonuplay.jpg"},{"name":"MagellanTV","image":"https:\/\/playmax.xyz\/img\/vod\/1616676143\/magellantv.jpg"},{"name":"MGM Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1617382547\/mgm_amazon_channel.jpg"},{"name":"Microsoft","image":"https:\/\/playmax.xyz\/img\/vod\/1528360805\/microsoft.jpg"},{"name":"Mitele","image":"https:\/\/playmax.xyz\/img\/vod\/1510086704\/mitele.jpg"},{"name":"Movistar+","image":"https:\/\/playmax.xyz\/img\/vod\/1527747781\/movistar.jpg"},{"name":"Movistar+ Alquiler","image":"https:\/\/playmax.xyz\/img\/vod\/1579107655\/movistar_alquiler.jpg"},{"name":"Movistar+ Lite","image":"https:\/\/playmax.xyz\/img\/vod\/1560865255\/movistar_lite.jpg"},{"name":"Mubi","image":"https:\/\/playmax.xyz\/img\/vod\/1591710141\/mubi.jpg"},{"name":"Mubi Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1617381560\/mubi_amazon_channel.jpg"},{"name":"Netflix","image":"https:\/\/playmax.xyz\/img\/vod\/1599832593\/netflix.jpg"},{"name":"Orange TV","image":"https:\/\/playmax.xyz\/img\/vod\/1592329928\/orange_tv.jpg"},{"name":"OUTtv Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1617389452\/outtv_amazon_channel.jpg"},{"name":"Pash Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1634315403\/pash_amazon_channel.jpg"},{"name":"Planet Horror","image":"https:\/\/playmax.xyz\/img\/vod\/1592138204\/planethorror.jpg"},{"name":"Planet Horror Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1625647699\/planethorror_amazon_channel.jpg"},{"name":"Plex","image":"https:\/\/playmax.xyz\/img\/vod\/1575632775\/plex.jpg"},{"name":"Pluto TV","image":"https:\/\/playmax.xyz\/img\/vod\/1603725078\/pluto_tv.jpg"},{"name":"Rakuten TV","image":"https:\/\/playmax.xyz\/img\/vod\/1550604937\/rakuten_tv.jpg"},{"name":"Rakuten Viki","image":"https:\/\/playmax.xyz\/img\/vod\/1558462938\/rakuten_viki.jpg"},{"name":"RTVE","image":"https:\/\/playmax.xyz\/img\/vod\/1510085034\/rtve.jpg"},{"name":"Runtime","image":"https:\/\/playmax.xyz\/img\/vod\/1630408359\/runtime.jpg"},{"name":"Selecta Visi\u00f3n","image":"https:\/\/playmax.xyz\/img\/vod\/1635501484\/selectavision.jpg"},{"name":"Spamflix","image":"https:\/\/playmax.xyz\/img\/vod\/1611227230\/spamflix.jpg"},{"name":"STARZPLAY","image":"https:\/\/playmax.xyz\/img\/vod\/1588093016\/starz_play.jpg"},{"name":"STARZPLAY Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1617210262\/starz_play_amazon_channel.jpg"},{"name":"True Story","image":"https:\/\/playmax.xyz\/img\/vod\/1620313551\/truestory.jpg"},{"name":"TV3 a la carta","image":"https:\/\/playmax.xyz\/img\/vod\/1528808110\/tv3_alc.jpg"},{"name":"TVCortos Amazon Channel","image":"https:\/\/playmax.xyz\/img\/vod\/1617392734\/tvcortos_amazon_channel.jpg"},{"name":"TVPlayer","image":"https:\/\/playmax.xyz\/img\/vod\/1599662413\/tvplayer.jpg"},{"name":"Vimeo","image":"https:\/\/playmax.xyz\/img\/vod\/1624876454\/vimeo.jpg"},{"name":"Vimeo on Demand","image":"https:\/\/playmax.xyz\/img\/vod\/1618420067\/vimeo_on_demand.jpg"},{"name":"VIX","image":"https:\/\/playmax.xyz\/img\/vod\/1599662059\/vix.jpg"},{"name":"Vodafone TV","image":"https:\/\/playmax.xyz\/img\/vod\/1537964816\/vodafonetv.jpg"},{"name":"WeTV","image":"https:\/\/playmax.xyz\/img\/vod\/1624203410\/wetv.jpg"},{"name":"WOW Presents Plus","image":"https:\/\/playmax.xyz\/img\/vod\/1616335979\/wowpresentsplus.jpg"},{"name":"YouTube","image":"https:\/\/playmax.xyz\/img\/vod\/1510131672\/youtube.jpg"}];
 	var curret_c_cines_filter_v = '3';
 	var ex_in_c_a = '';
 	var not_f_num = 0;
-	var edls = '2';
+	var edls = '';
 	var cines_f_zones = '';
 
 	var fichaGraphData = {
-		popularity: [{"position":37,"text":"02\/11\/2021"},{"position":83,"text":"03\/11\/2021"},{"position":589,"text":"04\/11\/2021"},{"position":97,"text":"05\/11\/2021"},{"position":673,"text":"06\/11\/2021"},{"position":77,"text":"07\/11\/2021"},{"position":100,"text":"08\/11\/2021"},{"position":268,"text":"09\/11\/2021"},{"position":144,"text":"10\/11\/2021"},{"position":63,"text":"11\/11\/2021"},{"position":82,"text":"12\/11\/2021"},{"position":38,"text":"13\/11\/2021"},{"position":150,"text":"14\/11\/2021"},{"position":265,"text":"15\/11\/2021"},{"position":105,"text":"16\/11\/2021"},{"position":92,"text":"17\/11\/2021"},{"position":157,"text":"18\/11\/2021"},{"position":36,"text":"19\/11\/2021"},{"position":685,"text":"20\/11\/2021"},{"position":48,"text":"21\/11\/2021"},{"position":105,"text":"22\/11\/2021"},{"position":90,"text":"23\/11\/2021"},{"position":105,"text":"24\/11\/2021"},{"position":220,"text":"25\/11\/2021"},{"position":134,"text":"26\/11\/2021"},{"position":309,"text":"27\/11\/2021"},{"position":104,"text":"28\/11\/2021"},{"position":22,"text":"29\/11\/2021"},{"position":56,"text":"30\/11\/2021"},{"position":64,"text":"01\/12\/2021"},{"position":105,"text":"02\/12\/2021"},{"position":274,"text":"03\/12\/2021"},{"position":263,"text":"04\/12\/2021"},{"position":146,"text":"05\/12\/2021"},{"position":88,"text":"06\/12\/2021"},{"position":205,"text":"07\/12\/2021"},{"position":125,"text":"08\/12\/2021"},{"position":67,"text":"09\/12\/2021"},{"position":192,"text":"10\/12\/2021"},{"position":156,"text":"11\/12\/2021"},{"position":160,"text":"12\/12\/2021"},{"position":265,"text":"13\/12\/2021"},{"position":277,"text":"14\/12\/2021"},{"position":107,"text":"15\/12\/2021"},{"position":623,"text":"16\/12\/2021"},{"position":47,"text":"17\/12\/2021"},{"position":195,"text":"18\/12\/2021"},{"position":60,"text":"19\/12\/2021"},{"position":47,"text":"20\/12\/2021"},{"position":164,"text":"21\/12\/2021"},{"position":57,"text":"22\/12\/2021"},{"position":135,"text":"23\/12\/2021"},{"position":27,"text":"24\/12\/2021"},{"position":81,"text":"25\/12\/2021"},{"position":36,"text":"26\/12\/2021"},{"position":207,"text":"27\/12\/2021"},{"position":50,"text":"28\/12\/2021"},{"position":22,"text":"29\/12\/2021"},{"position":60,"text":"30\/12\/2021"}],
-		seasons: [{"season":1,"rating":8.727000000000000312638803734444081783294677734375,"episodes":[{"episode":"01","rating":8},{"episode":"02","rating":8.1199999999999992184029906638897955417633056640625},{"episode":"03","rating":8.2110000000000002984279490192420780658721923828125},{"episode":"04","rating":9.5},{"episode":"05","rating":8.6089999999999999857891452847979962825775146484375},{"episode":"06","rating":7.27799999999999958077978590154089033603668212890625},{"episode":"07","rating":6.3499999999999996447286321199499070644378662109375},{"episode":"08","rating":9.5909999999999993036681189551018178462982177734375},{"episode":"09","rating":8.9410000000000007247535904753021895885467529296875}]}],
-		votes: {"rating":8.0190000000000001278976924368180334568023681640625,"votes":53,"ratingVotes":{"1":0,"2":1,"3":0,"4":1,"5":0,"6":6,"7":5,"8":22,"9":7,"10":11}},
+		popularity: [{"position":2799,"text":"03\/11\/2021"},{"position":2283,"text":"04\/11\/2021"},{"position":1831,"text":"05\/11\/2021"},{"position":266,"text":"07\/11\/2021"},{"position":204,"text":"09\/11\/2021"},{"position":3411,"text":"10\/11\/2021"},{"position":354,"text":"11\/11\/2021"},{"position":2631,"text":"13\/11\/2021"},{"position":578,"text":"14\/11\/2021"},{"position":2791,"text":"16\/11\/2021"},{"position":427,"text":"17\/11\/2021"},{"position":238,"text":"18\/11\/2021"},{"position":2570,"text":"21\/11\/2021"},{"position":2734,"text":"22\/11\/2021"},{"position":469,"text":"24\/11\/2021"},{"position":113,"text":"25\/11\/2021"},{"position":534,"text":"27\/11\/2021"},{"position":625,"text":"28\/11\/2021"},{"position":414,"text":"29\/11\/2021"},{"position":3562,"text":"30\/11\/2021"},{"position":3409,"text":"01\/12\/2021"},{"position":136,"text":"03\/12\/2021"},{"position":189,"text":"04\/12\/2021"},{"position":616,"text":"05\/12\/2021"},{"position":296,"text":"06\/12\/2021"},{"position":263,"text":"07\/12\/2021"},{"position":350,"text":"08\/12\/2021"},{"position":582,"text":"10\/12\/2021"},{"position":306,"text":"11\/12\/2021"},{"position":480,"text":"13\/12\/2021"},{"position":467,"text":"14\/12\/2021"},{"position":1939,"text":"16\/12\/2021"},{"position":162,"text":"18\/12\/2021"},{"position":308,"text":"19\/12\/2021"},{"position":2264,"text":"20\/12\/2021"},{"position":219,"text":"21\/12\/2021"},{"position":446,"text":"22\/12\/2021"},{"position":172,"text":"23\/12\/2021"},{"position":222,"text":"24\/12\/2021"},{"position":214,"text":"25\/12\/2021"},{"position":198,"text":"26\/12\/2021"},{"position":131,"text":"27\/12\/2021"},{"position":403,"text":"28\/12\/2021"},{"position":2612,"text":"29\/12\/2021"},{"position":123,"text":"30\/12\/2021"},{"position":400,"text":"31\/12\/2021"}],
+		seasons: [],
+		votes: {"rating":7.38600000000000012079226507921703159809112548828125,"votes":248,"ratingVotes":{"1":1,"2":4,"3":8,"4":10,"5":15,"6":33,"7":42,"8":69,"9":19,"10":47}},
 	};
 
-	var fichaData = {"lastAvailableEpisode":970131,"seasons":{"1":[844190,970124,970125,970126,970127,970128,970129,970130,970131]},"episodes":{"844190":{"id":844190,"episode":1,"viewed":false},"970124":{"id":970124,"episode":2,"viewed":false},"970125":{"id":970125,"episode":3,"viewed":false},"970126":{"id":970126,"episode":4,"viewed":false},"970127":{"id":970127,"episode":5,"viewed":false},"970128":{"id":970128,"episode":6,"viewed":false},"970129":{"id":970129,"episode":7,"viewed":false},"970130":{"id":970130,"episode":8,"viewed":false},"970131":{"id":970131,"episode":9,"viewed":false}}};
+	var fichaData = [];
 
 	var _fichaData = {
-		id: 94484,
+		id: 15610,
 		titleHtml: ficha_titulo,
-		url: 'https://playmax.mx/que-pasaria-si-f94484',
-		cover: 'https://playmax.xyz/img/cv/full/189/1629454018/94484.jpg',
-		isSerie: true,
+		url: 'https://playmax.mx/the-holiday-vacaciones-f15610',
+		cover: 'https://playmax.xyz/img/cv/full/32/1436102811/15610.jpg',
+		isSerie: false,
 		currentSeason: current_temporada,
 		inCinemas: false,
-		inDvd: false,
+		inDvd: true,
 		ids: {
-			tvdb: 367147,
+			tvdb: 0,
 		},
-		seasonsRatingData: {"19566":{"rating":8.727000000000000312638803734444081783294677734375,"votes":11,"userRating":0}},
-		seasonsData: {"19566":{"id":19566,"season":1,"name":"Temporada 1"}},
+		seasonsRatingData: {},
+		seasonsData: {},
 		urls: {
-			ff: 'https://www.filmaffinity.com/es/film691195.html',
-			tmdb: 'https://www.themoviedb.org/tv/91363',
+			ff: 'https://www.filmaffinity.com/es/film676444.html',
+			tmdb: 'https://www.themoviedb.org/movie/1581',
 		},
 	};
 
@@ -586,17 +585,17 @@ $('.secondary_header').css('opacity', '1');
 
 </script>
 <script type="text/javascript">form_events();ficha_events();common_events();</script>
-<div class="fichaCover" style="display: none; background-image: url(https://playmax.xyz/img/cv/full/189/1629454018/94484.jpg);">
+<div class="fichaCover" style="display: none; background-image: url(https://playmax.xyz/img/cv/full/32/1436102811/15610.jpg);">
 <div></div>
 </div>
 <div class="fichaContent">
 <div class="fichaBody" style="display: none;">
 <div class="f_t">
-<div style="width: 100%; height: 100%;" onclick="cover_height(2);" ondblclick="window.open('https://playmax.xyz/img/cv/full/189/1629454018/94484.jpg');"></div>
+<div style="width: 100%; height: 100%;" onclick="cover_height(2);" ondblclick="window.open('https://playmax.xyz/img/cv/full/32/1436102811/15610.jpg');"></div>
 <div style="float: right; padding: 15px 0px 0px 0px; position: absolute; top: 0px; right: 20px;">
 <div class="c_val fondo">
-<div class="c_val_val hover decimal" top_h="35" size_h="13" delay="0.3" position="b" title_h="<b>Valoracion:</b> 8.019<br><b>Su valoracion:</b> 0<br><b>Votos:</b> 53">8.0</div>
-<div class="c_val_txt">53 votos</div>
+<div class="c_val_val hover decimal" top_h="35" size_h="13" delay="0.3" position="b" title_h="<b>Valoracion:</b> 7.386<br><b>Su valoracion:</b> 0<br><b>Votos:</b> 248">7.4</div>
+<div class="c_val_txt">248 votos</div>
 <div class="ratingZoom">
 <div class="c_val_remove">
 <div title="Eliminar valoracion">
@@ -606,15 +605,15 @@ $('.secondary_header').css('opacity', '1');
 <div class="c_val_stars_uno" style="width: 0px;">
 <img src="https://playmax.xyz/svg/f77f00/vf.svg">
 </div>
-<div class="c_val_stars_dos" style="width: 64px;">
+<div class="c_val_stars_dos" style="width: 59px;">
 <img src="https://playmax.xyz/svg/ffd80a/vf.svg" style="margin-left: -0px;">
 </div>
-<div class="c_val_stars_tres" style="width: 16px;">
-<img src="https://playmax.xyz/svg/ffffff/vf.svg" style="margin-left: -64px;">
+<div class="c_val_stars_tres" style="width: 21px;">
+<img src="https://playmax.xyz/svg/ffffff/vf.svg" style="margin-left: -59px;">
 </div>
 </div>
 </div>
-<div class="c_val_data" val="8.019" val_round="8.0" user_val="0" votantes="53" url="data.php?mode=valorar_ficha&amp;value={valoracion}&amp;ficha=94484" remove_url="data.php?mode=eliminar_valoracion_ficha&amp;ficha=94484" affinity_url="" onset="" show_votes="1" rating_zoom="1"></div>
+<div class="c_val_data" val="7.386" val_round="7.4" user_val="0" votantes="248" url="data.php?mode=valorar_ficha&amp;value={valoracion}&amp;ficha=15610" remove_url="data.php?mode=eliminar_valoracion_ficha&amp;ficha=15610" affinity_url="" onset="" show_votes="1" rating_zoom="1"></div>
 </div>
 <style type="text/css">
 
@@ -647,21 +646,20 @@ $('.secondary_header').css('opacity', '1');
 
 </style>
 </div>
-<div class="f_t_b yellow">
-<div class="f_t_b_ft f_t_b_ft_s"><div><span>¿Qué pasaría si...?</span></div></div>
-<div class="f_t_edls yellow" onclick="message_error('Para poder cambiar el estado de una serie tiene que estar identificado')"><div>A la espera de nueva temporada</div></div>
+<div class="f_t_b">
+<div class="f_t_b_ft"><div><span>The Holiday (Vacaciones)</span></div></div>
 </div>
 <script type="text/javascript">rd_ficha()</script>
 </div>
 <script type="text/javascript">f_min_height();</script>
-<div class="f_b" itemscope itemtype="http://schema.org/TVSeries">
+<div class="f_b" itemscope itemtype="http://schema.org/Movie">
 <script type="text/javascript">fichaCard();</script>
 <div class="f_b_t">
 <script type="text/javascript">rd_ficha()</script>
 <div>
 <div class="f_b_t_c1">
 <div class="f_b_t_i">
-<img src="https://playmax.xyz/img/c/400/189/1628756963/94484.jpg" style="background-color: #2f2e46;">
+<img src="https://playmax.xyz/img/c/400/32/1485883027/15610.jpg" style="background-color: #fafafa;">
 </div>
 <div class="f_b_t_b">
 <div onclick="f_show_mb_m_f();" class="f_b_t_b_a">
@@ -669,7 +667,6 @@ Marcar ficha
 </div>
 <div class="f_b_t_b_a_f" style="display: none;">
 <div class="f_b_t_b_a_f1">
-<div class="f_l_mf f_l_mf1" onclick="message_error('Para poder seguir la ficha tiene que estar identificado');">Siguiendo</div>
 <div class="f_l_mf f_l_mf2" onclick="message_error('Para poder marcar como pendiente esta ficha tiene que estar identificado');">Pendiente</div>
 <div class="f_l_mf f_l_mf3" onclick="message_error('Para poder marcar como favorita esta ficha tiene que estar identificado');">Favorita</div>
 <div class="f_l_mf f_l_mf4" onclick="message_error('Para poder marcar como vista esta ficha tiene que estar identificado');">Vista</div>
@@ -682,7 +679,6 @@ Marcar ficha
 <div class="f_b_t_b_mb_f" style="display: none;">
 <div style="opacity: 0.6;">
 <div class="f_l_oc f_l_oc_n" onclick="message_error('Para poder notificarle tiene que estar identificado');" title="Notificarme cuando...">Notificarme cuando...</div>
-<div class="f_l_oc f_l_oc_cp" onclick="message_error('Para poder utilizar esta opción tiene que estar identificado');" title="En capítulos pendientes...">En capítulos pendientes...</div>
 <div class="f_l_oc" onclick="message_error('Para poder añadir fichas ha una lista tiene que estar identificado');" title="Añadir a la lista/s">Añadir a la lista/s</div>
 <div class="f_l_oc" onclick="message_error('Para poder recomendar una ficha tiene que estar identificado');" title="Recomendar" style="margin-bottom: 0px;">Recomendar</div>
 </div>
@@ -693,8 +689,7 @@ Marcar ficha
 <div>
 <div class="f_tab1 a" onclick="f_c_tab(1)">Información</div>
 <div class="f_tab2" onclick="f_c_tab(2); load_trailers();">Trailers</div>
-<div class="f_tab4" onclick="f_c_tab(4); f_tem_detect_offset(1);">Capítulos</div>
-<div class="f_tab9" onclick="f_c_tab(9); load_dvd();">DVD / Blu-Ray</div>
+<div class="f_tab9" onclick="f_c_tab(9); load_dvd();">DVD / Blu-Ray <span>(8)</span></div>
 <div class="f_tab6" onclick="f_c_tab(6); load_noticias();">Noticias</div>
 <div class="f_tab7" onclick="f_c_tab(7); load_parecidas();">Similares</div>
 <div class="f_tab8" onclick="f_c_tab(8); load_coments();">Críticas <span>(1)</span></div>
@@ -705,20 +700,18 @@ Marcar ficha
 <div class="f_b_l">
 <script type="text/javascript">rd_ficha()</script>
 <div>
-<img itemprop="image" src="https://playmax.xyz/img/c/400/189/1628756963/94484.jpg" alt="Caratula, cartel, poster o portada de ¿Qué pasaría si...?" style="background-color: #2f2e46;">
+<img itemprop="image" src="https://playmax.xyz/img/c/400/32/1485883027/15610.jpg" alt="Caratula, cartel, poster o portada de The Holiday (Vacaciones)" style="background-color: #fafafa;">
 <div class="f_mf" style="opacity: 0.6;">
-<div class="f_l_mf f_l_mf1" onclick="message_error('Para poder seguir la ficha tiene que estar identificado');">Siguiendo</div>
 <div class="f_l_mf f_l_mf2" onclick="message_error('Para poder marcar como pendiente esta ficha tiene que estar identificado');">Pendiente</div>
 <div class="f_l_mf f_l_mf3" onclick="message_error('Para poder marcar como favorita esta ficha tiene que estar identificado');">Favorita</div>
-<div class="f_l_mf f_l_mf4" onclick="message_error('Para poder marcar como vista esta ficha tiene que estar identificado');">Finalizada</div>
+<div class="f_l_mf f_l_mf4" onclick="message_error('Para poder marcar como vista esta ficha tiene que estar identificado');">Vista</div>
 <div class="f_l_mf f_l_mf5" onclick="message_error('Para poder marcar como abandonada esta ficha tiene que estar identificado');">Abandonada</div>
 </div>
 <div class="hr_d"></div>
-<div class="f_l_oc" onclick="share_ficha(94484);" title="Compartir en redes sociales"><img src="https://playmax.xyz/svg/666666/share.svg" style="height: 16px; margin: 0px 6px -4px 0px;"> Compartir</div>
+<div class="f_l_oc" onclick="share_ficha(15610);" title="Compartir en redes sociales"><img src="https://playmax.xyz/svg/666666/share.svg" style="height: 16px; margin: 0px 6px -4px 0px;"> Compartir</div>
 <div class="hr_d" style="margin-top: 10px;"></div>
 <div class="f_oc" style="opacity: 0.6;">
 <div class="f_l_oc f_l_oc_n" onclick="message_error('Para poder notificarle tiene que estar identificado');" title="Notificarme cuando...">Notificarme cuando...</div>
-<div class="f_l_oc f_l_oc_cp" onclick="message_error('Para poder utilizar esta opción tiene que estar identificado');" title="En capítulos pendientes...">En capítulos pendientes...</div>
 <div class="f_l_oc" onclick="message_error('Para poder añadir fichas ha una lista tiene que estar identificado');" title="Añadir a la lista/s">Añadir a la lista/s</div>
 <div class="f_l_oc" onclick="message_error('Para poder recomendar una ficha tiene que estar identificado');" title="Recomendar" style="margin-bottom: -10px;">Recomendar</div>
 </div>
@@ -727,31 +720,26 @@ Marcar ficha
 <div class="f_b_c">
 <script type="text/javascript">rd_ficha()</script>
 <div class="f_c_tab1" style="display: block;">
-<style type="text/css">.f_c_i_t > div{width: 25%;}</style>
 <div>
 <div class="f_c_i f_c_i_t" style="margin-top: 0px;">
 <div style="display: none;" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-<meta itemprop="ratingValue" content="8.019" />
-<meta itemprop="ratingCount" content="53" />
+<meta itemprop="ratingValue" content="7.386" />
+<meta itemprop="ratingCount" content="248" />
 <meta itemprop="bestRating" content="10" />
 <meta itemprop="worstRating" content="1" />
 </div>
 <div>
 <div>Título original</div>
-<span class="originalTitle">What If...? (TV Series)</span>
-<span style="display: none;" itemprop="name">¿Qué pasaría si...?</span>
+<span class="originalTitle">The Holiday</span>
+<span style="display: none;" itemprop="name">The Holiday (Vacaciones)</span>
 </div>
 <div>
 <div>Año</div>
-<span><a href="./explorar.php?del=2021&al=2021" class="e_new"><span itemprop="datePublished">2021</span></a></span>
+<span><a href="./explorar.php?del=2006&al=2006" class="e_new"><span itemprop="datePublished">2006</span></a></span>
 </div>
 <div>
 <div>Duración</div>
-<span><a href="./explorar.php?de=40&a=40" class="e_new"><span>40 minutos</span></a></span>
-</div>
-<div>
-<div>Temporadas</div>
-<span itemprop="numberOfSeasons">1</span>
+<span><a href="./explorar.php?de=138&a=138" class="e_new"><span itemprop="duration" datetime="PT55M">2 horas y 18 minutos</span></a></span>
 </div>
 <cb></cb>
 </div>
@@ -763,23 +751,16 @@ Marcar ficha
 <div>
 <div>Géneros</div>
 <span>
-<a href="./explorar.php?generos[]=57&vdlf=1" class="e_new"><span itemprop="genre">Animación</span></a>,
-<a href="./explorar.php?generos[]=29&vdlf=1" class="e_new"><span itemprop="genre">Aventuras</span></a>,
-<a href="./explorar.php?generos[]=41&vdlf=1" class="e_new"><span itemprop="genre">Ciencia ficción</span></a>,
-<a href="./explorar.php?generos[]=28&vdlf=1" class="e_new"><span itemprop="genre">Fantástico</span></a>
+<a href="./explorar.php?generos[]=8&vdlf=1" class="e_new"><span itemprop="genre">Comedia</span></a>,
+<a href="./explorar.php?generos[]=25&vdlf=1" class="e_new"><span itemprop="genre">Romance</span></a>
 </span>
 </div>
 <div>
 <div>Temas</div>
 <span>
-<a href="./explorar.php?generos[]=46&vdlf=1" class="e_new"><span itemprop="genre">Cómic</span></a>,
-<a href="./explorar.php?generos[]=93&vdlf=1" class="e_new"><span itemprop="genre">Marvel Comics</span></a>,
-<a href="./explorar.php?generos[]=45&vdlf=1" class="e_new"><span itemprop="genre">Superhéroes</span></a>
+<a href="./explorar.php?generos[]=108&vdlf=1" class="e_new"><span itemprop="genre">Comedia romántica</span></a>,
+<a href="./explorar.php?generos[]=94&vdlf=1" class="e_new"><span itemprop="genre">Navidad</span></a>
 </span>
-</div>
-<div>
-<div>Capítulos</div>
-<span itemprop="numberOfEpisodes">9</span>
 </div>
 <cb></cb>
 </div>
@@ -817,19 +798,18 @@ Disponible en...
 </div>
 <div>
 <div class="vod_header">Suscripción</div>
-<a href="https://go.skimresources.com?id=160865X1627784&xs=1&url=https%3A%2F%2Fwww.disneyplus.com%2Fes-es%2Fseries%2Fque-pasaria-si%2F7672ZVj1ZxU9" target="_blank" onmousedown="f_vod_hit('181', 0);" title="Ver en Disney+">
+<a href="https://www.primevideo.com/detail/0IZIBHD4008M0U6IER3TKUKPT8/ref=atv_br_def_r_br_c_unkc_1_101?tag=playmaxmx-21" target="_blank" onmousedown="f_vod_hit('163', 0);" title="Ver en Amazon Prime Video">
 <div class="vod_site">
 <div class="vod_image">
-<div style="background-image: url(https://playmax.xyz/img/vod/1569316908/disney.jpg)"></div>
+<div style="background-image: url(https://playmax.xyz/img/vod/1529661770/amazon_prime_video.jpg)"></div>
 </div>
 <div class="vod_text">
-<div class="vod_site_name"><div>Disney+</div> <span class="vod_version">HDR</span></div>
+ <div class="vod_site_name"><div>Amazon Prime Video</div></div>
 <div class="vod_available">
 <span class="vod_available_type">
-<span class="vod_available_name">Suscripción:</span>
-<span class="vod_available_episodes">9 / 9 capítulos</span>
+<span class="vod_available_name vod_available_margin">Suscripción:</span>
 <span class="vod_available_prices">
-<span style="color: #ff5722;">4K</span>
+<span style="color: #127cbf;">HD</span>
 </span>
 </span>
 </div>
@@ -839,12 +819,196 @@ Disponible en...
 </div>
 <cb></cb>
 </a>
+<a href="https://ver.movistarplus.es/ficha/the-holiday-vacaciones/?id=590216&nv=2&path=&mediaType=FOTOV&mdrm=true&mode=VODRU7D&version=7.1&tlsStream=true&network=movistarplus&mediaType=FOTOV&profile=OTT&id_perfil=OTT&mode=VODRU7D&version=7.1&tlsStream=true&mdrm=true&network=movistarplus" target="_blank" onmousedown="f_vod_hit('160', 0);" title="Ver en Movistar+">
+<div class="vod_site">
+<div class="vod_image">
+<div style="background-image: url(https://playmax.xyz/img/vod/1527747781/movistar.jpg)"></div>
+</div>
+<div class="vod_text">
+<div class="vod_site_name"><div>Movistar+</div> <span class="vod_available_up">Disponible hasta el Vie, 30 Sep 2022 (Quedan 8 meses)</span></div>
+<div class="vod_available">
+<span class="vod_available_type">
+<span class="vod_available_name vod_available_margin">Suscripción:</span>
+<span class="vod_available_prices">
+<span style="color: #3ca8ec;">SD</span>
+</span>
+</span>
+</div>
+</div>
+<div class="vod_button">
+</div>
+</div>
+<cb></cb>
+</a>
+<a href="https://www.netflix.com/title/70045854" target="_blank" onmousedown="f_vod_hit('12', 0);" title="Ver en Netflix">
+<div class="vod_site">
+<div class="vod_image">
+<div style="background-image: url(https://playmax.xyz/img/vod/1599832593/netflix.jpg)"></div>
+</div>
+<div class="vod_text">
+<div class="vod_site_name"><div>Netflix</div></div>
+<div class="vod_available">
+<span class="vod_available_type">
+<span class="vod_available_name vod_available_margin">Suscripción:</span>
+<span class="vod_available_prices">
+<span style="color: #127cbf;">HD</span>
+</span>
+</span>
+</div>
+</div>
+<div class="vod_button">
+</div>
+</div>
+<cb></cb>
+</a>
+<div class="vod_header">Alquiler y Compra</div>
+<a href="https://play.google.com/store/movies/details/Vacaciones?id=h1jkpXdKn7Y" target="_blank" onmousedown="f_vod_hit('7', 0);" title="Ver en Google Play">
+<div class="vod_site">
+<div class="vod_image">
+<div style="background-image: url(https://playmax.xyz/img/vod/1510083324/google_play.jpg)"></div>
+</div>
+<div class="vod_text">
+<div class="vod_site_name"><div>Google Play</div></div>
+<div class="vod_available">
+<span class="vod_available_type">
+<span class="vod_available_name vod_available_margin">Alquiler:</span>
+<span class="vod_available_prices">
+<span style="color: #127cbf;">HD</span>
+3.99 €
+</span>
+</span>
+
+<span class="vod_available_type">
+<span class="vod_available_name vod_available_normal">Compra:</span>
+<span class="vod_available_prices">
+<span style="color: #3ca8ec;">SD</span>
+8.99 €
+</span>
+<span class="vod_available_prices">
+<span style="color: #127cbf;">HD</span>
+9.99 €
+</span>
+</span>
+</div>
+</div>
+<div class="vod_button">
+</div>
+</div>
+<cb></cb>
+</a>
+<a href="https://itunes.apple.com/es/movie/vacaciones/id387287637?at=1010lMs7&ct=itunes&itscg=30200&itsct=playmax" target="_blank" onmousedown="f_vod_hit('147', 0);" title="Ver en iTunes">
+<div class="vod_site">
+<div class="vod_image">
+<div style="background-image: url(https://playmax.xyz/img/vod/1526814261/itunes.jpg)"></div>
+</div>
+<div class="vod_text">
+<div class="vod_site_name"><div>iTunes</div></div>
+<div class="vod_available">
+<span class="vod_available_type">
+<span class="vod_available_name vod_available_margin">Alquiler:</span>
+<span class="vod_available_prices">
+<span style="color: #3ca8ec;">SD</span>
+3.99 €
+</span>
+<span class="vod_available_prices">
+<span style="color: #127cbf;">HD</span>
+3.99 €
+</span>
+</span>
+<span class="vod_available_type">
+<span class="vod_available_name vod_available_normal">Compra:</span>
+<span class="vod_available_prices">
+<span style="color: #3ca8ec;">SD</span>
+5.99 €
+</span>
+<span class="vod_available_prices">
+<span style="color: #127cbf;">HD</span>
+7.99 €
+</span>
+</span>
+</div>
+</div>
+<div class="vod_button">
+</div>
+</div>
+<cb></cb>
+</a>
+<a href="https://microsoft.msafflnk.net/c/1251062/438819/7791?u=https%3A%2F%2Fwww.microsoft.com%2Fes-es%2Fp%2Fvacaciones%2F8d6kgwzl5wb5" target="_blank" onmousedown="f_vod_hit('161', 0);" title="Ver en Microsoft">
+<div class="vod_site">
+<div class="vod_image">
+<div style="background-image: url(https://playmax.xyz/img/vod/1528360805/microsoft.jpg)"></div>
+</div>
+<div class="vod_text">
+<div class="vod_site_name"><div>Microsoft</div></div>
+<div class="vod_available">
+<span class="vod_available_type">
+<span class="vod_available_name vod_available_margin">Alquiler:</span>
+<span class="vod_available_prices">
+<span style="color: #3ca8ec;">SD</span>
+2.99 €
+</span>
+<span class="vod_available_prices">
+<span style="color: #127cbf;">HD</span>
+3.99 €
+</span>
+</span>
+<span class="vod_available_type">
+<span class="vod_available_name vod_available_normal">Compra:</span>
+<span class="vod_available_prices">
+<span style="color: #3ca8ec;">SD</span>
+7.99 €
+</span>
+<span class="vod_available_prices">
+<span style="color: #127cbf;">HD</span>
+11.99 €
+</span>
+</span>
+</div>
+</div>
+<div class="vod_button">
+</div>
+</div>
+<cb></cb>
+</a>
+<div class="vod_header">Compra física</div>
+<a href="javascript:void(0)" onclick="f_c_tab(9); load_dvd();" onmousedown="f_vod_hit('145', 0);" title="Ver en Amazon">
+<div class="vod_site">
+<div class="vod_image">
+<div style="background-image: url(https://playmax.xyz/img/vod/1529245538/amazon.jpg)"></div>
+</div>
+<div class="vod_text">
+<div class="vod_site_name"><div>Amazon</div></div>
+<div class="vod_available">
+<span class="vod_available_type">
+<span class="vod_available_name vod_available_margin">Compra física:</span>
+<span class="vod_available_prices">
+<span style="color: #3ca8ec;">SD</span>
+3.95 €
+</span>
+<span class="vod_available_prices">
+<span style="color: #127cbf;">HD</span>
+11.00 €
+</span>
+</span>
+</div>
+</div>
+</div>
+<cb></cb>
+</a>
 </div>
 </span>
 </div>
 <div class="f_c_i f_c_i_c">
 <div>Sinopsis</div>
-<span style="font-size: 13px; line-height: 22px;" itemprop="description">Explora momentos clave del universo Marvel y plantea situaciones alternativas sobre algunos de los personajes más importantes de esas películas.</span>
+<span style="font-size: 13px; line-height: 22px;" itemprop="description">Amanda Woods (Cameron Diaz), una chica americana que posee una próspera agencia de publicidad especializada en trailers de películas, vive en el sur de California y acaba de romper con su novio (Edward Burns). Por su parte, Iris Simpkins (Kate Winslet), redactora de la popular columna de bodas para el London Daily Telegraph, vive en una encantadora casa de campo en Inglaterra y sus relaciones con los hombres tampoco son fáciles. A través de internet llegan a un acuerdo para intercambiarse sus respectivas viviendas durante las Navidades. </span>
+</div>
+<div class="f_c_i f_c_i_c">
+<div>Fechas de estrenos</div>
+<span style="font-size: 13px; line-height: 22px;">
+<div id="f_fde" class="fe_fechas" style="max-height: 27px; overflow: hidden;">
+<span style="font-size: 13px;">No hay ninguna fecha. <span style="cursor: pointer;" onclick="add_fecha(0, 1);">Añadir</span></span>
+</div>
+</span>
 </div>
 <script type="text/javascript">
 
@@ -859,57 +1023,57 @@ playmax.decraptedCss('comment');
 <div class="featuredCommentsNext" onclick="featuredCommentsNext(1)" title="Siguiente crítica"></div>
 <div class="featuredCommentsPrev" onclick="featuredCommentsPrev(1)" title="Crítica anterior"></div>
 </div>
- <div class="featuredComments">
+<div class="featuredComments">
 <div style="width: calc(100% + 2px * 1);">
 <div class="featuredComment" style="width: calc(100% / 1 + 20px);">
-<div class="cm_c cm_id81278" cm_id="81278">
+<div class="cm_c cm_id48132" cm_id="48132">
 <div class="cm_c_r">
-<a href="./user1118826" title="Ver perfil de usuario">
-<div class="cm_c_a userAvatar" style="background-image: url(https://playmax.xyz/avatar/1118826_219683944.jpg);"></div>
+<a href="./user157457" title="Ver perfil de usuario">
+<div class="cm_c_a userAvatar" style="background-image: url(https://playmax.xyz/avatar/157457_2016266313.jpg);"></div>
 </a>
 </div>
 <div class="cm_c_l">
 <div class="cm_c_c">
 <div class="cm_c_l_t">
-<a href="./comment81278">
+<a href="./comment48132">
 <div class="cm_c_l_un">
-ReviT97
+Akyresr
 </div>
 <div class="cm_c_l_ta">
-Hace 2 meses y 19 días
+Hace 4 años y 2 meses
 </div>
 </a>
-<div class="comment_rating comment_rating_color--chartreuse">
-8.5
+<div class="comment_rating comment_rating_color--green">
+9
 <span></span>
 </div>
 </div>
-<div class="cm_c_l_hd" onclick="cm_show_hidden_comment(81278, 3);">Esta crítica podría contener spoilers, pulse en este mensaje para mostrarla</div>
-<div class="cm_c_l_tx markdown_text" style="display: none;"><p>La empezé a ver y está muy buena, esto de las posibles líneas temporales, na está pepino, buen trabajo, aún me quedan tres por ver, espero buen entretenimiento.</p></div>
+<div class="cm_c_l_hd" onclick="cm_show_hidden_comment(48132, 3);">Esta crítica podría contener spoilers, pulse en este mensaje para mostrarla</div>
+<div class="cm_c_l_tx markdown_text" style="display: none;"><p>De mis peliculas favoritas, tiene de todo: desamor, amor, aprender a quererse a uno mismo, risas, y cuatro actores maravillosos, tienes que verla al menos una vez en tu vida!</p></div>
 <div class="cm_c_l_ac">
-<div class="cm_a_cl c_a_id81278">
-<div class="cm_a_txf cm_a_n_avg">0</div>
+<div class="cm_a_cl c_a_id48132">
+<div class="cm_a_txf cm_a_n_avg cm_green">2</div>
 <div class="cm_a_s"></div>
-<div class="cm_a_b cm_a_like" onclick="cm_like(81278)"></div>
-<div class="cm_a_tx cm_a_n_l">0</div>
-<div class="cm_a_b cm_a_dislike" onclick="cm_dislike(81278)"></div>
+<div class="cm_a_b cm_a_like" onclick="cm_like(48132)"></div>
+<div class="cm_a_tx cm_a_n_l">2</div>
+<div class="cm_a_b cm_a_dislike" onclick="cm_dislike(48132)"></div>
 <div class="cm_a_tx cm_a_n_dl">0</div>
 <div class="cm_a_s"></div>
-<div class="cm_a_tx cm_a_n_per">0%</div>
+<div class="cm_a_tx cm_a_n_per cm_green">100%</div>
 <div class="cm_a_tx_r_g">
 <div class="cm_a_s"></div>
-<a href="./comment81278#reply">
+<a href="./comment48132#reply">
 <div class="cm_a_tx_r">Responder</div>
 </a>
 </div>
 </div>
 <div class="cm_a_cr">
-<div class="cm_a_brf cm_a_report" onclick="cm_report(81278)"></div>
-<div class="cm_a_brf cm_a_share" onclick="cm_share(81278, false, this)"></div>
+<div class="cm_a_brf cm_a_report" onclick="cm_report(48132)"></div>
+<div class="cm_a_brf cm_a_share" onclick="cm_share(48132, false, this)"></div>
 <div class="cm_m_share">
 <div>
 </div>
-<span onclick="cm_share(81278, true)"></span>
+<span onclick="cm_share(48132, true)"></span>
 </div>
 <div class="cm_a_tx_e"></div>
 </div>
@@ -928,7 +1092,7 @@ Hace 2 meses y 19 días
 <div class="f_c_i f_c_i_c">
 <div>Enlaces externos</div>
 <span>
-<a href="https://www.filmaffinity.com/es/film691195.html" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630495/filmaffinity.jpg" class="ficha_external_link_image"></a><a href="https://www.imdb.com/title/tt10168312" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630493/imdb.jpg" class="ficha_external_link_image"></a><a href="https://www.themoviedb.org/tv/91363" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630601/themoviedb.jpg" class="ficha_external_link_image"></a><a href="https://thetvdb.com/?tab=series&id=367147&lid=16" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553773718/thetvdb.jpg" class="ficha_external_link_image"></a><a href="https://www.commonsensemedia.org/tv-reviews/what-if" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1577124091/commonsensemedia.jpg" class="ficha_external_link_image"></a>
+<a href="http://www.sonypictures.com/movies/theholiday/index.html" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630046/official_web.jpg" class="ficha_external_link_image"></a><a href="https://www.filmaffinity.com/es/film676444.html" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630495/filmaffinity.jpg" class="ficha_external_link_image"></a><a href="https://www.imdb.com/title/tt0457939" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630493/imdb.jpg" class="ficha_external_link_image"></a><a href="https://www.themoviedb.org/movie/1581" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630601/themoviedb.jpg" class="ficha_external_link_image"></a><a href="https://www.metacritic.com/movie/the-holiday" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630827/metacritic.jpg" class="ficha_external_link_image"></a><a href="https://www.rottentomatoes.com/m/the_holiday" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553631147/rottentomatoes.jpg" class="ficha_external_link_image"></a><a href="https://www.commonsensemedia.org/movie-reviews/the-holiday" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1577124091/commonsensemedia.jpg" class="ficha_external_link_image"></a>
 </span>
 </div>
 <div class="f_c_i f_c_i_c" style="position: relative;">
@@ -937,18 +1101,10 @@ Hace 2 meses y 19 días
 <div style="width: 100%; height: 40px;">
 <div class="vod_f_vcs" style="float: left; cursor: initial; margin-left: 18px;">Popularidad</div>
 <div class="select style4" style="float: right; padding: 0px 0px 0px 0px; margin-right: -4px; width: initial;">
-<div class="select_a" style="margin-right: 0px; text-align: right;">Capítulos y Temporadas</div>
+<div class="select_a" style="margin-right: 0px; text-align: right;">Votos</div>
 <div class="selectable" id="graph_select" style="display: none; right: 0px;">
 <div class="oh" style="max-height: 500px;">
 <div class="sel" value="votes" onclick="fichaGetStatsRating();">Votos</div>
-<div class="sel_separator"></div>
-<div class="sel_subtitle">Valoración general</div>
-<div class="sel" value="seasons" onclick="fichaGraph('seasons', 0);">Capítulos y Temporadas</div>
-<div class="sel" value="only_seasons" onclick="fichaGraph('only_seasons', 0);">Temporadas</div>
-<div class="sel" value="only_episodes" onclick="fichaGraph('only_episodes', 0);">Capítulos</div>
-<div class="sel_separator"></div>
-<div class="sel_subtitle">Valoración temporadas</div>
-<div class="sel" value="seasons" onclick="fichaGraph('seasons', 1);">T1, Temporada 1</div>
 </div>
 </div>
 <div class="c_select d" onclick=""></div>
@@ -958,7 +1114,7 @@ Hace 2 meses y 19 días
 <div class="fichaGraph--rat"></div>
 <cb></cb>
 </span>
-<script type="text/javascript">fichaGraph('popularity', 0);fichaGraph('seasons', 0);</script>
+<script type="text/javascript">fichaGraph('popularity', 0);fichaGetStatsRating();</script>
 </div>
 <cb></cb>
 <div class="f_ad_b2">
@@ -976,123 +1132,187 @@ Hace 2 meses y 19 días
 <h5>Reparto</h5>
 <div class="ic_p ic_p54">
 <div class="cdlp r">
-<a href="./jeffrey-wright-p3799"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1569471761/3799.jpg);"></div></a>
+<a href="./kate-winslet-p488"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/1/1569364482/488.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./jeffrey-wright-p3799" itemprop="url">
-<div class="ndlpef" itemprop="name">Jeffrey Wright</div>
+<a href="./kate-winslet-p488" itemprop="url">
+<div class="ndlpef" itemprop="name">Kate Winslet</div>
 </a>
-<div class="acxenf">Uatu / The Watcher (voice)</div>
+<div class="acxenf">Iris Simpkins</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./chadwick-boseman-p4341"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/9/1569468552/4341.jpg);"></div></a>
+<a href="./cameron-diaz-p4774"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/10/1569360162/4774.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./chadwick-boseman-p4341" itemprop="url">
-<div class="ndlpef" itemprop="name">Chadwick Boseman</div>
+<a href="./cameron-diaz-p4774" itemprop="url">
+<div class="ndlpef" itemprop="name">Cameron Diaz</div>
 </a>
-<div class="acxenf">Star Lord T'Challa (voice)</div>
+<div class="acxenf">Amanda Woods</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./hayley-atwell-p1033"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1509205232/1033.jpg);"></div></a>
+<a href="./jude-law-p1119"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1569367721/1119.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./hayley-atwell-p1033" itemprop="url">
-<div class="ndlpef" itemprop="name">Hayley Atwell</div>
+<a href="./jude-law-p1119" itemprop="url">
+<div class="ndlpef" itemprop="name">Jude Law</div>
 </a>
-<div class="acxenf">Peggy Carter / Captain Carter (voice)</div>
+<div class="acxenf">Graham Simpkins</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./dominic-cooper-p3123"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/7/1569405560/3123.jpg);"></div></a>
+<a href="./jack-black-p1008"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1569372281/1008.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./dominic-cooper-p3123" itemprop="url">
-<div class="ndlpef" itemprop="name">Dominic Cooper</div>
+<a href="./jack-black-p1008" itemprop="url">
+<div class="ndlpef" itemprop="name">Jack Black</div>
 </a>
-<div class="acxenf">Howard Stark (voice)</div>
+<div class="acxenf">Miles Dumont</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./sean-gunn-p568"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/2/1571049554/568.jpg);"></div></a>
+<a href="./eli-wallach-p6963"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/14/1570188319/6963.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./sean-gunn-p568" itemprop="url">
-<div class="ndlpef" itemprop="name">Sean Gunn</div>
+<a href="./eli-wallach-p6963" itemprop="url">
+<div class="ndlpef" itemprop="name">Eli Wallach</div>
 </a>
-<div class="acxenf">Kraglin (voice)</div>
+<div class="acxenf">Arthur Abbott</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./djimon-hounsou-p562"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/2/1569410923/562.jpg);"></div></a>
+<a href="./edward-burns-p6022"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/13/1569657546/6022.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./djimon-hounsou-p562" itemprop="url">
-<div class="ndlpef" itemprop="name">Djimon Hounsou</div>
+<a href="./edward-burns-p6022" itemprop="url">
+<div class="ndlpef" itemprop="name">Edward Burns</div>
 </a>
-<div class="acxenf">Korath (voice)</div>
+<div class="acxenf">Ethan</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./samuel-l-jackson-p449"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/1/1569356237/449.jpg);"></div></a>
+<a href="./rufus-sewell-p1016"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1569559962/1016.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./samuel-l-jackson-p449" itemprop="url">
-<div class="ndlpef" itemprop="name">Samuel L. Jackson</div>
+<a href="./rufus-sewell-p1016" itemprop="url">
+<div class="ndlpef" itemprop="name">Rufus Sewell</div>
 </a>
-<div class="acxenf">Nick Fury (voice)</div>
+<div class="acxenf">Jasper</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./toby-jones-p1028"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1569602830/1028.jpg);"></div></a>
+<a href="./miffy-englefield-p53282"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./toby-jones-p1028" itemprop="url">
-<div class="ndlpef" itemprop="name">Toby Jones</div>
+<a href="./miffy-englefield-p53282" itemprop="url">
+<div class="ndlpef" itemprop="name">Miffy Englefield</div>
 </a>
-<div class="acxenf">Arnim Zola (voice)</div>
+<div class="acxenf">Sophie</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./neal-mcdonough-p2206"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/5/1569477159/2206.jpg);"></div></a>
+<a href="./emma-pritchard-p53283"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./neal-mcdonough-p2206" itemprop="url">
-<div class="ndlpef" itemprop="name">Neal McDonough</div>
+<a href="./emma-pritchard-p53283" itemprop="url">
+<div class="ndlpef" itemprop="name">Emma Pritchard</div>
 </a>
-<div class="acxenf">Timothy 'Dum Dum' Dugan (voice)</div>
+<div class="acxenf">Olivia</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./michael-rooker-p559"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/2/1569421272/559.jpg);"></div></a>
+<a href="./sarah-parish-p14669"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/30/1571763762/14669.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./michael-rooker-p559" itemprop="url">
-<div class="ndlpef" itemprop="name">Michael Rooker</div>
+<a href="./sarah-parish-p14669" itemprop="url">
+<div class="ndlpef" itemprop="name">Sarah Parish</div>
 </a>
-<div class="acxenf">Yondu Udonta (voice)</div>
+<div class="acxenf">Hannah</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./sebastian-stan-p1032"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1498653534/1032.jpg);"></div></a>
+<a href="./shannyn-sossamon-p16299"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/33/1569526722/16299.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./sebastian-stan-p1032" itemprop="url">
-<div class="ndlpef" itemprop="name">Sebastian Stan</div>
+<a href="./shannyn-sossamon-p16299" itemprop="url">
+<div class="ndlpef" itemprop="name">Shannyn Sossamon</div>
 </a>
-<div class="acxenf">James 'Bucky' Barnes (voice)</div>
+<div class="acxenf">Maggie</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./chris-sullivan-p1541"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/4/1571118042/1541.jpg);"></div></a>
+<a href="./bill-macy-p44881"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/90/1569991032/44881.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./chris-sullivan-p1541" itemprop="url">
-<div class="ndlpef" itemprop="name">Chris Sullivan</div>
+<a href="./bill-macy-p44881" itemprop="url">
+<div class="ndlpef" itemprop="name">Bill Macy</div>
 </a>
-<div class="acxenf">Taserface (voice)</div>
+<div class="acxenf">Ernie</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./stanley-tucci-p372"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/1/1569471308/372.jpg);"></div></a>
+<a href="./shelley-berman-p14648"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/30/1570574679/14648.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./stanley-tucci-p372" itemprop="url">
-<div class="ndlpef" itemprop="name">Stanley Tucci</div>
+<a href="./shelley-berman-p14648" itemprop="url">
+<div class="ndlpef" itemprop="name">Shelley Berman</div>
 </a>
-<div class="acxenf">Dr. Abraham Erskine (voice)</div>
+<div class="acxenf">Norman</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./kathryn-hahn-p1749"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/4/1569637118/1749.jpg);"></div></a>
+<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="./kathryn-hahn-p1749" itemprop="url">
+<div class="ndlpef" itemprop="name">Kathryn Hahn</div>
+</a>
+<div class="acxenf">Bristol</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./odette-yustman-p52221"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/105/1501503348/52221.jpg);"></div></a>
+<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="./odette-yustman-p52221" itemprop="url">
+<div class="ndlpef" itemprop="name">Odette Yustman</div>
+</a>
+<div class="acxenf">...</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./john-krasinski-p11779"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/24/1508715932/11779.jpg);"></div></a>
+<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="./john-krasinski-p11779" itemprop="url">
+<div class="ndlpef" itemprop="name">John Krasinski</div>
+</a>
+<div class="acxenf">Ben</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./odette-annable-p182500"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/365/1570007084/182500.jpg);"></div></a>
+<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="./odette-annable-p182500" itemprop="url">
+<div class="ndlpef" itemprop="name">Odette Annable</div>
+</a>
+<div class="acxenf">Kissing Couple</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./alex-oloughlin-p1995"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/4/1569416357/1995.jpg);"></div></a>
+<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="./alex-oloughlin-p1995" itemprop="url">
+<div class="ndlpef" itemprop="name">Alex O'Loughlin</div>
+</a>
+<div class="acxenf">Kissing Couple</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./dustin-hoffman-p388"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/1/1569441401/388.jpg);"></div></a>
+<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="./dustin-hoffman-p388" itemprop="url">
+<div class="ndlpef" itemprop="name">Dustin Hoffman</div>
+</a>
+<div class="acxenf">Himself</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./lydia-blanco-garza-p314956"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="./lydia-blanco-garza-p314956" itemprop="url">
+<div class="ndlpef" itemprop="name">Lydia Blanco Garza</div>
+</a>
+<div class="acxenf">Marta</div>
 </div>
 </div>
 </div>
+<div onclick="fichaShowPersons(54);" style="height: 30px;" class="cdlp ic_p_b54"><span class="c_button">5 más</span></div>
 </div>
 </div>
 <div class="opdlf">
@@ -1100,21 +1320,12 @@ Hace 2 meses y 19 días
 <h5>Dirección</h5>
 <div class="ic_p ic_p8">
 <div class="cdlp r">
-<a href="./bryan-andrews-p117644"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./nancy-meyers-p103643"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/208/1501434465/103643.jpg);"></div></a>
 <div class="palidlp" itemprop="director" itemscope="" itemtype="http://schema.org/Person">
-<a href="./bryan-andrews-p117644" itemprop="url">
-<div class="ndlpef" itemprop="name">Bryan Andrews</div>
+<a href="./nancy-meyers-p103643" itemprop="url">
+<div class="ndlpef" itemprop="name">Nancy Meyers</div>
 </a>
 <div class="acxenf">Director</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./ryan-little-p1354972"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp" itemprop="director" itemscope="" itemtype="http://schema.org/Person">
-<a href="./ryan-little-p1354972" itemprop="url">
-<div class="ndlpef" itemprop="name">Ryan Little</div>
-</a>
-<div class="acxenf">Script Coordinator</div>
 </div>
 </div>
 </div>
@@ -1123,295 +1334,135 @@ Hace 2 meses y 19 días
 <h5>Escritura</h5>
 <div class="ic_p ic_p6">
 <div class="cdlp r">
-<a href="./ac-bradley-p174852"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./nancy-meyers-p103643"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/208/1501434465/103643.jpg);"></div></a>
 <div class="palidlp">
-<a href="./ac-bradley-p174852">
-<div class="ndlpef">A.C. Bradley</div>
+<a href="./nancy-meyers-p103643">
+<div class="ndlpef">Nancy Meyers</div>
 </a>
-<div class="acxenf">Guión</div>
+<div class="acxenf">Guión, Guión Adaptado</div>
 </div>
 </div>
+</div>
+</div>
+<div>
+<h5>Cámara</h5>
+<div class="ic_p ic_p12">
 <div class="cdlp r">
-<a href="./matthew-chauncey-p720171"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./dean-cundey-p43208"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/87/1569870644/43208.jpg);"></div></a>
 <div class="palidlp">
-<a href="./matthew-chauncey-p720171">
-<div class="ndlpef">Matthew Chauncey</div>
+<a href="./dean-cundey-p43208">
+<div class="ndlpef">Dean Cundey</div>
 </a>
-<div class="acxenf">Guión, Story Editor</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./steve-gerber-p120372"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./steve-gerber-p120372">
-<div class="ndlpef">Steve Gerber</div>
-</a>
-<div class="acxenf">Personajes</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./jack-kirby-p123537"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/248/1569754268/123537.jpg);"></div></a>
-<div class="palidlp">
-<a href="./jack-kirby-p123537">
-<div class="ndlpef">Jack Kirby</div>
-</a>
-<div class="acxenf">Personajes</div>
+<div class="acxenf">Director de Fotografía</div>
 </div>
 </div>
 </div>
-<div onclick="fichaShowPersons(6);" style="height: 30px;" class="cdlp ic_p_b6"><span class="c_button">21 más</span></div>
 </div>
 <div>
 <h5>Sonido</h5>
 <div class="ic_p ic_p11">
 <div class="cdlp r">
-<a href="./laura-karpman-p133538"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./hans-zimmer-p131150"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/263/1501513132/131150.jpg);"></div></a>
 <div class="palidlp" itemprop="musicBy" itemscope="" itemtype="http://schema.org/Person">
-<a href="./laura-karpman-p133538" itemprop="url">
-<div class="ndlpef" itemprop="name">Laura Karpman</div>
+<a href="./hans-zimmer-p131150" itemprop="url">
+<div class="ndlpef" itemprop="name">Hans Zimmer</div>
 </a>
 <div class="acxenf">Compositor de la Música Original</div>
 </div>
 </div>
-<div class="cdlp r">
-<a href="./mac-smith-p266040"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp" itemprop="musicBy" itemscope="" itemtype="http://schema.org/Person">
-<a href="./mac-smith-p266040" itemprop="url">
-<div class="ndlpef" itemprop="name">Mac Smith</div>
-</a>
-<div class="acxenf">Sound Designer</div>
 </div>
-</div>
-<div class="cdlp r">
-<a href="./tom-kramer-p99458"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp" itemprop="musicBy" itemscope="" itemtype="http://schema.org/Person">
-<a href="./tom-kramer-p99458" itemprop="url">
-<div class="ndlpef" itemprop="name">Tom Kramer</div>
-</a>
-<div class="acxenf">Music Editor</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./bill-rudolph-p750005"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp" itemprop="musicBy" itemscope="" itemtype="http://schema.org/Person">
-<a href="./bill-rudolph-p750005" itemprop="url">
-<div class="ndlpef" itemprop="name">Bill Rudolph</div>
-</a>
-<div class="acxenf">Sound Effects Editor</div>
-</div>
-</div>
-</div>
-<div onclick="fichaShowPersons(11);" style="height: 30px;" class="cdlp ic_p_b11"><span class="c_button">14 más</span></div>
 </div>
 <div>
 <h5>Producción</h5>
 <div class="ic_p ic_p4">
 <div class="cdlp r">
-<a href="./carrie-wassenaar-p443808"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./nancy-meyers-p103643"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/208/1501434465/103643.jpg);"></div></a>
 <div class="palidlp">
-<a href="./carrie-wassenaar-p443808">
-<div class="ndlpef">Carrie Wassenaar</div>
+<a href="./nancy-meyers-p103643">
+<div class="ndlpef">Nancy Meyers</div>
 </a>
 <div class="acxenf">Productor</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./marvel-studios-p150312"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/301/1435772802/150312.jpg);"></div></a>
+<a href="./bruce-a-block-p355799"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp">
-<a href="./marvel-studios-p150312">
-<div class="ndlpef">Marvel Studios</div>
+<a href="./bruce-a-block-p355799">
+<div class="ndlpef">Bruce A. Block</div>
+</a>
+<div class="acxenf">Productor</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./columbia-pictures-p150319"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/301/1467201619/150319.jpg);"></div></a>
+<div class="palidlp">
+<a href="./columbia-pictures-p150319">
+<div class="ndlpef">Columbia Pictures</div>
 </a>
 <div class="acxenf">Compañía de Produccion</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./flying-bark-productions-p150622"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./universal-pictures-p150243"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/301/1486326413/150243.jpg);"></div></a>
 <div class="palidlp">
-<a href="./flying-bark-productions-p150622">
-<div class="ndlpef">Flying Bark Productions</div>
+<a href="./universal-pictures-p150243">
+<div class="ndlpef">Universal Pictures</div>
 </a>
 <div class="acxenf">Compañía de Produccion</div>
 </div>
 </div>
+</div>
+</div>
+<div>
+<h5>Costume & Make-Up</h5>
+<div class="ic_p ic_p18">
 <div class="cdlp r">
-<a href="./blue-spirit-p1341003"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./marlene-stewart-p276487"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp">
-<a href="./blue-spirit-p1341003">
-<div class="ndlpef">Blue Spirit</div>
+<a href="./marlene-stewart-p276487">
+<div class="ndlpef">Marlene Stewart</div>
 </a>
-<div class="acxenf">Compañía de Produccion</div>
+<div class="acxenf">Diseño de Vestuario</div>
 </div>
 </div>
 </div>
-<div onclick="fichaShowPersons(4);" style="height: 30px;" class="cdlp ic_p_b4"><span class="c_button">43 más</span></div>
 </div>
 <div>
 <h5>Edición</h5>
 <div class="ic_p ic_p26">
 <div class="cdlp r">
-<a href="./graham-fisher-p1335460"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./joe-hutshing-p253352"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp">
-<a href="./graham-fisher-p1335460">
-<div class="ndlpef">Graham Fisher</div>
+<a href="./joe-hutshing-p253352">
+<div class="ndlpef">Joe Hutshing</div>
 </a>
 <div class="acxenf">Editor</div>
 </div>
 </div>
-<div class="cdlp r">
-<a href="./joel-fisher-p1344746"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./joel-fisher-p1344746">
-<div class="ndlpef">Joel Fisher</div>
-</a>
-<div class="acxenf">Editor</div>
 </div>
-</div>
-<div class="cdlp r">
-<a href="./sharia-lynn-davis-p329544"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./sharia-lynn-davis-p329544">
-<div class="ndlpef">Sharia Lynn Davis</div>
-</a>
-<div class="acxenf">First Assistant Editor, Assistant Editor</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./basuki-juwono-p1335461"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./basuki-juwono-p1335461">
-<div class="ndlpef">Basuki Juwono</div>
-</a>
-<div class="acxenf">First Assistant Editor, Assistant Editor</div>
-</div>
-</div>
-</div>
-<div onclick="fichaShowPersons(26);" style="height: 30px;" class="cdlp ic_p_b26"><span class="c_button">13 más</span></div>
 </div>
 <div>
 <h5>Arte</h5>
 <div class="ic_p ic_p87">
 <div class="cdlp r">
-<a href="./paul-lasaine-p256184"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./jon-hutman-p206868"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp">
-<a href="./paul-lasaine-p256184">
-<div class="ndlpef">Paul Lasaine</div>
+<a href="./jon-hutman-p206868">
+<div class="ndlpef">Jon Hutman</div>
 </a>
 <div class="acxenf">Diseño de Producción</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./kristina-vardazaryan-p1335485"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./dan-webster-p265107"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp">
-<a href="./kristina-vardazaryan-p1335485">
-<div class="ndlpef">Kristina Vardazaryan</div>
+<a href="./dan-webster-p265107">
+<div class="ndlpef">Dan Webster</div>
 </a>
 <div class="acxenf">Dirección Artística</div>
 </div>
 </div>
-<div class="cdlp r">
-<a href="./cynthia-halley-p1335486"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./cynthia-halley-p1335486">
-<div class="ndlpef">Cynthia Halley</div>
-</a>
-<div class="acxenf">Assistant Art Director</div>
 </div>
-</div>
-<div class="cdlp r">
-<a href="./adam-ross-p1335502"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./adam-ross-p1335502">
-<div class="ndlpef">Adam Ross</div>
-</a>
-<div class="acxenf">Sculptor</div>
-</div>
-</div>
-</div>
-<div onclick="fichaShowPersons(87);" style="height: 30px;" class="cdlp ic_p_b87"><span class="c_button">37 más</span></div>
-</div>
-<div>
-<h5>Efectos Visuales</h5>
-<div class="ic_p ic_p188">
-<div class="cdlp r">
-<a href="./michael-sung-p1325436"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./michael-sung-p1325436">
-<div class="ndlpef">Michael Sung</div>
-</a>
-<div class="acxenf">Animation</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./ryan-meinerding-p676257"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./ryan-meinerding-p676257">
-<div class="ndlpef">Ryan Meinerding</div>
-</a>
-<div class="acxenf">Visual Development, Lead Character Designer</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./aj-vargas-p1130739"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./aj-vargas-p1130739">
-<div class="ndlpef">A.J. Vargas</div>
-</a>
-<div class="acxenf">Visual Development</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./samantha-vinzon-p1335500"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./samantha-vinzon-p1335500">
-<div class="ndlpef">Samantha Vinzon</div>
-</a>
-<div class="acxenf">Visual Development</div>
-</div>
-</div>
-</div>
-<div onclick="fichaShowPersons(188);" style="height: 30px;" class="cdlp ic_p_b188"><span class="c_button">15 más</span></div>
-</div>
-<div>
-<h5>Equipo</h5>
-<div class="ic_p ic_p228">
-<div class="cdlp r">
-<a href="./brent-w-hall-p287440"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./brent-w-hall-p287440">
-<div class="ndlpef">Brent W. Hall</div>
-</a>
-<div class="acxenf">Post Production Supervisor</div>
-</div>
- </div>
-<div class="cdlp r">
-<a href="./roy-thomas-p119298"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./roy-thomas-p119298">
-<div class="ndlpef">Roy Thomas</div>
-</a>
-<div class="acxenf">Thanks</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./stan-lee-p1036"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1569388276/1036.jpg);"></div></a>
-<div class="palidlp">
-<a href="./stan-lee-p1036">
-<div class="ndlpef">Stan Lee</div>
-</a>
-<div class="acxenf">Thanks</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./greg-pak-p67023"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp">
-<a href="./greg-pak-p67023">
-<div class="ndlpef">Greg Pak</div>
-</a>
-<div class="acxenf">Thanks</div>
-</div>
-</div>
-</div>
-<div onclick="fichaShowPersons(228);" style="height: 30px;" class="cdlp ic_p_b228"><span class="c_button">59 más</span></div>
 </div>
 </div>
 </div>
@@ -1422,325 +1473,6 @@ Hace 2 meses y 19 días
 <div class="f_add_t" onclick="message_error('Para poder añadir trailers tiene que estar identificado')">Añadir Trailer</div>
 <div class="f_c_trailer">
 <div class="f_loading"><div class="s_load1 load26"></div></div>
-</div>
-</div>
-<div class="f_c_tab4">
-<div class="f_cl_t">
-<div class="f_cl_t_of_l" onclick="f_tem_slider(1, 1);"></div>
-<div class="f_cl_t_i" ontouchmove="f_tem_slider_touch(event)" ontouchend="f_tem_slider(2, false)">
-<div>
-<div class="f_cl_t_id1 active" t_id="1" onclick="f_c_temporada(1)" title="Temporada 1">T1</div>
-</div>
-</div>
-<div class="f_cl_t_of_r" onclick="f_tem_slider(1, 2);"></div>
-<div class="f_cl_t_e extras" onclick="f_c_temporada(0)" title="Capítulos extras">Extras</div>
-</div>
-<div class="markSeasonSelect">
-<div>
-<div class="select multiple style4" style="float: right; padding: 0px 0px 0px 0px; margin-right: -4px; width: initial;">
-<div class="select_a" style="margin-right: 0px; text-align: right;"></div>
-<div class="selectable" id="graph_select" style="display: none; right: 0px;">
-<div class="oh" style="max-height: 500px;">
-<div class="sel markAllSeasons" value="markAllSeasons" onclick="event.stopImmediatePropagation(); markAllSeasons();">Marcar todas las temporadas</div>
-<div class="sel markUpToEpisode" value="markUpToEpisode" onclick="event.stopImmediatePropagation(); markUpToEpisode(970131);">Marcar hasta el capítulo <span class="markUpToLastAvailableEpisode">1X09</span></div>
-<div class="sel_separator"></div>
-<div class="sel markSeason--1" value="markSeason--1" onclick="event.stopImmediatePropagation(); markSeason(1);">T1, Temporada 1</div>
-</div>
-</div>
-<div class="c_select d" onclick=""></div>
-</div>
-</div>
-</div>
-<div class="f_cl_l">
-<div class="f_cl_l_t1" season_id="19566">
-<div class="season_header season_header_big">
-<div onclick="ficha.showSeason(19566)" style="background-image: url(https://playmax.xyz/img/season/100/40/1628713267/19566.jpg);"></div>
-
-<span>
-<div onclick="ficha.showSeason(19566)">
-<div class="season_header_name">Temporada 1</div>
-<div class="season_header_data">9 capítulos · 2021</div>
-<div class="season_header_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-</div>
-</div>
-<span>
-<div class="fichaSeasonButtons fichaSeasonButtons--19566">
-<div class="fichaSeasonRatingIcon" onclick="ficha.showRatingSeason(19566)" title="Valorar temporada">
-<div class="fichaSeasonRatingIcon--1" style="width: 0px;"></div>
-<div class="fichaSeasonRatingIcon--2" style="width: 17px; background-position: -0px 0px;"></div>
-<div class="fichaSeasonRatingIcon--3" style="width: 3px; background-position: -17px 0px;"></div>
-</div>
-<div class="fichaSeasonRating listSeasonRating--19566" onclick="ficha.showRatingSeason(19566)" title="Valorar temporada">
-8.7
-</div>
-</div>
-<div class="f_cl_bb_mt markSeasonButton--1" style="max-width: calc(100% + -54px); margin-right: 0px;" onclick="markSeasonSelect()">Marcar temporada</div>
-</span>
-</span>
-</div>
-<div class="f_cl_l_c f_cl_l_c_id844190 f_cl_l_c1_1 f_cl_l_c_index0" c_id="844190" c_index="0" c_num="1X01" c_name="&iquest;Qu&eacute; pasar&iacute;a si&hellip; la capitana Carter fuera la primera vengadora?" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
-<meta itemprop="partOfSeason" content="1" />
-<meta itemprop="episodeNumber" content="01" />
-<div class="f_cl_l_t" onclick="load_info_c(844190, 0, 1)">
-<span>01</span>
-<div>
-<div itemprop="name">¿Qué pasaría si… la capitana Carter fuera la primera vengadora?</div>
-<span class="d">
-<div class="f_c_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-<cb></cb>
-</div>
-<span itemprop="datePublished">Mié, 11 Ago 2021</span>
-</span>
-</div>
-</div>
-<div class="f_cl_l_b">
-<div class="f_cl_l_b_mc" onclick="markEpisode(844190, true)"></div>
-<div class="f_cl_l_b_vc" onclick="show_valorar_capitulo(1, 844190)" title="Valorar capítulo">
-<div class="f_cl_l_b_vc1" style="width: 0px;"></div>
-<div class="f_cl_l_b_vc2" style="width: 16px; background-position: -0px 0px;"></div>
-<div class="f_cl_l_b_vc3" style="width: 4px; background-position: -16px 0px;"></div>
-</div>
-<div class="episodeRating episodeRating--844190" onclick="show_valorar_capitulo(1, 844190)" title="Valorar capítulo">
-8.0
-</div>
-</div>
-</div>
-<div class="f_cl_l_c f_cl_l_c_id970124 f_cl_l_c1_2 f_cl_l_c_index1" c_id="970124" c_index="1" c_num="1X02" c_name="&iquest;Qu&eacute; pasar&iacute;a si&hellip; T&#039;Challa se convirtiera en Star-Lord?" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
-<meta itemprop="partOfSeason" content="1" />
-<meta itemprop="episodeNumber" content="02" />
-<div class="f_cl_l_t" onclick="load_info_c(970124, 1, 1)">
-<span>02</span>
-<div>
-<div itemprop="name">¿Qué pasaría si… T'Challa se convirtiera en Star-Lord?</div>
-<span class="d">
-<div class="f_c_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-<cb></cb>
-</div>
-<span itemprop="datePublished">Mié, 18 Ago 2021</span>
-</span>
-</div>
-</div>
-<div class="f_cl_l_b">
-<div class="f_cl_l_b_mc" onclick="markEpisode(970124, true)"></div>
-<div class="f_cl_l_b_vc" onclick="show_valorar_capitulo(1, 970124)" title="Valorar capítulo">
-<div class="f_cl_l_b_vc1" style="width: 0px;"></div>
-<div class="f_cl_l_b_vc2" style="width: 16px; background-position: -0px 0px;"></div>
-<div class="f_cl_l_b_vc3" style="width: 4px; background-position: -16px 0px;"></div>
-</div>
-<div class="episodeRating episodeRating--970124" onclick="show_valorar_capitulo(1, 970124)" title="Valorar capítulo">
-8.1
-</div>
-</div>
-</div>
-<div class="f_cl_l_c f_cl_l_c_id970125 f_cl_l_c1_3 f_cl_l_c_index2" c_id="970125" c_index="2" c_num="1X03" c_name="&iquest;Qu&eacute; pasar&iacute;a si&hellip; el mundo perdiera a sus h&eacute;roes m&aacute;s poderosos?" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
-<meta itemprop="partOfSeason" content="1" />
-<meta itemprop="episodeNumber" content="03" />
-<div class="f_cl_l_t" onclick="load_info_c(970125, 2, 1)">
-<span>03</span>
-<div>
-<div itemprop="name">¿Qué pasaría si… el mundo perdiera a sus héroes más poderosos?</div>
-<span class="d">
-<div class="f_c_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-<cb></cb>
-</div>
-<span itemprop="datePublished">Mié, 25 Ago 2021</span>
-</span>
-</div>
-</div>
-<div class="f_cl_l_b">
-<div class="f_cl_l_b_mc" onclick="markEpisode(970125, true)"></div>
-<div class="f_cl_l_b_vc" onclick="show_valorar_capitulo(1, 970125)" title="Valorar capítulo">
-<div class="f_cl_l_b_vc1" style="width: 0px;"></div>
-<div class="f_cl_l_b_vc2" style="width: 16px; background-position: -0px 0px;"></div>
-<div class="f_cl_l_b_vc3" style="width: 4px; background-position: -16px 0px;"></div>
-</div>
-<div class="episodeRating episodeRating--970125" onclick="show_valorar_capitulo(1, 970125)" title="Valorar capítulo">
-8.2
-</div>
-</div>
-</div>
-<div class="f_cl_l_c f_cl_l_c_id970126 f_cl_l_c1_4 f_cl_l_c_index3" c_id="970126" c_index="3" c_num="1X04" c_name="&iquest;Qu&eacute; pasar&iacute;a si&hellip; el Doctor Strange perdiera el coraz&oacute;n en lugar de las manos?" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
-<meta itemprop="partOfSeason" content="1" />
-<meta itemprop="episodeNumber" content="04" />
-<div class="f_cl_l_t" onclick="load_info_c(970126, 3, 1)">
-<span>04</span>
-<div>
-<div itemprop="name">¿Qué pasaría si… el Doctor Strange perdiera el corazón en lugar de las manos?</div>
-<span class="d">
-<div class="f_c_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-<cb></cb>
-</div>
-<span itemprop="datePublished">Mié, 01 Sep 2021</span>
-</span>
-</div>
-</div>
-<div class="f_cl_l_b">
-<div class="f_cl_l_b_mc" onclick="markEpisode(970126, true)"></div>
-<div class="f_cl_l_b_vc" onclick="show_valorar_capitulo(1, 970126)" title="Valorar capítulo">
-<div class="f_cl_l_b_vc1" style="width: 0px;"></div>
-<div class="f_cl_l_b_vc2" style="width: 19px; background-position: -0px 0px;"></div>
-<div class="f_cl_l_b_vc3" style="width: 1px; background-position: -19px 0px;"></div>
-</div>
-<div class="episodeRating episodeRating--970126" onclick="show_valorar_capitulo(1, 970126)" title="Valorar capítulo">
-9.5
-</div>
-</div>
-</div>
-<div class="f_cl_l_c f_cl_l_c_id970127 f_cl_l_c1_5 f_cl_l_c_index4" c_id="970127" c_index="4" c_num="1X05" c_name="&iquest;Qu&eacute; pasar&iacute;a si&hellip; hubiera zombies?" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
-<meta itemprop="partOfSeason" content="1" />
-<meta itemprop="episodeNumber" content="05" />
-<div class="f_cl_l_t" onclick="load_info_c(970127, 4, 1)">
-<span>05</span>
-<div>
-<div itemprop="name">¿Qué pasaría si… hubiera zombies?</div>
-<span class="d">
-<div class="f_c_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-<cb></cb>
-</div>
-<span itemprop="datePublished">Mié, 08 Sep 2021</span>
-</span>
-</div>
-</div>
-<div class="f_cl_l_b">
-<div class="f_cl_l_b_mc" onclick="markEpisode(970127, true)"></div>
-<div class="f_cl_l_b_vc" onclick="show_valorar_capitulo(1, 970127)" title="Valorar capítulo">
-<div class="f_cl_l_b_vc1" style="width: 0px;"></div>
-<div class="f_cl_l_b_vc2" style="width: 17px; background-position: -0px 0px;"></div>
-<div class="f_cl_l_b_vc3" style="width: 3px; background-position: -17px 0px;"></div>
-</div>
-<div class="episodeRating episodeRating--970127" onclick="show_valorar_capitulo(1, 970127)" title="Valorar capítulo">
-8.6
-</div>
-</div>
-</div>
-<div class="f_cl_l_c f_cl_l_c_id970128 f_cl_l_c1_6 f_cl_l_c_index5" c_id="970128" c_index="5" c_num="1X06" c_name="&iquest;Qu&eacute; pasar&iacute;a si&hellip; Killmonger rescatara a Tony Stark?" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
-<meta itemprop="partOfSeason" content="1" />
-<meta itemprop="episodeNumber" content="06" />
-<div class="f_cl_l_t" onclick="load_info_c(970128, 5, 1)">
-<span>06</span>
-<div>
-<div itemprop="name">¿Qué pasaría si… Killmonger rescatara a Tony Stark?</div>
-<span class="d">
-<div class="f_c_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-<cb></cb>
-</div>
-<span itemprop="datePublished">Mié, 15 Sep 2021</span>
-</span>
-</div>
-</div>
-<div class="f_cl_l_b">
-<div class="f_cl_l_b_mc" onclick="markEpisode(970128, true)"></div>
-<div class="f_cl_l_b_vc" onclick="show_valorar_capitulo(1, 970128)" title="Valorar capítulo">
-<div class="f_cl_l_b_vc1" style="width: 0px;"></div>
-<div class="f_cl_l_b_vc2" style="width: 15px; background-position: -0px 0px;"></div>
-<div class="f_cl_l_b_vc3" style="width: 5px; background-position: -15px 0px;"></div>
-</div>
-<div class="episodeRating episodeRating--970128" onclick="show_valorar_capitulo(1, 970128)" title="Valorar capítulo">
-7.3
-</div>
-</div>
-</div>
-<div class="f_cl_l_c f_cl_l_c_id970129 f_cl_l_c1_7 f_cl_l_c_index6" c_id="970129" c_index="6" c_num="1X07" c_name="&iquest;Qu&eacute; pasar&iacute;a si&hellip; Thor fuera hijo &uacute;nico?" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
-<meta itemprop="partOfSeason" content="1" />
-<meta itemprop="episodeNumber" content="07" />
-<div class="f_cl_l_t" onclick="load_info_c(970129, 6, 1)">
-<span>07</span>
-<div>
-<div itemprop="name">¿Qué pasaría si… Thor fuera hijo único?</div>
-<span class="d">
-<div class="f_c_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-<cb></cb>
-</div>
-<span itemprop="datePublished">Mié, 22 Sep 2021</span>
-</span>
-</div>
-</div>
-<div class="f_cl_l_b">
-<div class="f_cl_l_b_mc" onclick="markEpisode(970129, true)"></div>
-<div class="f_cl_l_b_vc" onclick="show_valorar_capitulo(1, 970129)" title="Valorar capítulo">
-<div class="f_cl_l_b_vc1" style="width: 0px;"></div>
-<div class="f_cl_l_b_vc2" style="width: 13px; background-position: -0px 0px;"></div>
-<div class="f_cl_l_b_vc3" style="width: 7px; background-position: -13px 0px;"></div>
-</div>
-<div class="episodeRating episodeRating--970129" onclick="show_valorar_capitulo(1, 970129)" title="Valorar capítulo">
-6.4
-</div>
-</div>
-</div>
-<div class="f_cl_l_c f_cl_l_c_id970130 f_cl_l_c1_8 f_cl_l_c_index7" c_id="970130" c_index="7" c_num="1X08" c_name="&iquest;Qu&eacute; pasar&iacute;a si&hellip; Ultr&oacute;n ganara?" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
-<meta itemprop="partOfSeason" content="1" />
-<meta itemprop="episodeNumber" content="08" />
-<div class="f_cl_l_t" onclick="load_info_c(970130, 7, 1)">
-<span>08</span>
-<div>
-<div itemprop="name">¿Qué pasaría si… Ultrón ganara?</div>
-<span class="d">
-<div class="f_c_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-<cb></cb>
-</div>
-<span itemprop="datePublished">Mié, 29 Sep 2021</span>
-</span>
-</div>
-</div>
-<div class="f_cl_l_b">
-<div class="f_cl_l_b_mc" onclick="markEpisode(970130, true)"></div>
-<div class="f_cl_l_b_vc" onclick="show_valorar_capitulo(1, 970130)" title="Valorar capítulo">
-<div class="f_cl_l_b_vc1" style="width: 0px;"></div>
-<div class="f_cl_l_b_vc2" style="width: 19px; background-position: -0px 0px;"></div>
-<div class="f_cl_l_b_vc3" style="width: 1px; background-position: -19px 0px;"></div>
-</div>
-<div class="episodeRating episodeRating--970130" onclick="show_valorar_capitulo(1, 970130)" title="Valorar capítulo">
-9.6
-</div>
-</div>
-</div>
-<div class="f_cl_l_c f_cl_l_c_id970131 f_cl_l_c1_9 f_cl_l_c_index8" c_id="970131" c_index="8" c_num="1X09" c_name="&iquest;Qu&eacute; pasar&iacute;a si&hellip; el Vigilante rompiera su juramento?" itemprop="episode" itemscope itemtype="http://schema.org/TVEpisode">
-<meta itemprop="partOfSeason" content="1" />
-<meta itemprop="episodeNumber" content="09" />
-<div class="f_cl_l_t" onclick="load_info_c(970131, 8, 1)">
-<span>09</span>
-<div>
-<div itemprop="name">¿Qué pasaría si… el Vigilante rompiera su juramento?</div>
-<span class="d">
-<div class="f_c_vod">
-<div title="Disney+" style="background-image: url(https://playmax.xyz/img/ex/1569317267/disney.png)"></div>
-<cb></cb>
-</div>
-<span itemprop="datePublished">Mié, 06 Oct 2021</span>
-</span>
-</div>
-</div>
-<div class="f_cl_l_b">
-<div class="f_cl_l_b_mc" onclick="markEpisode(970131, true)"></div>
-<div class="f_cl_l_b_vc" onclick="show_valorar_capitulo(1, 970131)" title="Valorar capítulo">
-<div class="f_cl_l_b_vc1" style="width: 0px;"></div>
-<div class="f_cl_l_b_vc2" style="width: 18px; background-position: -0px 0px;"></div>
-<div class="f_cl_l_b_vc3" style="width: 2px; background-position: -18px 0px;"></div>
-</div>
-<div class="episodeRating episodeRating--970131" onclick="show_valorar_capitulo(1, 970131)" title="Valorar capítulo">
-8.9
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="f_cl_p_vc">
-<div class="f_cl_p_vc_c"></div>
-<div class="f_cl_p_vc_pc" onclick="$('.f_cl_p_vc').removeClass('a').addClass('d');"></div>
-</div>
-<div class="f_cl_bb">
-<div class="f_cl_bb_bmc" onclick="buscar_capitulos()">Buscar más capítulos</div>
-<div class="f_cl_bb_eic" onclick="ex_in_c()" title="Mostrar capítulos extras en su posición de visionado"></div>
-<cb></cb>
 </div>
 </div>
 <div class="f_c_tab6">
@@ -1762,8 +1494,7 @@ Hace 2 meses y 19 días
 <script type="text/javascript">rd_ficha()</script>
 <div class="f_tab1 a" onclick="f_c_tab(1)" style="padding-top: 20px;">Información</div>
 <div class="f_tab2" onclick="f_c_tab(2); load_trailers();">Trailers</div>
-<div class="f_tab4" onclick="f_c_tab(4); f_tem_detect_offset(1);">Capítulos</div>
-<div class="f_tab9 ht" onclick="f_c_tab(9); load_dvd();">DVD / Blu-Ray</div>
+<div class="f_tab9 ht" onclick="f_c_tab(9); load_dvd();">DVD / Blu-Ray <span>(8)</span></div>
 <div class="f_tab6" onclick="f_c_tab(6); load_noticias();">Noticias</div>
 <div class="f_tab7" onclick="f_c_tab(7); load_parecidas();">Similares</div>
 <div class="f_tab8" onclick="f_c_tab(8); load_coments();" style="margin-bottom: 5px;">Críticas <span>(1)</span></div>
@@ -1835,8 +1566,8 @@ Hace 2 meses y 19 días
 				}
 
 			</script>
- <div class="pf_content">
-<div class="pf_cl"><span style="font-weight: 500;">PlayMax</span> 2021</div>
+<div class="pf_content">
+<div class="pf_cl"><span style="font-weight: 500;">PlayMax</span> 2022</div>
 <div class="footerLists">
 <div class="footerList">
 <a href="./explorar.php?tipo%5B%5D=1">
@@ -1848,14 +1579,14 @@ Hace 2 meses y 19 días
 <a href="./ojo-de-halcon-f94485">
 <div class="footerListItem">Ojo de Halcón</div>
 </a>
+<a href="./el-libro-de-boba-fett-f141178">
+<div class="footerListItem">El libro de Boba Fett</div>
+</a>
 <a href="./la-rueda-del-tiempo-f143476">
 <div class="footerListItem">La rueda del tiempo</div>
 </a>
-<a href="./emily-en-paris-f125053">
-<div class="footerListItem">Emily en París</div>
-</a>
-<a href="./el-libro-de-boba-fett-f141178">
-<div class="footerListItem">El libro de Boba Fett</div>
+<a href="./la-casa-de-papel-f40613">
+<div class="footerListItem">La casa de papel</div>
 </a>
 </div>
 <div class="footerList">

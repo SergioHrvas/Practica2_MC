@@ -5,9 +5,8 @@
 
 using namespace std;
 
-int main()
+int main(int argc, char **argv)
 {
-
     int nro, numPag = 0;
 
     do
@@ -69,7 +68,6 @@ int main()
             }
         }
 
-        
         //llamar al programa lex con esa salida de antes para que detecte urls de pelis y series -> las vuelca en un archivo
         //for de cada linea de ese archivo (enlace1, enlace2...) ejecutando el programa principal
         //una
@@ -77,10 +75,71 @@ int main()
     }
     system("echo FIN >> tmp3");
 
-
     ConjuntoPeliculaSeries p("tmp3");
+    cout << "****************************************\n\nSalida primero las series y luego las pelis: " << endl
+         << endl;
 
-    cout<<p;
+    cout << p;
+
+    cout << "****************************************\n\nAhora se muestra por nota: " << endl
+         << endl;
+
+    vector<PeliculaSerie> aux = p.ordenarPor(ConjuntoPeliculaSeries::NOTA);
+
+    for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+    {
+        cout << *it << endl;
+    }
+
+    aux.clear();
+
+    cout << "****************************************\n\nAhora se muestra por duracion: " << endl
+         << endl;
+
+    aux = p.ordenarPor(ConjuntoPeliculaSeries::DURACION);
+
+    for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+    {
+        cout << *it << endl;
+    }
+
+    aux.clear();
+
+    cout << "****************************************\n\nAhora se muestra por pais: " << endl
+         << endl;
+
+    aux = p.ordenarPor(ConjuntoPeliculaSeries::PAIS);
+
+    for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+    {
+        cout << *it << endl;
+    }
+
+    aux.clear();
+
+    cout << "****************************************\n\nAhora se muestra por titulo: " << endl
+         << endl;
+
+    aux = p.ordenarPor(ConjuntoPeliculaSeries::TITULO);
+
+    for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+    {
+        cout << *it << endl;
+    }
+
+    aux.clear();
+
+    cout << "****************************************\n\nAhora se muestra por temporadas: " << endl
+         << endl;
+
+    aux = p.ordenarPor(ConjuntoPeliculaSeries::TEMPORADAS);
+
+    for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+    {
+        cout << *it << endl;
+    }
+
+    aux.clear();
 
     system("rm tmp tmp2 tmp3");
 

@@ -2,14 +2,14 @@
 <html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="es" xml:lang="es" xmlns:expr="http://www.google.com/2005/gml/expr">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-<title>Harry Potter: Regreso a Hogwarts - PlayMax</title>
+<title>Spider-Man: Lotus - PlayMax</title>
 <meta name="apple-mobile-web-app-title" content="PlayMax">
 <meta name="application-name" content="PlayMax">
-<meta name="apple-itunes-app" content="app-id=1450105440, app-argument=https://playmax.mx/harry-potter-regreso-a-hogwarts-f174541">
+<meta name="apple-itunes-app" content="app-id=1450105440, app-argument=https://playmax.mx/spider-man-lotus-f172696">
 <link rel="manifest" href="./manifest.json">
-<link rel="alternate" hreflang="es" href="https://playmax.mx/harry-potter-regreso-a-hogwarts-f174541" />
-<link rel="canonical" href="https://playmax.mx/harry-potter-regreso-a-hogwarts-f174541" />
-<meta property="og:url" content="https://playmax.mx/harry-potter-regreso-a-hogwarts-f174541">
+<link rel="alternate" hreflang="es" href="https://playmax.mx/spider-man-lotus-f172696" />
+<link rel="canonical" href="https://playmax.mx/spider-man-lotus-f172696" />
+<meta property="og:url" content="https://playmax.mx/spider-man-lotus-f172696">
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://playmax.xyz/images/favicon/apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://playmax.xyz/images/favicon/apple-touch-icon-114x114.png" />
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://playmax.xyz/images/favicon/apple-touch-icon-72x72.png" />
@@ -33,13 +33,13 @@
 <meta http-equiv="content-style-type" content="text/css" />
 <meta http-equiv="content-language" content="es" />
 <meta http-equiv="imagetoolbar" content="no" />
-<meta name="description" content="Información, Trailers y Críticas | Valoración: 0 | Sinopsis: Daniel Radcliffe, Rupert Grint y Emma Watson se unen al cineasta Chris Columbus y a otros queridos m... | Sinopsis escrita por Filmaffinity">
-<meta property="og:description" content="Información, Trailers y Críticas | Valoración: 0 | Sinopsis: Daniel Radcliffe, Rupert Grint y Emma Watson se unen al cineasta Chris Columbus y a otros queridos m... | Sinopsis escrita por Filmaffinity">
-<meta name="twitter:description" content="Información, Trailers y Críticas | Valoración: 0 | Sinopsis: Daniel Radcliffe, Rupert Grint y Emma Watson se unen al cineasta Chris Columbus y a otros queridos m... | Sinopsis escrita por Filmaffinity">
-<link rel="image_src" href="https://playmax.xyz/img/c/400/350/1639653643/174541.jpg" />
-<meta property="og:image" content="https://playmax.xyz/img/c/400/350/1639653643/174541.jpg" />
-<meta property="image" content="https://playmax.xyz/img/c/400/350/1639653643/174541.jpg" />
-<meta name="twitter:image" content="https://playmax.xyz/img/c/400/350/1639653643/174541.jpg">
+<meta name="description" content="Información, Trailers y Críticas | Valoración: 0 | Sinopsis: Después de la trágica muerte de su ex novia, aparentemente causada por su propio intento de salvarla... | Sinopsis escrita por Filmaffinity">
+<meta property="og:description" content="Información, Trailers y Críticas | Valoración: 0 | Sinopsis: Después de la trágica muerte de su ex novia, aparentemente causada por su propio intento de salvarla... | Sinopsis escrita por Filmaffinity">
+<meta name="twitter:description" content="Información, Trailers y Críticas | Valoración: 0 | Sinopsis: Después de la trágica muerte de su ex novia, aparentemente causada por su propio intento de salvarla... | Sinopsis escrita por Filmaffinity">
+<link rel="image_src" href="https://playmax.xyz/img/c/400/346/1635429644/172696.jpg" />
+<meta property="og:image" content="https://playmax.xyz/img/c/400/346/1635429644/172696.jpg" />
+<meta property="image" content="https://playmax.xyz/img/c/400/346/1635429644/172696.jpg" />
+<meta name="twitter:image" content="https://playmax.xyz/img/c/400/346/1635429644/172696.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/.*-f.*" />
 <link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/user.*" />
@@ -47,9 +47,9 @@
 <link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/.*-s.*" />
 <link rel="alternate" href="android-app://mx.playmax.app/https/playmax.mx/comment*" />
 <meta property="og:site_name" content="PlayMax">
-<meta property="og:title" content="Harry Potter: Regreso a Hogwarts - PlayMax">
-<meta name="title" content="Harry Potter: Regreso a Hogwarts - PlayMax">
-<meta name="twitter:title" content="Harry Potter: Regreso a Hogwarts - PlayMax">
+<meta property="og:title" content="Spider-Man: Lotus - PlayMax">
+<meta name="title" content="Spider-Man: Lotus - PlayMax">
+<meta name="twitter:title" content="Spider-Man: Lotus - PlayMax">
 <meta name="viewport" id="viewport" content_d="width=device-width, maximum-scale=1" content="width=320, initial-scale=1, maximum-scale=1, minimum-scale=0" />
 
 <script type="application/ld+json">
@@ -532,7 +532,7 @@ $('.secondary_header').css('opacity', '1');
 		return c_valoracion_json_html;
 	}
 
-	var ficha_titulo = 'Harry Potter: Regreso a Hogwarts';
+	var ficha_titulo = 'Spider-Man: Lotus';
 	var current_temporada = '';
 	
 	var vod_compatible_sites = {"acorn_tv_amazon_channel":"Acorn TV Amazon Channel","amazon":"Amazon","amazon_prime_video":"Amazon Prime Video","amazon_prime_video_store":"Amazon Prime Video Store","apple_tv":"Apple TV+","apuntmedia":"\u00c0 Punt","argo":"Argo","atresplayer":"AtresPlayer","broadwayhd":"BroadwayHD","cgood_tv":"CGood TV","cinear":"CINE.AR PLAY","clan":"Clan","coalise_estudio":"Coalise Estudio","crtvg":"CRTVG","crunchyroll":"Crunchyroll","curiositystream":"CuriosityStream","dekkoo":"Dekkoo","discovery":"discovery+","disney":"Disney+","distro_tv":"DistroTV","dizi":"Dizi","dizi_amazon_channel":"Dizi Amazon Channel","docsville":"Docsville","efilm":"eFilm","eitb":"EiTB","facebook_watch":"Facebook Watch","filmin":"Filmin","filmin_plus":"Filmin Premier","filmzie":"Filmzie","flixole":"FlixOl\u00e9","flixole_amazon_channel":"FlixOl\u00e9 Amazon Channel","fubotv":"FuboTV","google_play":"Google Play","guidedoc":"GuideDoc","hayu_amazon_channel":"hayu Amazon Channel","hbomax":"HBO Max","hidive":"Hidive","iqiyi":"iQIYI","itunes":"iTunes","jonuplay":"JonuPlay","magellantv":"MagellanTV","mgm_amazon_channel":"MGM Amazon Channel","microsoft":"Microsoft","mitele":"Mitele","movistar":"Movistar+","movistar_alquiler":"Movistar+ Alquiler","movistar_lite":"Movistar+ Lite","mubi":"Mubi","mubi_amazon_channel":"Mubi Amazon Channel","netflix":"Netflix","orange_tv":"Orange TV","outtv_amazon_channel":"OUTtv Amazon Channel","pash_amazon_channel":"Pash Amazon Channel","planethorror":"Planet Horror","planethorror_amazon_channel":"Planet Horror Amazon Channel","plex":"Plex","pluto_tv":"Pluto TV","rakuten_tv":"Rakuten TV","rakuten_viki":"Rakuten Viki","rtve":"RTVE","runtime":"Runtime","selectavision":"Selecta Visi\u00f3n","spamflix":"Spamflix","starz_play":"STARZPLAY","starz_play_amazon_channel":"STARZPLAY Amazon Channel","truestory":"True Story","tv3_alc":"TV3 a la carta","tvcortos_amazon_channel":"TVCortos Amazon Channel","tvplayer":"TVPlayer","vimeo":"Vimeo","vimeo_on_demand":"Vimeo on Demand","vix":"VIX","vodafonetv":"Vodafone TV","wetv":"WeTV","wowpresentsplus":"WOW Presents Plus","youtube":"YouTube"};
@@ -544,7 +544,7 @@ $('.secondary_header').css('opacity', '1');
 	var cines_f_zones = '';
 
 	var fichaGraphData = {
-		popularity: [{"position":910,"text":"17\/11\/2021"},{"position":1044,"text":"19\/11\/2021"},{"position":13899,"text":"20\/11\/2021"},{"position":428,"text":"21\/11\/2021"},{"position":947,"text":"22\/11\/2021"},{"position":12912,"text":"24\/11\/2021"},{"position":9826,"text":"26\/11\/2021"},{"position":12176,"text":"27\/11\/2021"},{"position":12656,"text":"28\/11\/2021"},{"position":174,"text":"29\/11\/2021"},{"position":1041,"text":"30\/11\/2021"},{"position":18135,"text":"01\/12\/2021"},{"position":10632,"text":"02\/12\/2021"},{"position":940,"text":"03\/12\/2021"},{"position":22167,"text":"05\/12\/2021"},{"position":132,"text":"06\/12\/2021"},{"position":31,"text":"07\/12\/2021"},{"position":286,"text":"08\/12\/2021"},{"position":129,"text":"09\/12\/2021"},{"position":30,"text":"10\/12\/2021"},{"position":125,"text":"11\/12\/2021"},{"position":173,"text":"12\/12\/2021"},{"position":94,"text":"13\/12\/2021"},{"position":13532,"text":"14\/12\/2021"},{"position":333,"text":"15\/12\/2021"},{"position":70,"text":"16\/12\/2021"},{"position":116,"text":"17\/12\/2021"},{"position":44,"text":"18\/12\/2021"},{"position":133,"text":"19\/12\/2021"},{"position":89,"text":"20\/12\/2021"},{"position":127,"text":"21\/12\/2021"},{"position":78,"text":"22\/12\/2021"},{"position":256,"text":"23\/12\/2021"},{"position":56,"text":"24\/12\/2021"},{"position":285,"text":"25\/12\/2021"},{"position":1467,"text":"26\/12\/2021"},{"position":28,"text":"27\/12\/2021"},{"position":65,"text":"28\/12\/2021"},{"position":105,"text":"29\/12\/2021"},{"position":240,"text":"30\/12\/2021"}],
+		popularity: [{"position":10144,"text":"05\/11\/2021"},{"position":22740,"text":"10\/11\/2021"},{"position":1056,"text":"14\/11\/2021"},{"position":13319,"text":"18\/11\/2021"},{"position":1033,"text":"19\/11\/2021"},{"position":11289,"text":"21\/11\/2021"},{"position":932,"text":"22\/11\/2021"},{"position":12957,"text":"23\/11\/2021"},{"position":12691,"text":"24\/11\/2021"},{"position":10922,"text":"25\/11\/2021"},{"position":711,"text":"26\/11\/2021"},{"position":365,"text":"27\/11\/2021"},{"position":1163,"text":"28\/11\/2021"},{"position":173,"text":"29\/11\/2021"},{"position":298,"text":"30\/11\/2021"},{"position":206,"text":"01\/12\/2021"},{"position":297,"text":"02\/12\/2021"},{"position":181,"text":"03\/12\/2021"},{"position":158,"text":"04\/12\/2021"},{"position":120,"text":"05\/12\/2021"},{"position":66,"text":"06\/12\/2021"},{"position":30,"text":"07\/12\/2021"},{"position":80,"text":"08\/12\/2021"},{"position":50,"text":"09\/12\/2021"},{"position":57,"text":"10\/12\/2021"},{"position":46,"text":"11\/12\/2021"},{"position":68,"text":"12\/12\/2021"},{"position":93,"text":"13\/12\/2021"},{"position":21,"text":"14\/12\/2021"},{"position":28,"text":"15\/12\/2021"},{"position":33,"text":"16\/12\/2021"},{"position":14,"text":"17\/12\/2021"},{"position":4,"text":"18\/12\/2021"},{"position":7,"text":"19\/12\/2021"},{"position":5,"text":"20\/12\/2021"},{"position":6,"text":"21\/12\/2021"},{"position":5,"text":"22\/12\/2021"},{"position":5,"text":"23\/12\/2021"},{"position":8,"text":"24\/12\/2021"},{"position":8,"text":"25\/12\/2021"},{"position":5,"text":"26\/12\/2021"},{"position":14,"text":"27\/12\/2021"},{"position":6,"text":"28\/12\/2021"},{"position":13,"text":"29\/12\/2021"},{"position":11,"text":"30\/12\/2021"},{"position":23,"text":"31\/12\/2021"}],
 		seasons: [],
 		votes: {"rating":0,"votes":0,"ratingVotes":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0}},
 	};
@@ -552,10 +552,10 @@ $('.secondary_header').css('opacity', '1');
 	var fichaData = [];
 
 	var _fichaData = {
-		id: 174541,
+		id: 172696,
 		titleHtml: ficha_titulo,
-		url: 'https://playmax.mx/harry-potter-regreso-a-hogwarts-f174541',
-		cover: 'https://playmax.xyz/img/cv/full/350/1639609561/174541.jpg',
+		url: 'https://playmax.mx/spider-man-lotus-f172696',
+		cover: 'https://playmax.xyz/img/cv/full/346/1635567303/172696.jpg',
 		isSerie: false,
 		currentSeason: current_temporada,
 		inCinemas: false,
@@ -566,8 +566,8 @@ $('.secondary_header').css('opacity', '1');
 		seasonsRatingData: {},
 		seasonsData: {},
 		urls: {
-			ff: 'https://www.filmaffinity.com/es/film197912.html',
-			tmdb: 'https://www.themoviedb.org/movie/899082',
+			ff: 'https://www.filmaffinity.com/es/film839517.html',
+			tmdb: 'https://www.themoviedb.org/movie/904373',
 		},
 	};
 
@@ -585,13 +585,13 @@ $('.secondary_header').css('opacity', '1');
 
 </script>
 <script type="text/javascript">form_events();ficha_events();common_events();</script>
-<div class="fichaCover" style="display: none; background-image: url(https://playmax.xyz/img/cv/full/350/1639609561/174541.jpg);">
+<div class="fichaCover" style="display: none; background-image: url(https://playmax.xyz/img/cv/full/346/1635567303/172696.jpg);">
 <div></div>
 </div>
 <div class="fichaContent">
 <div class="fichaBody" style="display: none;">
 <div class="f_t">
-<div style="width: 100%; height: 100%;" onclick="cover_height(2);" ondblclick="window.open('https://playmax.xyz/img/cv/full/350/1639609561/174541.jpg');"></div>
+<div style="width: 100%; height: 100%;" onclick="cover_height(2);" ondblclick="window.open('https://playmax.xyz/img/cv/full/346/1635567303/172696.jpg');"></div>
 <div style="float: right; padding: 15px 0px 0px 0px; position: absolute; top: 0px; right: 20px;">
 <div class="c_val fondo">
 <div class="c_val_val hover decimal" top_h="35" size_h="13" delay="0.3" position="b" title_h="<b>Valoracion:</b> 0<br><b>Su valoracion:</b> 0<br><b>Votos:</b> 0">--</div>
@@ -613,7 +613,7 @@ $('.secondary_header').css('opacity', '1');
 </div>
 </div>
 </div>
-<div class="c_val_data" val="0" val_round="--" user_val="0" votantes="0" url="data.php?mode=valorar_ficha&amp;value={valoracion}&amp;ficha=174541" remove_url="data.php?mode=eliminar_valoracion_ficha&amp;ficha=174541" affinity_url="" onset="" show_votes="1" rating_zoom="1"></div>
+<div class="c_val_data" val="0" val_round="--" user_val="0" votantes="0" url="data.php?mode=valorar_ficha&amp;value={valoracion}&amp;ficha=172696" remove_url="data.php?mode=eliminar_valoracion_ficha&amp;ficha=172696" affinity_url="" onset="" show_votes="1" rating_zoom="1"></div>
 </div>
 <style type="text/css">
 
@@ -647,7 +647,7 @@ $('.secondary_header').css('opacity', '1');
 </style>
 </div>
 <div class="f_t_b">
-<div class="f_t_b_ft"><div><span>Harry Potter: Regreso a Hogwarts</span></div></div>
+<div class="f_t_b_ft"><div><span>Spider-Man: Lotus</span></div></div>
 </div>
 <script type="text/javascript">rd_ficha()</script>
 </div>
@@ -659,7 +659,7 @@ $('.secondary_header').css('opacity', '1');
 <div>
 <div class="f_b_t_c1">
 <div class="f_b_t_i">
-<img src="https://playmax.xyz/img/c/400/350/1639653643/174541.jpg" style="background-color: #332213;">
+<img src="https://playmax.xyz/img/c/400/346/1635429644/172696.jpg" style="background-color: #606166;">
 </div>
 <div class="f_b_t_b">
 <div onclick="f_show_mb_m_f();" class="f_b_t_b_a">
@@ -700,7 +700,7 @@ Marcar ficha
 <div class="f_b_l">
 <script type="text/javascript">rd_ficha()</script>
 <div>
-<img itemprop="image" src="https://playmax.xyz/img/c/400/350/1639653643/174541.jpg" alt="Caratula, cartel, poster o portada de Harry Potter: Regreso a Hogwarts" style="background-color: #332213;">
+<img itemprop="image" src="https://playmax.xyz/img/c/400/346/1635429644/172696.jpg" alt="Caratula, cartel, poster o portada de Spider-Man: Lotus" style="background-color: #606166;">
 <div class="f_mf" style="opacity: 0.6;">
 <div class="f_l_mf f_l_mf2" onclick="message_error('Para poder marcar como pendiente esta ficha tiene que estar identificado');">Pendiente</div>
 <div class="f_l_mf f_l_mf3" onclick="message_error('Para poder marcar como favorita esta ficha tiene que estar identificado');">Favorita</div>
@@ -708,7 +708,7 @@ Marcar ficha
 <div class="f_l_mf f_l_mf5" onclick="message_error('Para poder marcar como abandonada esta ficha tiene que estar identificado');">Abandonada</div>
 </div>
 <div class="hr_d"></div>
-<div class="f_l_oc" onclick="share_ficha(174541);" title="Compartir en redes sociales"><img src="https://playmax.xyz/svg/666666/share.svg" style="height: 16px; margin: 0px 6px -4px 0px;"> Compartir</div>
+<div class="f_l_oc" onclick="share_ficha(172696);" title="Compartir en redes sociales"><img src="https://playmax.xyz/svg/666666/share.svg" style="height: 16px; margin: 0px 6px -4px 0px;"> Compartir</div>
 <div class="hr_d" style="margin-top: 10px;"></div>
 <div class="f_oc" style="opacity: 0.6;">
 <div class="f_l_oc f_l_oc_n" onclick="message_error('Para poder notificarle tiene que estar identificado');" title="Notificarme cuando...">Notificarme cuando...</div>
@@ -730,8 +730,8 @@ Marcar ficha
 </div>
 <div>
 <div>Título original</div>
-<span class="originalTitle">Harry Potter 20th Anniversary: Return to Hogwarts (TV)</span>
-<span style="display: none;" itemprop="name">Harry Potter: Regreso a Hogwarts</span>
+<span class="originalTitle">Spider-Man: Lotus</span>
+<span style="display: none;" itemprop="name">Spider-Man: Lotus</span>
 </div>
 <div>
 <div>Año</div>
@@ -751,14 +751,16 @@ Marcar ficha
 <div>
 <div>Géneros</div>
 <span>
-<a href="./explorar.php?generos[]=22&vdlf=1" class="e_new"><span itemprop="genre">Documental</span></a>
+<a href="./explorar.php?generos[]=3&vdlf=1" class="e_new"><span itemprop="genre">Drama</span></a>
 </span>
 </div>
 <div>
 <div>Temas</div>
 <span>
-<a href="./explorar.php?generos[]=182&vdlf=1" class="e_new"><span itemprop="genre">Documental sobre cine</span></a>,
-<a href="./explorar.php?generos[]=161&vdlf=1" class="e_new"><span itemprop="genre">Telefilm</span></a>
+<a href="./explorar.php?generos[]=46&vdlf=1" class="e_new"><span itemprop="genre">Cómic</span></a>,
+<a href="./explorar.php?generos[]=342&vdlf=1" class="e_new"><span itemprop="genre">Fan Film</span></a>,
+<a href="./explorar.php?generos[]=93&vdlf=1" class="e_new"><span itemprop="genre">Marvel Comics</span></a>,
+<a href="./explorar.php?generos[]=45&vdlf=1" class="e_new"><span itemprop="genre">Superhéroes</span></a>
 </span>
 </div>
 <cb></cb>
@@ -769,7 +771,7 @@ Marcar ficha
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <ins class="adsbygoogle f_ad_a1" style="display:block" data-ad-client="ca-pub-9797654625010771" data-ad-slot="7424500660" data-ad-format="auto" data-full-width-responsive="true"></ins>
- <script>
+<script>
 						     (adsbygoogle = window.adsbygoogle || []).push({});
 						</script>
 </div>
@@ -800,33 +802,20 @@ Sin información
 </div>
 <div class="f_c_i f_c_i_c">
 <div>Sinopsis</div>
-<span style="font-size: 13px; line-height: 22px;" itemprop="description">Daniel Radcliffe, Rupert Grint y Emma Watson se unen al cineasta Chris Columbus y a otros queridos miembros del reparto de las ocho películas de Harry Potter en su viaje de regreso a Hogwarts por primera vez para celebrar el aniversario de la primera película de la franquicia, Harry Potter y la piedra filosofal, que se estrenó hace 20 años. El especial retrospectivo Harry Potter 20th Anniversary: Return to Hogwarts contará una historia encantadora de cómo se hizo a través de nuevas entrevistas en profundidad y conversaciones con el elenco, invitando a los fanáticos a un viaje mágico en primera persona a través de una de las franquicias cinematográficas más queridas de todos los tiempos.</span>
+<span style="font-size: 13px; line-height: 22px;" itemprop="description">Después de la trágica muerte de su ex novia, aparentemente causada por su propio intento de salvarla, Peter Parker (Warden Wayne) se cuestiona si la maldición de su alter ego debería ser enterrada para siempre. Cuando recibe la noticia de que un niño con una enfermedad terminal ha solicitado conocer a Spider-Man, Peter contempla la decisión de consolarlo en sus últimos días.</span>
 </div>
 <div class="f_c_i f_c_i_c">
 <div>Fechas de estrenos</div>
 <span style="font-size: 13px; line-height: 22px;">
-<div id="f_fde" class="fe_fechas" style="max-height: 81px; overflow: hidden;">
-<div style="margin-bottom: 5px;">España:</div>
-<div class="fe_block">
-<div class="fe_b1"><span>- Castellano:</span> Sab, 01 Ene 2022 (En 1 día)<img src="https://playmax.xyz/svg/f77f00/edit3.svg" onclick="update_fecha(1329691, 1)"></div>
-<div class="fe_b2">Estreno</div>
-<div class="fe_b3"></div>
-</div>
-<div class="fe_block">
-<div class="fe_b1"><span>- V.O:</span> Sab, 01 Ene 2022 (En 1 día)<img src="https://playmax.xyz/svg/f77f00/edit3.svg" onclick="update_fecha(1320302, 1)"></div>
-<div class="fe_b2">Estreno</div>
-<div class="fe_b3">HBO</div>
-</div>
-</div>
-<div>
-<div onclick="add_fecha(0, 1);" style="padding-top: 7px; margin-top: 10px;"><span class="b_in">Añadir fecha</div>
+<div id="f_fde" class="fe_fechas" style="max-height: 27px; overflow: hidden;">
+<span style="font-size: 13px;">No hay ninguna fecha. <span style="cursor: pointer;" onclick="add_fecha(0, 1);">Añadir</span></span>
 </div>
 </span>
 </div>
 <div class="f_c_i f_c_i_c">
 <div>Enlaces externos</div>
 <span>
-<a href="https://www.filmaffinity.com/es/film197912.html" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630495/filmaffinity.jpg" class="ficha_external_link_image"></a><a href="https://www.imdb.com/title/tt16116174" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630493/imdb.jpg" class="ficha_external_link_image"></a><a href="https://www.themoviedb.org/movie/899082" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630601/themoviedb.jpg" class="ficha_external_link_image"></a><a href="https://www.rottentomatoes.com/m/harry_potter_20th_anniversary_return_to_hogwarts" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553631147/rottentomatoes.jpg" class="ficha_external_link_image"></a>
+<a href="https://www.filmaffinity.com/es/film839517.html" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630495/filmaffinity.jpg" class="ficha_external_link_image"></a><a href="https://www.themoviedb.org/movie/904373" target="_blanck" class="e_new"><img src="https://playmax.xyz/img/exid/1553630601/themoviedb.jpg" class="ficha_external_link_image"></a>
 </span>
 </div>
 <div class="f_c_i f_c_i_c" style="position: relative;">
@@ -866,175 +855,75 @@ Sin información
 <h5>Reparto</h5>
 <div class="ic_p ic_p54">
 <div class="cdlp r">
-<a href="./daniel-radcliffe-p3696"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1569335238/3696.jpg);"></div></a>
+<a href="./warden-wayne-p1414450"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./daniel-radcliffe-p3696" itemprop="url">
-<div class="ndlpef" itemprop="name">Daniel Radcliffe</div>
+<a href="./warden-wayne-p1414450" itemprop="url">
+<div class="ndlpef" itemprop="name">Warden Wayne</div>
 </a>
-<div class="acxenf">Self</div>
+<div class="acxenf">Peter Parker</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./emma-watson-p3452"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/7/1507858617/3452.jpg);"></div></a>
+<a href="./sean-thomas-reid-p1414451"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./emma-watson-p3452" itemprop="url">
-<div class="ndlpef" itemprop="name">Emma Watson</div>
+<a href="./sean-thomas-reid-p1414451" itemprop="url">
+<div class="ndlpef" itemprop="name">Sean Thomas Reid</div>
 </a>
-<div class="acxenf">Self</div>
+<div class="acxenf">Harry Osborn</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./rupert-grint-p3697"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1569378161/3697.jpg);"></div></a>
+<a href="./maxwell-fox-andrews-p1414452"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./rupert-grint-p3697" itemprop="url">
-<div class="ndlpef" itemprop="name">Rupert Grint</div>
+<a href="./maxwell-fox-andrews-p1414452" itemprop="url">
+<div class="ndlpef" itemprop="name">Maxwell Fox-Andrews</div>
 </a>
-<div class="acxenf">Self</div>
+<div class="acxenf">Tim Harrison</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./helena-bonham-carter-p722"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/2/1569365446/722.jpg);"></div></a>
+<a href="./moriah-brooklyn-p1414453"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./helena-bonham-carter-p722" itemprop="url">
-<div class="ndlpef" itemprop="name">Helena Bonham Carter</div>
+<a href="./moriah-brooklyn-p1414453" itemprop="url">
+<div class="ndlpef" itemprop="name">Moriah Brooklyn</div>
 </a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-
-<div class="cdlp r">
-<a href="./robbie-coltrane-p3560"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1569448267/3560.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./robbie-coltrane-p3560" itemprop="url">
-<div class="ndlpef" itemprop="name">Robbie Coltrane</div>
-</a>
-<div class="acxenf">Self</div>
+<div class="acxenf">Mary Jane Watson</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./ralph-fiennes-p619"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/2/1569384044/619.jpg);"></div></a>
+<a href="./tuyen-powell-p1414454"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./ralph-fiennes-p619" itemprop="url">
-<div class="ndlpef" itemprop="name">Ralph Fiennes</div>
+<a href="./tuyen-powell-p1414454" itemprop="url">
+<div class="ndlpef" itemprop="name">Tuyen Powell</div>
 </a>
-<div class="acxenf">Self</div>
+<div class="acxenf">Gwen Stacy</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./gary-oldman-p3565"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1509052354/3565.jpg);"></div></a>
+<a href="./jack-wooton-p1384914"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./gary-oldman-p3565" itemprop="url">
-<div class="ndlpef" itemprop="name">Gary Oldman</div>
+<a href="./jack-wooton-p1384914" itemprop="url">
+<div class="ndlpef" itemprop="name">Jack Wooton</div>
 </a>
-<div class="acxenf">Self</div>
+<div class="acxenf">...</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./imelda-staunton-p1245"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1569547961/1245.jpg);"></div></a>
+<a href="./john-salandria-p1414455"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./imelda-staunton-p1245" itemprop="url">
-<div class="ndlpef" itemprop="name">Imelda Staunton</div>
+<a href="./john-salandria-p1414455" itemprop="url">
+<div class="ndlpef" itemprop="name">John Salandria</div>
 </a>
-<div class="acxenf">Self</div>
+<div class="acxenf">Green Goblin (voice)</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./tom-felton-p638"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/2/1507678195/638.jpg);"></div></a>
+<a href="./mariah-fox-p1414456"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./tom-felton-p638" itemprop="url">
-<div class="ndlpef" itemprop="name">Tom Felton</div>
+<a href="./mariah-fox-p1414456" itemprop="url">
+<div class="ndlpef" itemprop="name">Mariah Fox</div>
 </a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./james-phelps-p3711"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1570469823/3711.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./james-phelps-p3711" itemprop="url">
-<div class="ndlpef" itemprop="name">James Phelps</div>
-</a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./oliver-phelps-p3712"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1571119022/3712.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./oliver-phelps-p3712" itemprop="url">
-<div class="ndlpef" itemprop="name">Oliver Phelps</div>
-</a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./mark-williams-p3713"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1496836301/3713.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./mark-williams-p3713" itemprop="url">
-<div class="ndlpef" itemprop="name">Mark Williams</div>
-</a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./bonnie-wright-p3703"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1569912334/3703.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./bonnie-wright-p3703" itemprop="url">
-<div class="ndlpef" itemprop="name">Bonnie Wright</div>
-</a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./alfred-enoch-p3770"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1569816437/3770.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./alfred-enoch-p3770" itemprop="url">
-<div class="ndlpef" itemprop="name">Alfred Enoch</div>
-</a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./matthew-lewis-p3704"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1496836033/3704.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./matthew-lewis-p3704" itemprop="url">
-<div class="ndlpef" itemprop="name">Matthew Lewis</div>
-</a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./evanna-lynch-p3705"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/8/1569669759/3705.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./evanna-lynch-p3705" itemprop="url">
-<div class="ndlpef" itemprop="name">Evanna Lynch</div>
-</a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./chris-columbus-p97677"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/196/1569602079/97677.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./chris-columbus-p97677" itemprop="url">
-<div class="ndlpef" itemprop="name">Chris Columbus</div>
-</a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./ian-hart-p2485"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/5/1569646481/2485.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./ian-hart-p2485" itemprop="url">
-<div class="ndlpef" itemprop="name">Ian Hart</div>
-</a>
-<div class="acxenf">Self</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./jason-isaacs-p1258"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1569435436/1258.jpg);"></div></a>
-<div class="palidlp" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
-<a href="./jason-isaacs-p1258" itemprop="url">
-<div class="ndlpef" itemprop="name">Jason Isaacs</div>
-</a>
-<div class="acxenf">Self</div>
+<div class="acxenf">Mrs. Harrison</div>
 </div>
 </div>
 </div>
@@ -1045,28 +934,10 @@ Sin información
 <h5>Dirección</h5>
 <div class="ic_p ic_p8">
 <div class="cdlp r">
-<a href="./eran-creevy-p103928"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./gavin-j-konop-p1414457"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp" itemprop="director" itemscope="" itemtype="http://schema.org/Person">
-<a href="./eran-creevy-p103928" itemprop="url">
-<div class="ndlpef" itemprop="name">Eran Creevy</div>
-</a>
-<div class="acxenf">Director</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./giorgio-testi-p1417622"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp" itemprop="director" itemscope="" itemtype="http://schema.org/Person">
-<a href="./giorgio-testi-p1417622" itemprop="url">
-<div class="ndlpef" itemprop="name">Giorgio Testi</div>
-</a>
-<div class="acxenf">Director</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./joe-pearlman-p700744"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
-<div class="palidlp" itemprop="director" itemscope="" itemtype="http://schema.org/Person">
-<a href="./joe-pearlman-p700744" itemprop="url">
-<div class="ndlpef" itemprop="name">Joe Pearlman</div>
+<a href="./gavin-j-konop-p1414457" itemprop="url">
+<div class="ndlpef" itemprop="name">Gavin J. Konop</div>
 </a>
 <div class="acxenf">Director</div>
 </div>
@@ -1074,33 +945,56 @@ Sin información
 </div>
 </div>
 <div>
-<h5>Producción</h5>
-<div class="ic_p ic_p4">
+<h5>Escritura</h5>
+<div class="ic_p ic_p6">
 <div class="cdlp r">
-<a href="./warner-bros-p150377"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/301/1516647411/150377.jpg);"></div></a>
+<a href="./gavin-j-konop-p1414457"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp">
-<a href="./warner-bros-p150377">
-<div class="ndlpef">Warner Bros</div>
+<a href="./gavin-j-konop-p1414457">
+<div class="ndlpef">Gavin J. Konop</div>
 </a>
-<div class="acxenf">Compañía de Produccion</div>
-</div>
-</div>
-<div class="cdlp r">
-<a href="./hbo-max-p874850"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/1750/1635888595/874850.jpg);"></div></a>
-<div class="palidlp">
-<a href="./hbo-max-p874850">
-<div class="ndlpef">HBO Max</div>
-</a>
-<div class="acxenf">Compañía de Produccion</div>
+<div class="acxenf">Guión</div>
 </div>
 </div>
 <div class="cdlp r">
-<a href="./casey-patterson-p1086749"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<a href="./sean-thomas-reid-p1414451"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
 <div class="palidlp">
-<a href="./casey-patterson-p1086749">
-<div class="ndlpef">Casey Patterson</div>
+<a href="./sean-thomas-reid-p1414451">
+<div class="ndlpef">Sean Thomas Reid</div>
 </a>
-<div class="acxenf">Productor Ejecutivo</div>
+<div class="acxenf">Guión</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./warden-wayne-p1414450"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<div class="palidlp">
+<a href="./warden-wayne-p1414450">
+<div class="ndlpef">Warden Wayne</div>
+</a>
+<div class="acxenf">Guión</div>
+</div>
+</div>
+<div class="cdlp r">
+<a href="./stan-lee-p1036"><div class="img idlpef" style="background-image: url(https://playmax.xyz/img/p/100/3/1569388276/1036.jpg);"></div></a>
+<div class="palidlp">
+<a href="./stan-lee-p1036">
+<div class="ndlpef">Stan Lee</div>
+</a>
+<div class="acxenf">Personajes</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<h5>Cámara</h5>
+<div class="ic_p ic_p12">
+<div class="cdlp r">
+<a href="./tristan-lawrence-p1384915"><div class="img idlpef" style="background-image: url(https://playmax.xyz/images/personas/sinimagen.jpg);"></div></a>
+<div class="palidlp">
+<a href="./tristan-lawrence-p1384915">
+<div class="ndlpef">Tristan Lawrence</div>
+</a>
+<div class="acxenf">Director de Fotografía</div>
 </div>
 </div>
 </div>
@@ -1208,7 +1102,7 @@ Sin información
 
 			</script>
 <div class="pf_content">
-<div class="pf_cl"><span style="font-weight: 500;">PlayMax</span> 2021</div>
+<div class="pf_cl"><span style="font-weight: 500;">PlayMax</span> 2022</div>
 <div class="footerLists">
 <div class="footerList">
 <a href="./explorar.php?tipo%5B%5D=1">
@@ -1220,14 +1114,14 @@ Sin información
 <a href="./ojo-de-halcon-f94485">
 <div class="footerListItem">Ojo de Halcón</div>
 </a>
+<a href="./el-libro-de-boba-fett-f141178">
+<div class="footerListItem">El libro de Boba Fett</div>
+</a>
 <a href="./la-rueda-del-tiempo-f143476">
 <div class="footerListItem">La rueda del tiempo</div>
 </a>
-<a href="./emily-en-paris-f125053">
-<div class="footerListItem">Emily en París</div>
-</a>
-<a href="./el-libro-de-boba-fett-f141178">
-<div class="footerListItem">El libro de Boba Fett</div>
+ <a href="./la-casa-de-papel-f40613">
+<div class="footerListItem">La casa de papel</div>
 </a>
 </div>
 <div class="footerList">
@@ -1270,7 +1164,7 @@ Sin información
 <div class="footerListItem">Movistar+</div>
 </a>
 </div>
- <div class="footerList">
+<div class="footerList">
 <a href="./vod.php?mode=about_to_expire">
 <div class="footerListTitle">Contenido que expirara en VOD</div>
 </a>
