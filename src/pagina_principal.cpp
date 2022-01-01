@@ -59,7 +59,7 @@ int main(int argc, char **argv)
                 comando = "curl -s " + aux + " > tmp2";
 
                 system(comando.c_str());
-                comando = "./bin/series < tmp2 >> tmp3";
+                comando = "./bin/series < tmp2 >> salida";
 
                 system(comando.c_str());
             }
@@ -70,9 +70,9 @@ int main(int argc, char **argv)
         //una
         file.close();
     }
-    system("echo FIN >> tmp3");
+    system("echo FIN >> salida");
 
-    ConjuntoPeliculaSeries p("tmp3");
+    ConjuntoPeliculaSeries p("salida");
     cout << "****************************************\n\nSalida primero las series y luego las pelis: " << endl
          << endl;
 
@@ -140,7 +140,7 @@ int main(int argc, char **argv)
 
     cout << "****************************************\n\nNota media: " << p.getNotaMedia() << endl;
 
-    system("rm tmp tmp2 tmp3");
+    system("rm tmp tmp2");
 
     return 0;
 }
