@@ -1,6 +1,6 @@
 Numeros de paginas a mostrar: Numero de pagina a visualizar: ****************************************
 
-Salida sin ordenar: 
+Salida primero las series y luego las pelis: 
 
 Titulo: The Witcher
 Temporadas: 2
@@ -154,7 +154,7 @@ Pais: Estados Unidos
 ********************
 Titulo: Encanto
 Duracion: 1 hora y 39 minutos
-Nota: 8.4
+Nota: 8.3
 Pais: Estados Unidos
 ********************
 Titulo: Spider-Man: Lotus
@@ -292,13 +292,13 @@ Temporadas: 1
 Nota: 8.5
 Pais: Estados Unidos
 
-Titulo: Encanto
-Duracion: 1 hora y 39 minutos
-Nota: 8.4
-Pais: Estados Unidos
-
 Titulo: El libro de Boba Fett
 Temporadas: 1
+Nota: 8.3
+Pais: Estados Unidos
+
+Titulo: Encanto
+Duracion: 1 hora y 39 minutos
 Nota: 8.3
 Pais: Estados Unidos
 
@@ -458,7 +458,7 @@ Pais: España
 
 Titulo: Encanto
 Duracion: 1 hora y 39 minutos
-Nota: 8.4
+Nota: 8.3
 Pais: Estados Unidos
 
 Titulo: Venom: Habrá matanza
@@ -617,7 +617,7 @@ Pais: Estados Unidos
 
 Titulo: Encanto
 Duracion: 1 hora y 39 minutos
-Nota: 8.4
+Nota: 8.3
 Pais: Estados Unidos
 
 Titulo: Spider-Man: Lotus
@@ -751,7 +751,7 @@ Pais: Estados Unidos
 
 Titulo: Encanto
 Duracion: 1 hora y 39 minutos
-Nota: 8.4
+Nota: 8.3
 Pais: Estados Unidos
 
 Titulo: Harry Potter: El Torneo de las Casas de Hogwarts
@@ -1023,3 +1023,6 @@ Temporadas: 1
 Nota: 8
 Pais: Estados Unidos
 
+****************************************
+
+Nota media: 7.74405

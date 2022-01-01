@@ -1,7 +1,6 @@
-Numeros de paginas a mostrar: El numero debe ser positivo
 Numeros de paginas a mostrar: ****************************************
 
-Salida sin ordenar: 
+Salida primero las series y luego las pelis: 
 
 Titulo: The Witcher
 Temporadas: 2
@@ -217,6 +216,11 @@ Titulo: HIT
 Temporadas: 2
 Nota: 8.4
 Pais: España
+********************
+Titulo: New Amsterdam
+Temporadas: 4
+Nota: 8.9
+Pais: Estados Unidos
 ********************
 Titulo: Vikingos
 Temporadas: 6
@@ -445,7 +449,7 @@ Pais: Estados Unidos
 ********************
 Titulo: Encanto
 Duracion: 1 hora y 39 minutos
-Nota: 8.4
+Nota: 8.3
 Pais: Estados Unidos
 ********************
 Titulo: Spider-Man: Lotus
@@ -703,6 +707,11 @@ Temporadas: 4
 Nota: 8.9
 Pais: Estados Unidos
 
+Titulo: New Amsterdam
+Temporadas: 4
+Nota: 8.9
+Pais: Estados Unidos
+
 Titulo: Outlander
 Temporadas: 6
 Nota: 8.9
@@ -873,11 +882,6 @@ Temporadas: 3
 Nota: 8.4
 Pais: Estados Unidos
 
-Titulo: Encanto
-Duracion: 1 hora y 39 minutos
-Nota: 8.4
-Pais: Estados Unidos
-
 Titulo: Matrix
 Duracion: 2 horas y 11 minutos
 Nota: 8.4
@@ -892,6 +896,11 @@ Titulo: Celebrity Bake Off España
 Temporadas: 1
 Nota: 8.3
 Pais: España
+
+Titulo: Encanto
+Duracion: 1 hora y 39 minutos
+Nota: 8.3
+Pais: Estados Unidos
 
 Titulo: The King's Man: La primera misión
 Duracion: 2 horas y 11 minutos
@@ -1344,7 +1353,7 @@ Pais: España
 
 Titulo: Encanto
 Duracion: 1 hora y 39 minutos
-Nota: 8.4
+Nota: 8.3
 Pais: Estados Unidos
 
 Titulo: Venom: Habrá matanza
@@ -1626,6 +1635,11 @@ Temporadas: 7
 Nota: 7.6
 Pais: Estados Unidos
 
+Titulo: New Amsterdam
+Temporadas: 4
+Nota: 8.9
+Pais: Estados Unidos
+
 Titulo: Legacies
 Temporadas: 4
 Nota: 8.5
@@ -1768,7 +1782,7 @@ Pais: Estados Unidos
 
 Titulo: Encanto
 Duracion: 1 hora y 39 minutos
-Nota: 8.4
+Nota: 8.3
 Pais: Estados Unidos
 
 Titulo: Spider-Man: Lotus
@@ -2137,7 +2151,7 @@ Pais: Estados Unidos
 
 Titulo: Encanto
 Duracion: 1 hora y 39 minutos
-Nota: 8.4
+Nota: 8.3
 Pais: Estados Unidos
 
 Titulo: Estación Once
@@ -2312,6 +2326,11 @@ Pais: Estados Unidos
 
 Titulo: Modern Family
 Temporadas: 11
+Nota: 8.9
+Pais: Estados Unidos
+
+Titulo: New Amsterdam
+Temporadas: 4
 Nota: 8.9
 Pais: Estados Unidos
 
@@ -2754,6 +2773,11 @@ Temporadas: 4
 Nota: 8.9
 Pais: Estados Unidos
 
+Titulo: New Amsterdam
+Temporadas: 4
+Nota: 8.9
+Pais: Estados Unidos
+
 Titulo: Legacies
 Temporadas: 4
 Nota: 8.5
@@ -2999,3 +3023,6 @@ Temporadas: 1
 Nota: 9.1
 Pais: Estados Unidos
 
+****************************************
+
+Nota media: 7.89775

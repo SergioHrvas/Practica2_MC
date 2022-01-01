@@ -73,11 +73,9 @@ duracion "<span itemprop=\"duration\" datetime=\""{letrasdigitos}+"\">"{digitos}
     strcpy(aux, yytext);
 }
 
-
 {duracion} {
     getDuracion(yytext, duracion2);
 }
-
 
 {pais} {
     getPais(yytext, pais);

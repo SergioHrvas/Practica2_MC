@@ -141,6 +141,8 @@ int main(int argc, char **argv)
 
     aux.clear();
 
+    cout << "****************************************\n\nNota media: " << p.getNotaMedia() << endl;
+    
     system("rm tmp tmp2 tmp3");
 
     return 0;
