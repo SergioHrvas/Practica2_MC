@@ -59,12 +59,9 @@ int main(int argc, char **argv)
                 comando = "curl -s " + aux + " > tmp2";
 
                 system(comando.c_str());
-                //comando = "./bin/series < tmp2 | tee -a tmp3";
                 comando = "./bin/series < tmp2 >> tmp3";
 
                 system(comando.c_str());
-
-                //********************
             }
         }
 
@@ -142,7 +139,7 @@ int main(int argc, char **argv)
     aux.clear();
 
     cout << "****************************************\n\nNota media: " << p.getNotaMedia() << endl;
-    
+
     system("rm tmp tmp2 tmp3");
 
     return 0;

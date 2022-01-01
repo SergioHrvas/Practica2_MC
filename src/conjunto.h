@@ -87,8 +87,7 @@ public:
         TITULO,
         TEMPORADAS
     };
-    //const PeliculaSerie getPeliculaSerie(int i);
-
+    
     const PeliculaSerie &operator[](int i) const;
     PeliculaSerie &operator[](int i);
 

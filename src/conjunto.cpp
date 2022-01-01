@@ -228,9 +228,8 @@ ostream &operator<<(ostream &out, const ConjuntoPeliculaSeries &p)
         out << "********************" << endl;
     }
     out << "FIN" << endl;
-    //cout << "Nota Media Series: " << p.getNotaMediaSeries() <<endl << "Nota Media Peliculas: "<< p.getNotaMediaPeliculas() << endl << "Nota media: " << p.getNotaMedia();
 
-    //cout <<"size: " <<p.series.size()+p.peliculas.size()<<endl;
+
     return out;
 }
 
@@ -349,8 +348,6 @@ vector<PeliculaSerie> ConjuntoPeliculaSeries::ordenarPor(Ordena valor)
         {
             ordena.insert(pair<int, PeliculaSerie>((*it).getTemporadas(), (*it)));
         }
-
-        //v.insert(v.begin(), ordena.begin(), ordena.end());
 
         for (auto it = ordena.cbegin(); it != ordena.cend(); ++it)
             v.push_back(it->second);
