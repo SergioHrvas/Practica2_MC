@@ -39,6 +39,10 @@ void PeliculaSerie::setesPelicula(bool esPeli)
     esPelicula = esPeli;
 }
 
+void PeliculaSerie::setYear(int year){
+    this->year=year;
+}
+
 //geters
 string PeliculaSerie::getTitulo() const
 {
@@ -73,6 +77,10 @@ double PeliculaSerie::getNota() const
 bool PeliculaSerie::getesPelicula() const
 {
     return esPelicula;
+}
+
+int PeliculaSerie::getYear() const{
+    return year;
 }
 
 istream &operator>>(istream &in, PeliculaSerie &p)
@@ -161,6 +169,21 @@ istream &operator>>(istream &in, PeliculaSerie &p)
     aux.erase(0, tam);
     p.setPais(aux);
 
+    //extraemos año
+    texto = "Year: ";
+    tam = texto.size();
+
+    getline(in, aux);
+
+    if(aux[aux.size()-1]!=' '){
+        aux.erase(0, tam);
+
+        p.setYear(atoi(aux.c_str()));
+    }
+    else
+        p.setYear(0);
+
+
     return in;
 }
 
@@ -187,6 +210,7 @@ ostream &operator<<(ostream &out, const PeliculaSerie &p)
 
     out << "Nota: " << p.getNota() << endl;
     out << "Pais: " << p.getPais() << endl;
+    out << "Year: " << p.getYear() << endl;
 
     return out;
 }
@@ -347,6 +371,19 @@ vector<PeliculaSerie> ConjuntoPeliculaSeries::ordenarPor(Ordena valor)
         for (auto it = series.cbegin(); it != series.cend(); ++it)
         {
             ordena.insert(pair<int, PeliculaSerie>((*it).getTemporadas(), (*it)));
+        }
+
+        for (auto it = ordena.cbegin(); it != ordena.cend(); ++it)
+            v.push_back(it->second);
+
+        break;
+    }
+    case YEAR:
+    {
+        multimap<int, PeliculaSerie, greater<int>> ordena;
+        for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+        {
+            ordena.insert(pair<int, PeliculaSerie>((*it).getYear(), (*it)));
         }
 
         for (auto it = ordena.cbegin(); it != ordena.cend(); ++it)

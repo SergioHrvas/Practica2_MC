@@ -138,7 +138,17 @@ int main(int argc, char **argv)
 
     aux.clear();
 
-    cout << "****************************************\n\nNota media: " << p.getNotaMedia() << endl;
+    cout << "****************************************\n\nOrdenado por año: " << endl
+         << endl;
+
+    aux = p.ordenarPor(ConjuntoPeliculaSeries::YEAR);
+
+    for (auto it = aux.cbegin(); it != aux.cend(); ++it)
+    {
+        cout << *it << endl;
+    }
+
+    cout << "****************************************\n\nNota media: " << p.getNotaMedia() << endl;    
 
     system("rm tmp tmp2");
 

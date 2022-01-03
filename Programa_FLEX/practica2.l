@@ -8,6 +8,7 @@ int getTemporada(const char * texto);
 void getPais(const char * texto, char * pais);
 void getDuracion(const char * texto, char * duracion);
 void arreglarCadena(char * titulo);
+int getYear(const char *texto);
 
 float getNota(const char *v){
     float valor;
@@ -50,12 +51,13 @@ nota "<meta name=\"description\" content=\"Información, Trailers y Críticas | 
 
 duracion "<span itemprop=\"duration\" datetime=\""{letrasdigitos}+"\">"{digitos}+" hora"[s]{0,1}(" y "{digitos}+" minuto"[s]{0,1}){0,1}
 
+year "<span itemprop=\"datePublished\">"{digitos}{4}"</span></a></span>"
+
     char i[1000],a[1000], pais[1000], duracion2[1000];
     float puntuacion=0.0;
     int temporadas = 0;
     char aux[1000];
-
-
+    int year;
 %%
 
 {title} {
@@ -82,7 +84,9 @@ duracion "<span itemprop=\"duration\" datetime=\""{letrasdigitos}+"\">"{digitos}
 }
 
 
-
+{year} {
+    year=getYear(yytext);
+}
 
 
 %%
@@ -95,8 +99,8 @@ int yywrap()
         printf("Temporadas: %d\n", temporadas);
 
     printf("Nota: %.1f\n", puntuacion);
-    printf("Pais: %s\n********************\n", pais);
-
+    printf("Pais: %s\n", pais);
+    printf("Year: %d\n********************\n", year);
     return 1;
 
 }
@@ -226,5 +230,26 @@ void getDuracion(const char *texto, char * duracion){
             duracion[contador2]='\0';
         }
     }
+}
 
+int getYear(const char *texto){
+    int terminado=0;
+    char inicio='>';
+    char final='<';
+    int num_inicio = 0;
+    char aux[5];
+
+    for(int i=0; texto[i]!='\0' && terminado==0; i++){
+        if(texto[i]==inicio){
+            int contador=i+1;
+            int contador2=0;
+            do{
+                aux[contador2++]=texto[contador++];
+            }while(texto[contador]!=final);
+            terminado = 1;
+            aux[contador2]='\0';
+        }
+    }
+
+    return atoi(aux);
 }

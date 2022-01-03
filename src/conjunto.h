@@ -20,6 +20,7 @@ private:
     int temporadas = -1;
     int horas = -1, minutos = -1;
     double nota = -1;
+    int year = -1;
 
     bool esPelicula = false;
 
@@ -45,6 +46,7 @@ public:
     void setMinutos(int min);
     void setNota(double n);
     void setesPelicula(bool esPeli);
+    void setYear(int year);
 
     //geters
     string getTitulo() const;
@@ -54,6 +56,7 @@ public:
     int getMinutos() const;
     double getNota() const;
     bool getesPelicula() const;
+    int getYear() const;
 
     friend istream &operator>>(istream &in, PeliculaSerie &p);
     friend ostream &operator<<(ostream &out, const PeliculaSerie &p);
@@ -85,7 +88,8 @@ public:
         DURACION,
         PAIS,
         TITULO,
-        TEMPORADAS
+        TEMPORADAS,
+        YEAR
     };
     
     const PeliculaSerie &operator[](int i) const;
