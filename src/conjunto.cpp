@@ -296,7 +296,17 @@ double ConjuntoPeliculaSeries::getNotaMediaPeliculas() const
 
 double ConjuntoPeliculaSeries::getNotaMedia() const
 {
-    double media = (getNotaMediaPeliculas() + getNotaMediaSeries()) / 2;
+    double suma=0, media;
+    int contador=peliculas.size()+series.size();
+
+    for(auto it=peliculas.cbegin(); it!=peliculas.cend(); ++it)
+        suma+=it->getNota();
+
+    for(auto it=series.cbegin(); it!=series.cend(); ++it)
+        suma+=it->getNota();
+
+    media=suma/contador;
+
     return media;
 }
 
