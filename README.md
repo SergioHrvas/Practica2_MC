@@ -1,4 +1,4 @@
-# Practica2_MC
+# Practica2_MC UGR
 Practica 2 de la asignatura Modelos de Computación.
 
 # Compilación
